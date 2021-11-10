@@ -59,11 +59,12 @@ public class ProcesamientoImagenes {
         System.out.println("blue "+b);
     }
     
-    public static void setPixel(){
+    public static void setPixel(int x, int y, int color){
         int a = 255;
-        int r = 100;
-        int g = 150;
-        int b = 200;
+        int r = 0;
+        int g = 0;
+        int b = 0;
+
         //read image
         BufferedImage img = null;
         File f = null;

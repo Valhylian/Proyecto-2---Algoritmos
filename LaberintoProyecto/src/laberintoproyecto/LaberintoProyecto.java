@@ -1,5 +1,6 @@
 
 import java.io.IOException;
+import laberintoproyecto.Individuo;
 import laberintoproyecto.ProcesamientoImagenes;
 
 /*
@@ -19,10 +20,9 @@ public class LaberintoProyecto {
      */
     public static void main(String args[])throws IOException
     {
-        
-        
      ProcesamientoImagenes.getPixel(0,0);
-     ProcesamientoImagenes.setPixel();
+     ProcesamientoImagenes.setPixel(0,10,1);
+     //Individuo.generarPoblacion(20, 50, 50, 1);
     }
     
 }
