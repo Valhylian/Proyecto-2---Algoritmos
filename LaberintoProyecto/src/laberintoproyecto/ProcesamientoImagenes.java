@@ -27,7 +27,7 @@ public class ProcesamientoImagenes {
         {
             Path root = Paths.get(".").normalize().toAbsolutePath();
             String ruta = root.toString(); 
-            ruta = ruta + "\\src\\imagenes\\laberinto.jpg";
+            ruta = ruta + "\\src\\imagenes\\laberinto.png";
            
             f = new File(ruta);
             img = ImageIO.read(f);
@@ -61,8 +61,8 @@ public class ProcesamientoImagenes {
     
     public static void setPixel(int x, int y, int color){
         int a = 255;
-        int r = 0;
-        int g = 0;
+        int r = 255;
+        int g = 255;
         int b = 0;
 
         //read image
@@ -72,7 +72,7 @@ public class ProcesamientoImagenes {
         {
             Path root = Paths.get(".").normalize().toAbsolutePath();
             String ruta = root.toString(); 
-            ruta = ruta + "\\src\\imagenes\\laberinto.jpg";
+            ruta = ruta + "\\src\\imagenes\\laberinto.png";
            
             f = new File(ruta);
             img = ImageIO.read(f);
@@ -82,18 +82,21 @@ public class ProcesamientoImagenes {
             System.out.println(e);
         }
         //set the pixel value
-        int p = img.getRGB(0,0);
+        int p = img.getRGB(x,y);
         p = (a<<24) | (r<<16) | (g<<8) | b;
-        img.setRGB(0, 0, p);
+    
+        img.setRGB(x, y, p);
  
         //write image
         try
         {
             Path root = Paths.get(".").normalize().toAbsolutePath();
             String ruta = root.toString(); 
-            ruta = ruta + "\\src\\imagenes\\laberinto.jpg";
+            ruta = ruta + "\\src\\imagenes\\laberinto.png";
+          
             f = new File(ruta);
-            ImageIO.write(img, "jpg", f);
+            ImageIO.write(img, "png", f);
+            
         }
         catch(IOException e)
         {

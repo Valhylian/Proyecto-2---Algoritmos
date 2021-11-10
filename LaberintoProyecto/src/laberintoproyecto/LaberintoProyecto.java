@@ -18,11 +18,12 @@ public class LaberintoProyecto {
     /**
      * @param args the command line arguments
      */
+    
     public static void main(String args[])throws IOException
     {
      ProcesamientoImagenes.getPixel(0,0);
      ProcesamientoImagenes.setPixel(0,10,1);
-     //Individuo.generarPoblacion(20, 50, 50, 1);
+     Individuo.generarPoblacion(50, 100, 100, 1);
     }
     
 }
