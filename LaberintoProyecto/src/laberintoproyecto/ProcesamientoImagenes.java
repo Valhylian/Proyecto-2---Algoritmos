@@ -18,7 +18,8 @@ import javax.imageio.ImageIO;   //tiene métodos estáticos para leer y escribir
  * @author valeria
  */
 public class ProcesamientoImagenes {
-    public static void getPixel (int x, int y){
+    public static int getPixel (int x, int y, String imageName){
+        int color = 0;
         BufferedImage img = null;
         File f = null;
         
@@ -27,7 +28,7 @@ public class ProcesamientoImagenes {
         {
             Path root = Paths.get(".").normalize().toAbsolutePath();
             String ruta = root.toString(); 
-            ruta = ruta + "\\src\\imagenes\\laberinto.png";
+            ruta = ruta + "\\src\\imagenes\\"+imageName+".png";
            
             f = new File(ruta);
             img = ImageIO.read(f);
@@ -57,9 +58,22 @@ public class ProcesamientoImagenes {
         System.out.println("red "+r);
         System.out.println("green "+g);
         System.out.println("blue "+b);
+        if (r==0 && g==0 && b==0){
+            color = 1;
+        }
+       
+        else if (r==255 && g==255 && b==255){
+            color = 0;
+        }
+        
+        else{
+            color = 2;
+        }
+        
+        return color;
     }
     
-    public static void setPixel(int x, int y, int color){
+    public static void setPixel(int x, int y, int color, String imageName, String generacion){
         int a = 255;
         int r = 255;
         int g = 255;
@@ -72,7 +86,7 @@ public class ProcesamientoImagenes {
         {
             Path root = Paths.get(".").normalize().toAbsolutePath();
             String ruta = root.toString(); 
-            ruta = ruta + "\\src\\imagenes\\laberinto.png";
+            ruta = ruta + "\\src\\imagenes\\"+imageName+".png";
            
             f = new File(ruta);
             img = ImageIO.read(f);
@@ -86,13 +100,13 @@ public class ProcesamientoImagenes {
         p = (a<<24) | (r<<16) | (g<<8) | b;
     
         img.setRGB(x, y, p);
- 
+        System.out.println("entra "+x+" "+y);
         //write image
         try
         {
             Path root = Paths.get(".").normalize().toAbsolutePath();
             String ruta = root.toString(); 
-            ruta = ruta + "\\src\\imagenes\\laberinto.png";
+            ruta = ruta + "\\src\\imagenes\\"+generacion+".png";
           
             f = new File(ruta);
             ImageIO.write(img, "png", f);
