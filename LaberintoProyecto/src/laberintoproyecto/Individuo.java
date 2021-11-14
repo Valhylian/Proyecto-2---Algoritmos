@@ -27,6 +27,7 @@ public class Individuo {
         this.y = y;
         this.descripcion = descp;
         this.generacion = generacion;
+        this.sumaPuntos = 1;
     }
     
     //ASIGNA PUNTOS POR EL COLOR DONDE CAEN
@@ -48,23 +49,27 @@ public class Individuo {
     }
     
     public void actSumaPuntos(){
-        this.sumaPuntos = this.puntosColor+this.puntosCercanos+this.puntosUbicacion;
+        this.sumaPuntos += this.puntosColor+this.puntosCercanos+this.puntosUbicacion;
     }
     //CALCULA LOS PUNTOS DE FITNESS DE UN INDIVIDUO
     public static void actualizarFitness(int generation){
         ArrayList <Individuo> gen = LaberintoProyecto.generaciones.get(generation);
         
-        int totalIndividuos = gen.size();
+        
+        for (int j=0; j<gen.size(); j++){
+            Individuo ind = gen.get(j);
+            ind.sumaPuntos += ind.puntosColor+ind.puntosCercanos+ind.puntosUbicacion;
+        }  
+        
         int puntosGeneracion = LaberintoProyecto.sumaPuntosGeneracion(generation);
+        System.out.println("Puntos generacion "+generation +": "+puntosGeneracion);
         
         for (int i=0; i<gen.size(); i++){
-            
             Individuo ind = gen.get(i);
-            ind.sumaPuntos = ind.puntosColor+ind.puntosCercanos+ind.puntosUbicacion;
             ind.puntosFitness = ((double)ind.sumaPuntos) / ((double)puntosGeneracion);
-            
-           
+          
         }   
+        
     }
     
     //GENERA PRIMERA GENERACION DE INDIVIDUOS
@@ -111,4 +116,8 @@ public class Individuo {
         info += "Puntos: "+this.puntosFitness+"\n";
         return info;
     }
+    
+    
+    
 }
+
