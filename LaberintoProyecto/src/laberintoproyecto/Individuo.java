@@ -1,16 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package laberintoproyecto;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author valeria
- */
 public class Individuo {
     int x;
     int y;
@@ -30,7 +21,7 @@ public class Individuo {
         this.sumaPuntos = 1;
     }
     
-    //ASIGNA PUNTOS POR EL COLOR DONDE CAEN
+    //ASIGNA PUNTOS POR EL COLOR DONDE CAEN-------------------------------------
     public void asignarPuntosColor (int color, int generacion){
         //0=blanco
         if (color == 0){
@@ -40,70 +31,93 @@ public class Individuo {
         else if (color == 1){
             this.puntosColor = 0;
         }
-        //2 = rojo o azul 
+        //2 = rojo o azul (inicio - final)
         else if (color == 2 ){
             this.puntosColor = 3;
         }
-
-        
     }
     
-    public void actSumaPuntos(){
-        this.sumaPuntos += this.puntosColor+this.puntosCercanos+this.puntosUbicacion;
+    public void puntosUbicacion (){
+        int ancho = LaberintoProyecto.width;
+        int largo = LaberintoProyecto.height;
+        
+        //arriba
+        for (int i=1; i<4; i++){
+            if (x-i > 0){
+                
+            }
+        }
     }
-    //CALCULA LOS PUNTOS DE FITNESS DE UN INDIVIDUO
+    
+    //ACTUALIZA LA SUMA DE PUNTOS-----------------------------------------------
+    public void actSumaPuntos(){
+        this.sumaPuntos = this.puntosColor + this.puntosCercanos + this.puntosUbicacion +1;
+    }
+    
+    
+    //CALCULA LOS PUNTOS DE FITNESS DE UN INDIVIDUO-----------------------------
     public static void actualizarFitness(int generation){
+        //lista de individuos de la generacion
         ArrayList <Individuo> gen = LaberintoProyecto.generaciones.get(generation);
-        
-        
+        //actualiza la suma de puntos
         for (int j=0; j<gen.size(); j++){
             Individuo ind = gen.get(j);
-            ind.sumaPuntos += ind.puntosColor+ind.puntosCercanos+ind.puntosUbicacion;
+            ind.actSumaPuntos();
         }  
-        
+        //suma de puntos de toda la generacion
         int puntosGeneracion = LaberintoProyecto.sumaPuntosGeneracion(generation);
-        System.out.println("Puntos generacion "+generation +": "+puntosGeneracion);
-        
+        //asigna la nota fitness a cada individuo
         for (int i=0; i<gen.size(); i++){
             Individuo ind = gen.get(i);
             ind.puntosFitness = ((double)ind.sumaPuntos) / ((double)puntosGeneracion);
-          
         }   
-        
     }
-    
-    //GENERA PRIMERA GENERACION DE INDIVIDUOS
+
+    //GENERA PRIMERA GENERACION DE INDIVIDUOS------------------------------------
     public static ArrayList<Individuo> generarPrimeraPoblacion (int cant, int largeX, int largeY){
         ArrayList<Individuo> poblacion = new ArrayList<Individuo>();
-       
-        //primerIndividuo
+        
+        //PRIMER INDIVIDUOs
+        //genera posicion
         int x = (int)(Math.random()*largeX);
         int y = (int)(Math.random()*largeY);
-            
+        //crea indivuo
         Individuo ind = new Individuo (x,y,"Generado aleatoriamente en la primera generacion",0);
+        //puntos por color
         int color = ProcesamientoImagenes.getPixel(x,y,"Laberinto");
         ind.asignarPuntosColor(color,0);
-        ind.actSumaPuntos();
-        poblacion.add(ind);
+        //puntos por ubicacion
+        //--FALTAAAA--------------------
+        //puntos por cercania
+        //--FALTAAAA pero no va a servir aqui
         
+        ind.actSumaPuntos(); //actualiza la suma total
+        poblacion.add(ind);  //se agrega a la poblacion
+        
+        //agrega pixel a la imagen
         ProcesamientoImagenes.setPixel(x,y,1,"laberinto","PrimeraGeneracion");
             
         //resto de individuos
         for (int i=1; i<cant; i++){
+            //genera posicion
             x = (int)(Math.random()*largeX);
             y = (int)(Math.random()*largeY);
             
             ind = new Individuo (x,y,"Generado aleatoriamente en la primera generacion",0);
+            //puntos por color
             color = ProcesamientoImagenes.getPixel(x,y,"Laberinto");
             ind.asignarPuntosColor(color,0);
-            ind.actSumaPuntos();
-            poblacion.add(ind);
+            //puntos por ubicacion
+            //--FALTAAAA--------------------
+            //puntos por cercania
+            //--FALTAAAA--------------------
+        
+            ind.actSumaPuntos(); //actualiza la suma total
+            poblacion.add(ind);  //se agrega a la poblacion
             
-            ProcesamientoImagenes.setPixel(x,y,1,"PrimeraGeneracion","PrimeraGeneracion");
-            
+            //agrega pixel a la imagen
+            ProcesamientoImagenes.setPixel(x,y,1,"PrimeraGeneracion","PrimeraGeneracion");   
         }
-        
-        
         return poblacion;
     }
     

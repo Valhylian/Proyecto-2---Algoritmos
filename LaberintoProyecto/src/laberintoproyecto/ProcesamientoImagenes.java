@@ -1,10 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-
 package laberintoproyecto;
 import java.io.File;        //Para leer y escribir un archivo de imagen
 import java.io.IOException; //Para manejar errores
@@ -13,11 +6,9 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import javax.imageio.ImageIO;   //tiene métodos estáticos para leer y escribir una imagen.
 
-/**
- *
- * @author valeria
- */
+
 public class ProcesamientoImagenes {
+    
     public static int getPixel (int x, int y, String imageName){
         int color = 0;
         BufferedImage img = null;
