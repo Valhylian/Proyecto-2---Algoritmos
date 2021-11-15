@@ -49,14 +49,16 @@ public class ProcesamientoImagenes {
         System.out.println("red "+r);
         System.out.println("green "+g);
         System.out.println("blue "+b);
+        
+        //negro
         if (r==0 && g==0 && b==0){
             color = 1;
         }
-       
+        //blanco
         else if (r==255 && g==255 && b==255){
             color = 0;
         }
-        
+        //otros (inicio-fin)
         else{
             color = 2;
         }

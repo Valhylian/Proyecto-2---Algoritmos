@@ -101,6 +101,7 @@ public class LaberintoProyecto {
         return puntos;
     }
     
+
     public static void main(String args[])throws IOException
     {
         Path root = Paths.get(".").normalize().toAbsolutePath(); 
@@ -110,9 +111,11 @@ public class LaberintoProyecto {
         width   = imgenReferencia.getWidth();
         height  = imgenReferencia.getHeight();
        
-        generaciones.add(Individuo.generarPrimeraPoblacion(200, 100, 100));
+        generaciones.add(Individuo.generarPrimeraPoblacion(20, 100, 100));
+        Individuo.actPuntosCercanosGeneracion(0);
         Individuo.actualizarFitness(0);
         System.out.println(imprimirPoblaciones());
+        System.out.println(sumaPuntosGeneracion(0));
         
         seleccion(0);
         ArrayList <Individuo> selected = seleccion (0);

@@ -41,21 +41,99 @@ public class Individuo {
         int ancho = LaberintoProyecto.width;
         int largo = LaberintoProyecto.height;
         
-        //arriba
-        for (int i=1; i<4; i++){
-            if (x-i > 0){
-                
+        //arriba----------------------------------------------
+        for (int i=1; i<6; i++){
+            if (y-i > 0){
+                int color = ProcesamientoImagenes.getPixel (x, y-i, "laberinto");
+                //blanco
+                if (color == 0){
+                    this.puntosUbicacion += 2;
+                    break;
+                }
+                if (color == 2){
+                    this.puntosUbicacion += 3;
+                    break;
+                }
             }
         }
+        //abajo---------------------------------------------
+        for (int i=1; i<6; i++){
+            if (y+i < largo){
+                int color = ProcesamientoImagenes.getPixel (x, y+i, "laberinto");
+                //blanco
+                if (color == 0){
+                    this.puntosUbicacion += 2;
+                    break;
+                }
+                if (color == 2){
+                    this.puntosUbicacion += 3;
+                    break;
+                }
+            }
+        }
+        
+        //izquierda---------------------------------------------
+        for (int i=1; i<6; i++){
+            if (x-i > 0){
+                int color = ProcesamientoImagenes.getPixel (x-i, y, "laberinto");
+                //blanco
+                if (color == 0){
+                    this.puntosUbicacion += 2;
+                    break;
+                }
+                if (color == 2){
+                    this.puntosUbicacion += 3;
+                    break;
+                }
+            }
+        }
+        //derecha---------------------------------------------
+        for (int i=1; i<6; i++){
+            if (x+i < ancho){
+                int color = ProcesamientoImagenes.getPixel (x+i, y, "laberinto");
+                //blanco
+                if (color == 0){
+                    this.puntosUbicacion += 2;
+                    break;
+                }
+                if (color == 2){
+                    this.puntosUbicacion += 3;
+                    break;
+                }
+            }
+        }
+        actSumaPuntos();
     }
     
     //ACTUALIZA LA SUMA DE PUNTOS-----------------------------------------------
     public void actSumaPuntos(){
         this.sumaPuntos = this.puntosColor + this.puntosCercanos + this.puntosUbicacion +1;
     }
+    public void asignarPuntosCercanos(){
+        int generation = this.generacion;
+        ArrayList <Individuo> gen = LaberintoProyecto.generaciones.get(generation);
+        for (int i=0; i<gen.size(); i++){
+            Individuo ind = gen.get(i);
+            double dist = Math.hypot(this.x- ind.x, this.y - ind.y);
+            if ((ind.sumaPuntos >= 10 && dist <= 5) && dist!=0){
+                //gana un 10% de los puntos del vecino
+                this.puntosCercanos += (int)(ind.sumaPuntos * 0.10);
+                System.out.println("this: x: "+this.x + " y: "+this.y);
+                System.out.println("entra: "+i);
+            }
+        }
+    }
     
+    public static void actPuntosCercanosGeneracion(int generation){
+        ArrayList <Individuo> gen = LaberintoProyecto.generaciones.get(generation);
+        for (int i=0; i<gen.size(); i++){
+            Individuo ind = gen.get(i);
+            ind.asignarPuntosCercanos();
+        }
+    }
+  
     
-    //CALCULA LOS PUNTOS DE FITNESS DE UN INDIVIDUO-----------------------------
+    //CALCULA LOS PUNTOS DE FITNESS DE GENERACION-----------------------------
     public static void actualizarFitness(int generation){
         //lista de individuos de la generacion
         ArrayList <Individuo> gen = LaberintoProyecto.generaciones.get(generation);
@@ -87,7 +165,7 @@ public class Individuo {
         int color = ProcesamientoImagenes.getPixel(x,y,"Laberinto");
         ind.asignarPuntosColor(color,0);
         //puntos por ubicacion
-        //--FALTAAAA--------------------
+        ind.puntosUbicacion ();
         //puntos por cercania
         //--FALTAAAA pero no va a servir aqui
         
@@ -108,7 +186,7 @@ public class Individuo {
             color = ProcesamientoImagenes.getPixel(x,y,"Laberinto");
             ind.asignarPuntosColor(color,0);
             //puntos por ubicacion
-            //--FALTAAAA--------------------
+            ind.puntosUbicacion ();
             //puntos por cercania
             //--FALTAAAA--------------------
         
