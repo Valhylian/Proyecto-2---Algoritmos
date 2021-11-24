@@ -93,17 +93,11 @@ public class LaberintoProyecto {
             Individuo primero = seleccionados.get(n1);
             Individuo segundo = seleccionados.get(n2);
             
-            
-            //nuevo1
             Individuo nuevo1 = new Individuo(primero.x, segundo.y, "Cruce de seleccionados Generacion: "+generation,1);
-            if (!poblacion.contains(nuevo1)){
-                //si no se ha seleccionado antes se agrega
-                nuevo1.asignarPuntosColor(ProcesamientoImagenes.getPixel(primero.x,segundo.y,"Laberinto"));
-                nuevo1.calcularPuntosUbicacion ();
-                nuevo1.actSumaPuntos(); //actualiza la suma total
-                poblacion.add(nuevo1);  //se agrega a la poblacion
-            }
-            
+            nuevo1.asignarPuntosColor(ProcesamientoImagenes.getPixel(primero.x,segundo.y,"Laberinto"));
+            nuevo1.calcularPuntosUbicacion ();
+            nuevo1.actSumaPuntos(); //actualiza la suma total
+            poblacion.add(nuevo1);  //se agrega a la poblacion
             
             if(i == 0){
                 ProcesamientoImagenes.setPixel(primero.x,segundo.y,2,"laberinto","Cruce generacion "+generation);
@@ -272,6 +266,7 @@ public class LaberintoProyecto {
             String name = "Generacion"+i;
             //SELECCION
             selected.add(seleccion (i,200));
+            System.out.println("cantSelect " + selected.get(i).size());
             generarImagenSeleccionados(i, name);
             //CRUCE
             generaciones.add(Cruce (i));
