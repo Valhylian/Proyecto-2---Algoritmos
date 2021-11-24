@@ -218,9 +218,9 @@ public class Individuo implements Comparable <Individuo>{
         if (i.getPuntos() < sumaPuntos){
             return -1;
         }else if (i.getPuntos() > sumaPuntos){
-            return 0;
-        }else{
             return 1;
+        }else{
+            return 0;
         }
     }
 }

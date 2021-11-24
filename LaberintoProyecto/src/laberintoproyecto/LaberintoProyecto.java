@@ -30,7 +30,7 @@ public class LaberintoProyecto {
         }
         return seleccionados;
     }
-    public static ArrayList <Individuo> seleccion(int generacion){
+    public static ArrayList <Individuo> seleccion(int generacion, int limite){
         //generacion de individuos
         ArrayList <Individuo> datos = generaciones.get(generacion);
         //probabilidades de cada indivuo (fitness)
@@ -53,15 +53,18 @@ public class LaberintoProyecto {
         }
         acumuladas.set(acumuladas.size()-1, 1.0);
         //Retorna arreglo de los individuos seleccionados
-        return seleccionador(acumuladas,datos);
+        return seleccionador(acumuladas,datos,limite);
     }
     
     //SELECCIONADOR DE INDIVIDUOS-----------------------------------------------
-    public static ArrayList <Individuo> seleccionador (ArrayList <Double> probabilidades, ArrayList <Individuo> individuos){
+    public static ArrayList <Individuo> seleccionador (ArrayList <Double> probabilidades, ArrayList <Individuo> individuos, int limite){
         int cantGenerar = individuos.size();
+        if (cantGenerar > limite){
+            cantGenerar = limite;
+        }
         ArrayList <Individuo> seleccionados =seleccionarMejores(individuos);
         
-        while (cantGenerar > 0){
+        while (cantGenerar > 0 ){
             Double number = Math.random();//GENERA RANDOM ENTRE 0-1
             //Se selecciona el individuo 
             Individuo seleccionado = individuos.get(retornaIndividuoPosicion (number, probabilidades));
@@ -87,9 +90,6 @@ public class LaberintoProyecto {
             while (n1 == n2){
                 n2 = (int)(Math.random()*seleccionados.size());
             }
-            System.out.println(n1);
-            System.out.println(n2);
-            
             Individuo primero = seleccionados.get(n1);
             Individuo segundo = seleccionados.get(n2);
             
@@ -237,29 +237,53 @@ public class LaberintoProyecto {
         width   = imgenReferencia.getWidth();
         height  = imgenReferencia.getHeight();
        
-        //1-GENERA LA PRIMERA GENERACION
+        //1-GENERA LA PRIMERA GENERACION--------------------------------------------
         //1.1 genera individuos aleatorios y asigna puntosxUbicacion
-        generaciones.add(Individuo.generarPrimeraPoblacion(20, 100, 100));
+        generaciones.add(Individuo.generarPrimeraPoblacion(100, 100, 100));
         //1.3 puntos x indivuos cercanos
         Individuo.actPuntosCercanosGeneracion(0);
         //1.4 actualizar fitness
         Individuo.actualizarFitness(0);
-        
-        System.out.println(sumaPuntosGeneracion(0));
-        
-        selected.add(seleccion (0));
+        //SELECCION
+        selected.add(seleccion (0,1000));
         generarImagenSeleccionados(0, "SeleccionadosPrimeraGeneracion");
         System.out.println("cantSelect " + selected.get(0).size());
+        //CRUCE
+        generaciones.add(Cruce (0));
+        System.out.println("cantCruce " + generaciones.get(1).size()); //aqui se genera la imagen
+        //1.3 puntos x indivuos cercanos
+        Individuo.actPuntosCercanosGeneracion(1);
+        //1.4 actualizar fitness
+        Individuo.actualizarFitness(1);
         
-       generaciones.add(Cruce (0));
-       System.out.println("cantCruce " + generaciones.get(1).size());
-       //generarImagenGeneracion (1, "CrucePrimeraGeneracion");
+        //SEGUNDA GENERACION----------------------------------------------------
+        //SELECCION
+        selected.add(seleccion (1,100));
+        generarImagenSeleccionados(1, "SegundaGeneracion");
+        //CRUCE
+        generaciones.add(Cruce (1));
+        System.out.println("cantCruce " + generaciones.get(2).size()); //aqui se genera la imagen
+        //1.3 puntos x indivuos cercanos
+        Individuo.actPuntosCercanosGeneracion(2);
+        //1.4 actualizar fitness
+        Individuo.actualizarFitness(2);
         
-       // 
+        //TERCERA GENERACION----------------------------------------------------
+        //SELECCION
+        selected.add(seleccion (2,100));
+        generarImagenSeleccionados(2, "TerceraGeneracion");
+        //CRUCE
+        generaciones.add(Cruce (2));
+        System.out.println("cantCruce " + generaciones.get(3).size()); //aqui se genera la imagen
+        //1.3 puntos x indivuos cercanos
+        Individuo.actPuntosCercanosGeneracion(3);
+        //1.4 actualizar fitness
+        Individuo.actualizarFitness(3);
         
-        
-        System.out.println(imprimirPoblaciones());
-        System.out.println(imprimirSelecionados());
+        //CUARTA GENERACION----------------------------------------------------
+        //SELECCION
+        selected.add(seleccion (3,100));
+        generarImagenSeleccionados(3, "CuartaGeneracion");
     }
 
     
