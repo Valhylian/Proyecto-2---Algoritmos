@@ -93,11 +93,17 @@ public class LaberintoProyecto {
             Individuo primero = seleccionados.get(n1);
             Individuo segundo = seleccionados.get(n2);
             
+            
+            //nuevo1
             Individuo nuevo1 = new Individuo(primero.x, segundo.y, "Cruce de seleccionados Generacion: "+generation,1);
-            nuevo1.asignarPuntosColor(ProcesamientoImagenes.getPixel(primero.x,segundo.y,"Laberinto"));
-            nuevo1.calcularPuntosUbicacion ();
-            nuevo1.actSumaPuntos(); //actualiza la suma total
-            poblacion.add(nuevo1);  //se agrega a la poblacion
+            if (!poblacion.contains(nuevo1)){
+                //si no se ha seleccionado antes se agrega
+                nuevo1.asignarPuntosColor(ProcesamientoImagenes.getPixel(primero.x,segundo.y,"Laberinto"));
+                nuevo1.calcularPuntosUbicacion ();
+                nuevo1.actSumaPuntos(); //actualiza la suma total
+                poblacion.add(nuevo1);  //se agrega a la poblacion
+            }
+            
             
             if(i == 0){
                 ProcesamientoImagenes.setPixel(primero.x,segundo.y,2,"laberinto","Cruce generacion "+generation);
@@ -225,7 +231,12 @@ public class LaberintoProyecto {
             }
         }
     }
-    
+    //MUTACION
+    //indice de mutacion = 0.05 = 5%
+    public static void mutacion (ArrayList <Individuo> arreglo){
+        
+        
+    }
     
 
     public static void main(String args[])throws IOException
@@ -256,9 +267,24 @@ public class LaberintoProyecto {
         //1.4 actualizar fitness
         Individuo.actualizarFitness(1);
         
+        //CICLO GENERACIONES 
+        for (int i=1; i<6; i++){
+            String name = "Generacion"+i;
+            //SELECCION
+            selected.add(seleccion (i,200));
+            generarImagenSeleccionados(i, name);
+            //CRUCE
+            generaciones.add(Cruce (i));
+            System.out.println("cantCruce " + generaciones.get(i+1).size()); //aqui se genera la imagen
+            //1.3 puntos x indivuos cercanos
+            Individuo.actPuntosCercanosGeneracion(i+1);
+            //1.4 actualizar fitness
+            Individuo.actualizarFitness(i+1);
+        }
+        /*
         //SEGUNDA GENERACION----------------------------------------------------
         //SELECCION
-        selected.add(seleccion (1,100));
+        selected.add(seleccion (1,200));
         generarImagenSeleccionados(1, "SegundaGeneracion");
         //CRUCE
         generaciones.add(Cruce (1));
@@ -270,7 +296,7 @@ public class LaberintoProyecto {
         
         //TERCERA GENERACION----------------------------------------------------
         //SELECCION
-        selected.add(seleccion (2,100));
+        selected.add(seleccion (2,200));
         generarImagenSeleccionados(2, "TerceraGeneracion");
         //CRUCE
         generaciones.add(Cruce (2));
@@ -282,9 +308,35 @@ public class LaberintoProyecto {
         
         //CUARTA GENERACION----------------------------------------------------
         //SELECCION
-        selected.add(seleccion (3,100));
+        selected.add(seleccion (3,200));
         generarImagenSeleccionados(3, "CuartaGeneracion");
+        //CRUCE
+        generaciones.add(Cruce (3));
+        System.out.println("cantCruce " + generaciones.get(4).size()); //aqui se genera la imagen
+        //1.3 puntos x indivuos cercanos
+        Individuo.actPuntosCercanosGeneracion(4);
+        //1.4 actualizar fitness
+        Individuo.actualizarFitness(4);
+        
+        //QUINTA GENERACION----------------------------------------------------
+        //SELECCION
+        selected.add(seleccion (4,200));
+        generarImagenSeleccionados(4, "QuintaGeneracion");
+        //CRUCE
+        generaciones.add(Cruce (4));
+        System.out.println("cantCruce " + generaciones.get(4).size()); //aqui se genera la imagen
+        //1.3 puntos x indivuos cercanos
+        Individuo.actPuntosCercanosGeneracion(5);
+        //1.4 actualizar fitness
+        Individuo.actualizarFitness(5);
+        
+        //SEXTA GENERACION----------------------------------------------------
+        //SELECCION
+        selected.add(seleccion (5,200));
+        generarImagenSeleccionados(5, "SextaGeneracion");*/
     }
+    
+    
 
     
 }

@@ -119,8 +119,9 @@ public class Individuo implements Comparable <Individuo>{
             if ((ind.sumaPuntos >= 10 && dist <= 5) && dist!=0){
                 //gana un 10% de los puntos del vecino
                 this.puntosCercanos += (int)(ind.sumaPuntos * 0.10);
+                /*
                 System.out.println("this: x: "+this.x + " y: "+this.y);
-                System.out.println("entra: "+i);
+                System.out.println("entra: "+i);*/
             }
         }
     }
@@ -172,7 +173,7 @@ public class Individuo implements Comparable <Individuo>{
         poblacion.add(ind);  //se agrega a la poblacion
         
         //agrega pixel a la imagen
-        ProcesamientoImagenes.setPixel(x,y,1,"laberinto","PrimeraGeneracion");
+        ProcesamientoImagenes.setPixel(x,y,1,"laberinto","Generacion0");
             
         //resto de individuos
         for (int i=1; i<cant; i++){
@@ -193,7 +194,7 @@ public class Individuo implements Comparable <Individuo>{
             poblacion.add(ind);  //se agrega a la poblacion
             
             //agrega pixel a la imagen
-            ProcesamientoImagenes.setPixel(x,y,1,"PrimeraGeneracion","PrimeraGeneracion");   
+            ProcesamientoImagenes.setPixel(x,y,1,"Generacion0","Generacion0");   
         }
         return poblacion;
     }
