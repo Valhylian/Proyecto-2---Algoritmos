@@ -5,18 +5,31 @@ import java.io.IOException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Collections;
 import javax.imageio.ImageIO;
 
 public class LaberintoProyecto {
     //arreglo que almacena las generaciones
     public static ArrayList <ArrayList <Individuo> > generaciones= new ArrayList <ArrayList <Individuo> > ();
-   
+    //almacena los seleccionadosxGeneracion
+   public static ArrayList <ArrayList <Individuo> > selected= new ArrayList <ArrayList <Individuo> > ();
    //imagen inicial 
     public static BufferedImage imgenReferencia = null;
     public static int width   = 0;
     public static int height  = 0;
     
     //SELECCION--------------------------------------------------------------------
+    
+    public static ArrayList <Individuo>  seleccionarMejores(ArrayList <Individuo> individuos){
+        ArrayList <Individuo> seleccionados = new ArrayList <Individuo> ();
+        Collections.sort(individuos);
+
+        int total = individuos.size() / 2;
+        for (int i=0; i<total; i++){
+            seleccionados.add(individuos.get(i));
+        }
+        return seleccionados;
+    }
     public static ArrayList <Individuo> seleccion(int generacion){
         //generacion de individuos
         ArrayList <Individuo> datos = generaciones.get(generacion);
@@ -46,7 +59,7 @@ public class LaberintoProyecto {
     //SELECCIONADOR DE INDIVIDUOS-----------------------------------------------
     public static ArrayList <Individuo> seleccionador (ArrayList <Double> probabilidades, ArrayList <Individuo> individuos){
         int cantGenerar = individuos.size();
-        ArrayList <Individuo> seleccionados = new ArrayList <Individuo> ();
+        ArrayList <Individuo> seleccionados =seleccionarMejores(individuos);
         
         while (cantGenerar > 0){
             Double number = Math.random();//GENERA RANDOM ENTRE 0-1
@@ -60,8 +73,62 @@ public class LaberintoProyecto {
         }
         //retorna array de los individuos seleccionados
         return seleccionados;
+        
     }
     
+    //CRUCE--------------------------------------------------------------------------
+    public static ArrayList <Individuo>  Cruce (int generation){
+        ArrayList <Individuo> seleccionados = selected.get(generation);
+        ArrayList<Individuo> poblacion = new ArrayList<Individuo>();
+        
+        for (int i=0; i<seleccionados.size();i++){
+            int n1 = (int)(Math.random()*seleccionados.size());
+            int n2 = (int)(Math.random()*seleccionados.size());
+            while (n1 == n2){
+                n2 = (int)(Math.random()*seleccionados.size());
+            }
+            System.out.println(n1);
+            System.out.println(n2);
+            
+            Individuo primero = seleccionados.get(n1);
+            Individuo segundo = seleccionados.get(n2);
+            
+            Individuo nuevo1 = new Individuo(primero.x, segundo.y, "Cruce de seleccionados Generacion: "+generation,1);
+            nuevo1.asignarPuntosColor(ProcesamientoImagenes.getPixel(primero.x,segundo.y,"Laberinto"));
+            nuevo1.calcularPuntosUbicacion ();
+            nuevo1.actSumaPuntos(); //actualiza la suma total
+            poblacion.add(nuevo1);  //se agrega a la poblacion
+            
+            if(i == 0){
+                ProcesamientoImagenes.setPixel(primero.x,segundo.y,2,"laberinto","Cruce generacion "+generation);
+            }
+            else{
+                ProcesamientoImagenes.setPixel(primero.x,segundo.y,2,"Cruce generacion "+generation,"Cruce generacion "+generation);
+            }
+            
+            Individuo nuevo2 = new Individuo(segundo.x, primero.y, "Cruce de seleccionados Generacion: "+generation,1);
+            nuevo2.asignarPuntosColor(ProcesamientoImagenes.getPixel(segundo.x,primero.y,"Laberinto"));
+            nuevo2.calcularPuntosUbicacion ();
+            nuevo2.actSumaPuntos(); //actualiza la suma total
+            poblacion.add(nuevo2);  //se agrega a la poblacion
+            ProcesamientoImagenes.setPixel(segundo.x,primero.y,2,"Cruce generacion "+generation,"Cruce generacion "+generation);
+            
+            Individuo old1 = new Individuo(primero.x, primero.y, "Seleccionado generacion: "+generation,1);
+            old1.asignarPuntosColor(ProcesamientoImagenes.getPixel(primero.x,primero.y,"Laberinto"));
+            old1.calcularPuntosUbicacion ();
+            old1.actSumaPuntos(); //actualiza la suma total
+            poblacion.add(old1);  //se agrega a la poblacion
+            ProcesamientoImagenes.setPixel(primero.x,primero.y,1,"Cruce generacion "+generation,"Cruce generacion "+generation);
+            
+            Individuo old2 = new Individuo(segundo.x, segundo.y, "Seleccionado primera generacion: "+generation,1);
+            old2.asignarPuntosColor(ProcesamientoImagenes.getPixel(segundo.x,segundo.y,"Laberinto"));
+            old2.calcularPuntosUbicacion ();
+            old2.actSumaPuntos(); //actualiza la suma total
+            poblacion.add(old2);  //se agrega a la poblacion
+            ProcesamientoImagenes.setPixel(segundo.x,segundo.y,1,"Cruce generacion "+generation,"Cruce generacion "+generation);
+        }
+        return poblacion;
+    }
     //RETORNA POSICION DE INDIVIDUO---------------------------------------------------
     //recibe la probabilidad aleatoria y recorre el arreglo hasta encontrar el individuo
     public static int retornaIndividuoPosicion (Double proba, ArrayList <Double> probabilidades){
@@ -79,11 +146,36 @@ public class LaberintoProyecto {
     public static String imprimirPoblaciones(){
         String info = "";
         for (int i=0; i<generaciones.size(); i++){
+            info += "------------------------\n";
+            info += "------------------------\n";
             info += "Generacion: "+i+"\n";
+            info += "------------------------\n";
+            info += "------------------------\n";
             for (int j=0; j<generaciones.get(i).size(); j++){
                 info += "------------------------\n";
                 info += "Individuo "+j+"\n";
                 Individuo indv = generaciones.get(i).get(j);
+                info += indv.imprimirIndividuo();
+            }
+        }
+        return info;
+    }
+    
+    
+    
+   //IMPRIME SELECCIONADOS----------------------------------------------
+    public static String imprimirSelecionados(){
+        String info = "";
+        for (int i=0; i<selected.size(); i++){
+            info += "------------------------\n";
+            info += "------------------------\n";
+            info += "selected: "+i+"\n";
+            info += "------------------------\n";
+            info += "------------------------\n";
+            for (int j=0; j<selected.get(i).size(); j++){
+                info += "------------------------\n";
+                info += "Individuo "+j+"\n";
+                Individuo indv = selected.get(i).get(j);
                 info += indv.imprimirIndividuo();
             }
         }
@@ -101,6 +193,40 @@ public class LaberintoProyecto {
         return puntos;
     }
     
+    public static void generarImagenSeleccionados(int generation, String name){
+        ArrayList <Individuo> seleccionados = selected.get(generation);
+        for (int i=0; i<seleccionados.size(); i++){
+            Individuo indv = seleccionados.get(i);
+            //agrega pixel a la imagen
+            if (i==0){
+                ProcesamientoImagenes.setPixel(indv.x,indv.y,1,"laberinto",name);
+            }
+            else{
+                ProcesamientoImagenes.setPixel(indv.x,indv.y,1,name,name);
+            }
+        }
+    }
+    
+    //ORDEN DE LOS MEJORORES X GENERACION
+    
+   
+    
+    public static void generarImagenGeneracion(int generation, String name){
+        ArrayList <Individuo> generacion = generaciones.get(generation);
+        System.out.println("Sizeeeee: "+ generacion.size());
+        for (int i=0; i<generacion.size(); i++){
+            Individuo indv = generacion.get(i);
+            //agrega pixel a la imagen
+            if (i==0){
+                ProcesamientoImagenes.setPixel(indv.x,indv.y,1,"laberinto",name);
+            }
+            else{
+                ProcesamientoImagenes.setPixel(indv.x,indv.y,1,name,name);
+            }
+        }
+    }
+    
+    
 
     public static void main(String args[])throws IOException
     {
@@ -111,16 +237,29 @@ public class LaberintoProyecto {
         width   = imgenReferencia.getWidth();
         height  = imgenReferencia.getHeight();
        
+        //1-GENERA LA PRIMERA GENERACION
+        //1.1 genera individuos aleatorios y asigna puntosxUbicacion
         generaciones.add(Individuo.generarPrimeraPoblacion(20, 100, 100));
+        //1.3 puntos x indivuos cercanos
         Individuo.actPuntosCercanosGeneracion(0);
+        //1.4 actualizar fitness
         Individuo.actualizarFitness(0);
-        System.out.println(imprimirPoblaciones());
+        
         System.out.println(sumaPuntosGeneracion(0));
         
-        seleccion(0);
-        ArrayList <Individuo> selected = seleccion (0);
-        System.out.println("cantSelect " + selected.size());
+        selected.add(seleccion (0));
+        generarImagenSeleccionados(0, "SeleccionadosPrimeraGeneracion");
+        System.out.println("cantSelect " + selected.get(0).size());
         
+       generaciones.add(Cruce (0));
+       System.out.println("cantCruce " + generaciones.get(1).size());
+       //generarImagenGeneracion (1, "CrucePrimeraGeneracion");
+        
+       // 
+        
+        
+        System.out.println(imprimirPoblaciones());
+        System.out.println(imprimirSelecionados());
     }
 
     

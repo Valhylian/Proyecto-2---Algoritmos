@@ -2,7 +2,7 @@ package laberintoproyecto;
 
 import java.util.ArrayList;
 
-public class Individuo {
+public class Individuo implements Comparable <Individuo>{
     int x;
     int y;
     int puntosColor;
@@ -22,7 +22,7 @@ public class Individuo {
     }
     
     //ASIGNA PUNTOS POR EL COLOR DONDE CAEN-------------------------------------
-    public void asignarPuntosColor (int color, int generacion){
+    public void asignarPuntosColor (int color){
         //0=blanco
         if (color == 0){
             this.puntosColor = 5;
@@ -36,8 +36,9 @@ public class Individuo {
             this.puntosColor = 3;
         }
     }
+
     
-    public void puntosUbicacion (){
+    public void calcularPuntosUbicacion (){
         int ancho = LaberintoProyecto.width;
         int largo = LaberintoProyecto.height;
         
@@ -163,12 +164,10 @@ public class Individuo {
         Individuo ind = new Individuo (x,y,"Generado aleatoriamente en la primera generacion",0);
         //puntos por color
         int color = ProcesamientoImagenes.getPixel(x,y,"Laberinto");
-        ind.asignarPuntosColor(color,0);
+        ind.asignarPuntosColor(color);
         //puntos por ubicacion
-        ind.puntosUbicacion ();
-        //puntos por cercania
-        //--FALTAAAA pero no va a servir aqui
-        
+        ind.calcularPuntosUbicacion ();
+
         ind.actSumaPuntos(); //actualiza la suma total
         poblacion.add(ind);  //se agrega a la poblacion
         
@@ -184,9 +183,9 @@ public class Individuo {
             ind = new Individuo (x,y,"Generado aleatoriamente en la primera generacion",0);
             //puntos por color
             color = ProcesamientoImagenes.getPixel(x,y,"Laberinto");
-            ind.asignarPuntosColor(color,0);
+            ind.asignarPuntosColor(color);
             //puntos por ubicacion
-            ind.puntosUbicacion ();
+            ind.calcularPuntosUbicacion ();
             //puntos por cercania
             //--FALTAAAA--------------------
         
@@ -199,6 +198,8 @@ public class Individuo {
         return poblacion;
     }
     
+    
+
     public String imprimirIndividuo(){
         String info = "";
         info += this.descripcion+"\n";
@@ -208,8 +209,19 @@ public class Individuo {
         info += "Puntos: "+this.puntosFitness+"\n";
         return info;
     }
+    public double getPuntos(){
+        return sumaPuntos;
+    }
     
-    
-    
+    @Override
+    public int compareTo(Individuo i){
+        if (i.getPuntos() < sumaPuntos){
+            return -1;
+        }else if (i.getPuntos() > sumaPuntos){
+            return 0;
+        }else{
+            return 1;
+        }
+    }
 }
 

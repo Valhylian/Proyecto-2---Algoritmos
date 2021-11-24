@@ -45,10 +45,11 @@ public class ProcesamientoImagenes {
         // get blue
         int b = p & 0xff;
         
+        /*
         System.out.println("alpha "+a);
         System.out.println("red "+r);
         System.out.println("green "+g);
-        System.out.println("blue "+b);
+        System.out.println("blue "+b);*/
         
         //negro
         if (r==0 && g==0 && b==0){
@@ -68,9 +69,18 @@ public class ProcesamientoImagenes {
     
     public static void setPixel(int x, int y, int color, String imageName, String generacion){
         int a = 255;
-        int r = 255;
+        int r = 0;
         int g = 255;
         int b = 0;
+        
+        
+        //un cruce
+        if (color == 2){
+            a = 255;
+            r = 255;
+            g = 255;
+            b = 0;
+        }
 
         //read image
         BufferedImage img = null;
@@ -93,7 +103,6 @@ public class ProcesamientoImagenes {
         p = (a<<24) | (r<<16) | (g<<8) | b;
     
         img.setRGB(x, y, p);
-        System.out.println("entra "+x+" "+y);
         //write image
         try
         {
