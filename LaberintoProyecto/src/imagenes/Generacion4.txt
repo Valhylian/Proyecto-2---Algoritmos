@@ -1,4046 +1,4697 @@
  ------------------------
 Individuo 0
 Cruce de seleccionados Generacion: 3
-x: 14
-y: 7
-suma: 33
-Puntos: 7.356547327121138E-4
+x: 47
+y: 8
+suma: 24
+Puntos: 5.650116533653507E-4
 ------------------------
 Individuo 1
 Cruce de seleccionados Generacion: 3
-x: 16
+x: 40
 y: 9
-suma: 31
-Puntos: 6.910695973962281E-4
+suma: 24
+Puntos: 5.650116533653507E-4
 ------------------------
 Individuo 2
-Seleccionado generacion: 3
-x: 15
-y: 9
-suma: 31
-Puntos: 6.910695973962281E-4
+Cruce de seleccionados Generacion: 3
+x: 47
+y: 10
+suma: 23
+Puntos: 5.414695011417943E-4
 ------------------------
 Individuo 3
-Cruce de seleccionados Generacion: 3
-x: 15
-y: 8
-suma: 31
-Puntos: 6.910695973962281E-4
+Seleccionado generacion: 3
+x: 47
+y: 9
+suma: 23
+Puntos: 5.414695011417943E-4
 ------------------------
 Individuo 4
-Cruce de seleccionados Generacion: 3
-x: 16
+Seleccionado generacion: 3
+x: 44
 y: 8
-suma: 31
-Puntos: 6.910695973962281E-4
+suma: 23
+Puntos: 5.414695011417943E-4
 ------------------------
 Individuo 5
-Cruce de seleccionados Generacion: 3
-x: 15
-y: 7
-suma: 31
-Puntos: 6.910695973962281E-4
+Seleccionado generacion: 3
+x: 46
+y: 9
+suma: 23
+Puntos: 5.414695011417943E-4
 ------------------------
 Individuo 6
 Seleccionado generacion: 3
-x: 16
-y: 7
-suma: 29
-Puntos: 6.464844620803424E-4
+x: 40
+y: 8
+suma: 23
+Puntos: 5.414695011417943E-4
 ------------------------
 Individuo 7
-Seleccionado generacion: 3
-x: 16
-y: 10
-suma: 29
-Puntos: 6.464844620803424E-4
+Cruce de seleccionados Generacion: 3
+x: 46
+y: 8
+suma: 23
+Puntos: 5.414695011417943E-4
 ------------------------
 Individuo 8
-Cruce de seleccionados Generacion: 3
-x: 14
-y: 9
-suma: 29
-Puntos: 6.464844620803424E-4
+Seleccionado generacion: 3
+x: 46
+y: 10
+suma: 23
+Puntos: 5.414695011417943E-4
 ------------------------
 Individuo 9
-Cruce de seleccionados Generacion: 3
-x: 14
-y: 8
-suma: 29
-Puntos: 6.464844620803424E-4
+Seleccionado generacion: 3
+x: 43
+y: 9
+suma: 22
+Puntos: 5.179273489182381E-4
 ------------------------
 Individuo 10
 Cruce de seleccionados Generacion: 3
-x: 14
-y: 10
-suma: 29
-Puntos: 6.464844620803424E-4
+x: 40
+y: 7
+suma: 22
+Puntos: 5.179273489182381E-4
 ------------------------
 Individuo 11
 Seleccionado generacion: 3
-x: 12
-y: 5
-suma: 28
-Puntos: 6.241918944223996E-4
+x: 46
+y: 7
+suma: 22
+Puntos: 5.179273489182381E-4
 ------------------------
 Individuo 12
 Seleccionado generacion: 3
-x: 12
-y: 7
-suma: 28
-Puntos: 6.241918944223996E-4
+x: 40
+y: 10
+suma: 22
+Puntos: 5.179273489182381E-4
 ------------------------
 Individuo 13
 Seleccionado generacion: 3
-x: 12
-y: 8
-suma: 28
-Puntos: 6.241918944223996E-4
+x: 48
+y: 12
+suma: 22
+Puntos: 5.179273489182381E-4
 ------------------------
 Individuo 14
 Seleccionado generacion: 3
-x: 8
-y: 7
-suma: 26
-Puntos: 5.796067591065138E-4
+x: 48
+y: 55
+suma: 22
+Puntos: 5.179273489182381E-4
 ------------------------
 Individuo 15
 Seleccionado generacion: 3
-x: 8
+x: 48
 y: 9
-suma: 26
-Puntos: 5.796067591065138E-4
+suma: 22
+Puntos: 5.179273489182381E-4
 ------------------------
 Individuo 16
 Cruce de seleccionados Generacion: 3
-x: 8
+x: 43
 y: 8
-suma: 26
-Puntos: 5.796067591065138E-4
+suma: 22
+Puntos: 5.179273489182381E-4
 ------------------------
 Individuo 17
-Seleccionado generacion: 3
-x: 12
+Cruce de seleccionados Generacion: 3
+x: 47
 y: 12
-suma: 25
-Puntos: 5.57314191448571E-4
+suma: 22
+Puntos: 5.179273489182381E-4
 ------------------------
 Individuo 18
-Seleccionado generacion: 3
-x: 12
+Cruce de seleccionados Generacion: 3
+x: 39
 y: 9
-suma: 25
-Puntos: 5.57314191448571E-4
+suma: 22
+Puntos: 5.179273489182381E-4
 ------------------------
 Individuo 19
 Cruce de seleccionados Generacion: 3
-x: 8
-y: 10
-suma: 25
-Puntos: 5.57314191448571E-4
+x: 44
+y: 7
+suma: 21
+Puntos: 4.943851966946819E-4
 ------------------------
 Individuo 20
-Cruce de seleccionados Generacion: 3
-x: 8
-y: 12
-suma: 24
-Puntos: 5.350216237906282E-4
+Seleccionado generacion: 3
+x: 44
+y: 9
+suma: 21
+Puntos: 4.943851966946819E-4
 ------------------------
 Individuo 21
 Seleccionado generacion: 3
-x: 17
+x: 44
 y: 10
-suma: 24
-Puntos: 5.350216237906282E-4
+suma: 21
+Puntos: 4.943851966946819E-4
 ------------------------
 Individuo 22
 Cruce de seleccionados Generacion: 3
-x: 17
-y: 9
-suma: 24
-Puntos: 5.350216237906282E-4
+x: 46
+y: 11
+suma: 21
+Puntos: 4.943851966946819E-4
 ------------------------
 Individuo 23
-Cruce de seleccionados Generacion: 3
-x: 12
-y: 10
-suma: 23
-Puntos: 5.127290561326854E-4
+Seleccionado generacion: 3
+x: 47
+y: 11
+suma: 21
+Puntos: 4.943851966946819E-4
 ------------------------
 Individuo 24
-Seleccionado generacion: 3
-x: 17
+Cruce de seleccionados Generacion: 3
+x: 48
 y: 8
-suma: 23
-Puntos: 5.127290561326854E-4
+suma: 21
+Puntos: 4.943851966946819E-4
 ------------------------
 Individuo 25
 Cruce de seleccionados Generacion: 3
-x: 19
-y: 59
-suma: 23
-Puntos: 5.127290561326854E-4
+x: 48
+y: 10
+suma: 21
+Puntos: 4.943851966946819E-4
 ------------------------
 Individuo 26
 Cruce de seleccionados Generacion: 3
-x: 16
-y: 57
-suma: 22
-Puntos: 4.904364884747426E-4
+x: 43
+y: 10
+suma: 21
+Puntos: 4.943851966946819E-4
 ------------------------
 Individuo 27
-Seleccionado generacion: 3
-x: 18
-y: 57
-suma: 22
-Puntos: 4.904364884747426E-4
+Cruce de seleccionados Generacion: 3
+x: 49
+y: 51
+suma: 21
+Puntos: 4.943851966946819E-4
 ------------------------
 Individuo 28
 Seleccionado generacion: 3
-x: 12
-y: 4
-suma: 22
-Puntos: 4.904364884747426E-4
+x: 50
+y: 49
+suma: 20
+Puntos: 4.7084304447112554E-4
 ------------------------
 Individuo 29
-Seleccionado generacion: 3
-x: 17
-y: 59
-suma: 22
-Puntos: 4.904364884747426E-4
+Cruce de seleccionados Generacion: 3
+x: 39
+y: 8
+suma: 20
+Puntos: 4.7084304447112554E-4
 ------------------------
 Individuo 30
-Cruce de seleccionados Generacion: 3
-x: 21
-y: 60
-suma: 22
-Puntos: 4.904364884747426E-4
+Seleccionado generacion: 3
+x: 14
+y: 10
+suma: 20
+Puntos: 4.7084304447112554E-4
 ------------------------
 Individuo 31
-Seleccionado generacion: 3
-x: 17
-y: 7
-suma: 22
-Puntos: 4.904364884747426E-4
+Cruce de seleccionados Generacion: 3
+x: 40
+y: 6
+suma: 20
+Puntos: 4.7084304447112554E-4
 ------------------------
 Individuo 32
-Cruce de seleccionados Generacion: 3
-x: 18
-y: 9
-suma: 22
-Puntos: 4.904364884747426E-4
+Seleccionado generacion: 3
+x: 50
+y: 51
+suma: 20
+Puntos: 4.7084304447112554E-4
 ------------------------
 Individuo 33
-Seleccionado generacion: 3
-x: 18
-y: 58
-suma: 22
-Puntos: 4.904364884747426E-4
+Cruce de seleccionados Generacion: 3
+x: 39
+y: 7
+suma: 20
+Puntos: 4.7084304447112554E-4
 ------------------------
 Individuo 34
 Cruce de seleccionados Generacion: 3
-x: 16
-y: 58
-suma: 22
-Puntos: 4.904364884747426E-4
+x: 47
+y: 7
+suma: 20
+Puntos: 4.7084304447112554E-4
 ------------------------
 Individuo 35
-Seleccionado generacion: 3
-x: 17
-y: 58
-suma: 22
-Puntos: 4.904364884747426E-4
+Cruce de seleccionados Generacion: 3
+x: 48
+y: 51
+suma: 20
+Puntos: 4.7084304447112554E-4
 ------------------------
 Individuo 36
 Cruce de seleccionados Generacion: 3
-x: 20
-y: 57
-suma: 22
-Puntos: 4.904364884747426E-4
+x: 48
+y: 49
+suma: 20
+Puntos: 4.7084304447112554E-4
 ------------------------
 Individuo 37
 Cruce de seleccionados Generacion: 3
-x: 20
-y: 58
-suma: 22
-Puntos: 4.904364884747426E-4
+x: 42
+y: 6
+suma: 20
+Puntos: 4.7084304447112554E-4
 ------------------------
 Individuo 38
 Seleccionado generacion: 3
-x: 17
-y: 57
-suma: 22
-Puntos: 4.904364884747426E-4
+x: 48
+y: 7
+suma: 20
+Puntos: 4.7084304447112554E-4
 ------------------------
 Individuo 39
 Cruce de seleccionados Generacion: 3
-x: 20
-y: 7
-suma: 22
-Puntos: 4.904364884747426E-4
+x: 50
+y: 55
+suma: 20
+Puntos: 4.7084304447112554E-4
 ------------------------
 Individuo 40
 Cruce de seleccionados Generacion: 3
-x: 16
-y: 59
-suma: 22
-Puntos: 4.904364884747426E-4
+x: 47
+y: 15
+suma: 20
+Puntos: 4.7084304447112554E-4
 ------------------------
 Individuo 41
-Cruce de seleccionados Generacion: 3
-x: 18
-y: 7
-suma: 22
-Puntos: 4.904364884747426E-4
+Seleccionado generacion: 3
+x: 47
+y: 51
+suma: 19
+Puntos: 4.4730089224756926E-4
 ------------------------
 Individuo 42
 Cruce de seleccionados Generacion: 3
-x: 20
-y: 59
-suma: 22
-Puntos: 4.904364884747426E-4
+x: 12
+y: 7
+suma: 19
+Puntos: 4.4730089224756926E-4
 ------------------------
 Individuo 43
 Seleccionado generacion: 3
-x: 19
-y: 57
-suma: 21
-Puntos: 4.681439208167997E-4
+x: 59
+y: 6
+suma: 19
+Puntos: 4.4730089224756926E-4
 ------------------------
 Individuo 44
 Cruce de seleccionados Generacion: 3
-x: 19
-y: 9
-suma: 21
-Puntos: 4.681439208167997E-4
+x: 51
+y: 51
+suma: 19
+Puntos: 4.4730089224756926E-4
 ------------------------
 Individuo 45
 Cruce de seleccionados Generacion: 3
-x: 18
-y: 8
-suma: 21
-Puntos: 4.681439208167997E-4
+x: 15
+y: 7
+suma: 19
+Puntos: 4.4730089224756926E-4
 ------------------------
 Individuo 46
 Cruce de seleccionados Generacion: 3
-x: 19
-y: 58
-suma: 21
-Puntos: 4.681439208167997E-4
+x: 14
+y: 6
+suma: 19
+Puntos: 4.4730089224756926E-4
 ------------------------
 Individuo 47
 Cruce de seleccionados Generacion: 3
-x: 21
-y: 7
-suma: 21
-Puntos: 4.681439208167997E-4
+x: 50
+y: 11
+suma: 19
+Puntos: 4.4730089224756926E-4
 ------------------------
 Individuo 48
 Cruce de seleccionados Generacion: 3
-x: 20
-y: 8
-suma: 21
-Puntos: 4.681439208167997E-4
+x: 50
+y: 12
+suma: 19
+Puntos: 4.4730089224756926E-4
 ------------------------
 Individuo 49
-Seleccionado generacion: 3
-x: 20
-y: 9
-suma: 21
-Puntos: 4.681439208167997E-4
+Cruce de seleccionados Generacion: 3
+x: 48
+y: 56
+suma: 19
+Puntos: 4.4730089224756926E-4
 ------------------------
 Individuo 50
 Cruce de seleccionados Generacion: 3
-x: 19
+x: 15
 y: 8
-suma: 21
-Puntos: 4.681439208167997E-4
+suma: 19
+Puntos: 4.4730089224756926E-4
 ------------------------
 Individuo 51
-Seleccionado generacion: 3
-x: 20
-y: 60
-suma: 20
-Puntos: 4.4585135315885685E-4
+Cruce de seleccionados Generacion: 3
+x: 14
+y: 8
+suma: 19
+Puntos: 4.4730089224756926E-4
 ------------------------
 Individuo 52
-Seleccionado generacion: 3
-x: 19
-y: 60
-suma: 20
-Puntos: 4.4585135315885685E-4
+Cruce de seleccionados Generacion: 3
+x: 12
+y: 6
+suma: 19
+Puntos: 4.4730089224756926E-4
 ------------------------
 Individuo 53
 Seleccionado generacion: 3
-x: 18
-y: 10
-suma: 20
-Puntos: 4.4585135315885685E-4
+x: 12
+y: 5
+suma: 19
+Puntos: 4.4730089224756926E-4
 ------------------------
 Individuo 54
 Cruce de seleccionados Generacion: 3
-x: 18
-y: 60
-suma: 20
-Puntos: 4.4585135315885685E-4
+x: 14
+y: 7
+suma: 19
+Puntos: 4.4730089224756926E-4
 ------------------------
 Individuo 55
-Cruce de seleccionados Generacion: 3
-x: 19
-y: 64
-suma: 20
-Puntos: 4.4585135315885685E-4
+Seleccionado generacion: 3
+x: 12
+y: 4
+suma: 19
+Puntos: 4.4730089224756926E-4
 ------------------------
 Individuo 56
 Cruce de seleccionados Generacion: 3
-x: 17
-y: 60
-suma: 20
-Puntos: 4.4585135315885685E-4
+x: 14
+y: 9
+suma: 19
+Puntos: 4.4730089224756926E-4
 ------------------------
 Individuo 57
-Cruce de seleccionados Generacion: 3
-x: 15
-y: 60
-suma: 20
-Puntos: 4.4585135315885685E-4
+Seleccionado generacion: 3
+x: 12
+y: 8
+suma: 19
+Puntos: 4.4730089224756926E-4
 ------------------------
 Individuo 58
-Cruce de seleccionados Generacion: 3
-x: 47
-y: 57
+Seleccionado generacion: 3
+x: 51
+y: 12
 suma: 19
-Puntos: 4.23558785500914E-4
+Puntos: 4.4730089224756926E-4
 ------------------------
 Individuo 59
 Cruce de seleccionados Generacion: 3
-x: 19
-y: 7
+x: 47
+y: 56
 suma: 19
-Puntos: 4.23558785500914E-4
+Puntos: 4.4730089224756926E-4
 ------------------------
 Individuo 60
 Cruce de seleccionados Generacion: 3
-x: 14
-y: 57
+x: 15
+y: 9
 suma: 19
-Puntos: 4.23558785500914E-4
+Puntos: 4.4730089224756926E-4
 ------------------------
 Individuo 61
 Cruce de seleccionados Generacion: 3
-x: 46
-y: 57
-suma: 19
-Puntos: 4.23558785500914E-4
+x: 23
+y: 60
+suma: 18
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 62
 Cruce de seleccionados Generacion: 3
-x: 47
-y: 15
-suma: 19
-Puntos: 4.23558785500914E-4
+x: 51
+y: 7
+suma: 18
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 63
 Cruce de seleccionados Generacion: 3
-x: 21
-y: 8
-suma: 19
-Puntos: 4.23558785500914E-4
+x: 50
+y: 9
+suma: 18
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 64
-Seleccionado generacion: 3
-x: 12
-y: 3
-suma: 19
-Puntos: 4.23558785500914E-4
+Cruce de seleccionados Generacion: 3
+x: 46
+y: 49
+suma: 18
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 65
 Cruce de seleccionados Generacion: 3
-x: 47
-y: 58
-suma: 19
-Puntos: 4.23558785500914E-4
+x: 39
+y: 6
+suma: 18
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 66
-Cruce de seleccionados Generacion: 3
-x: 21
-y: 9
-suma: 19
-Puntos: 4.23558785500914E-4
+Seleccionado generacion: 3
+x: 55
+y: 7
+suma: 18
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 67
-Seleccionado generacion: 3
-x: 47
-y: 37
-suma: 19
-Puntos: 4.23558785500914E-4
+Cruce de seleccionados Generacion: 3
+x: 51
+y: 9
+suma: 18
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 68
 Cruce de seleccionados Generacion: 3
-x: 19
-y: 10
-suma: 19
-Puntos: 4.23558785500914E-4
+x: 47
+y: 30
+suma: 18
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 69
 Cruce de seleccionados Generacion: 3
-x: 16
-y: 12
-suma: 19
-Puntos: 4.23558785500914E-4
+x: 56
+y: 7
+suma: 18
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 70
 Cruce de seleccionados Generacion: 3
-x: 20
-y: 10
-suma: 19
-Puntos: 4.23558785500914E-4
+x: 12
+y: 9
+suma: 18
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 71
 Seleccionado generacion: 3
-x: 49
-y: 15
-suma: 19
-Puntos: 4.23558785500914E-4
+x: 50
+y: 31
+suma: 18
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 72
-Cruce de seleccionados Generacion: 3
-x: 14
-y: 58
-suma: 19
-Puntos: 4.23558785500914E-4
+Seleccionado generacion: 3
+x: 48
+y: 26
+suma: 18
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 73
-Cruce de seleccionados Generacion: 3
-x: 49
-y: 14
-suma: 19
-Puntos: 4.23558785500914E-4
+Seleccionado generacion: 3
+x: 51
+y: 8
+suma: 18
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 74
 Seleccionado generacion: 3
-x: 12
-y: 14
-suma: 19
-Puntos: 4.23558785500914E-4
+x: 49
+y: 15
+suma: 18
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 75
 Cruce de seleccionados Generacion: 3
-x: 36
-y: 92
-suma: 19
-Puntos: 4.23558785500914E-4
+x: 52
+y: 9
+suma: 18
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 76
-Seleccionado generacion: 3
-x: 49
-y: 57
+Cruce de seleccionados Generacion: 3
+x: 37
+y: 8
 suma: 18
-Puntos: 4.0126621784297115E-4
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 77
 Cruce de seleccionados Generacion: 3
-x: 14
-y: 60
+x: 46
+y: 51
 suma: 18
-Puntos: 4.0126621784297115E-4
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 78
 Seleccionado generacion: 3
-x: 21
-y: 57
+x: 50
+y: 30
 suma: 18
-Puntos: 4.0126621784297115E-4
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 79
 Cruce de seleccionados Generacion: 3
-x: 22
-y: 57
+x: 47
+y: 31
 suma: 18
-Puntos: 4.0126621784297115E-4
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 80
 Cruce de seleccionados Generacion: 3
-x: 22
-y: 64
+x: 50
+y: 10
 suma: 18
-Puntos: 4.0126621784297115E-4
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 81
 Cruce de seleccionados Generacion: 3
-x: 22
-y: 58
+x: 27
+y: 59
 suma: 18
-Puntos: 4.0126621784297115E-4
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 82
 Seleccionado generacion: 3
-x: 46
-y: 58
+x: 26
+y: 59
 suma: 18
-Puntos: 4.0126621784297115E-4
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 83
 Seleccionado generacion: 3
-x: 21
-y: 59
+x: 22
+y: 60
 suma: 18
-Puntos: 4.0126621784297115E-4
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 84
 Cruce de seleccionados Generacion: 3
-x: 14
-y: 59
+x: 55
+y: 8
 suma: 18
-Puntos: 4.0126621784297115E-4
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 85
-Cruce de seleccionados Generacion: 3
-x: 33
-y: 91
+Seleccionado generacion: 3
+x: 46
+y: 15
 suma: 18
-Puntos: 4.0126621784297115E-4
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 86
 Cruce de seleccionados Generacion: 3
-x: 8
-y: 3
+x: 37
+y: 7
 suma: 18
-Puntos: 4.0126621784297115E-4
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 87
 Cruce de seleccionados Generacion: 3
-x: 33
-y: 92
+x: 12
+y: 10
 suma: 18
-Puntos: 4.0126621784297115E-4
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 88
-Cruce de seleccionados Generacion: 3
-x: 22
-y: 59
+Seleccionado generacion: 3
+x: 54
+y: 7
 suma: 18
-Puntos: 4.0126621784297115E-4
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 89
 Seleccionado generacion: 3
-x: 21
-y: 58
+x: 52
+y: 7
 suma: 18
-Puntos: 4.0126621784297115E-4
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 90
 Cruce de seleccionados Generacion: 3
-x: 21
-y: 64
+x: 75
+y: 8
 suma: 18
-Puntos: 4.0126621784297115E-4
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 91
-Cruce de seleccionados Generacion: 3
-x: 32
-y: 91
+Seleccionado generacion: 3
+x: 50
+y: 15
 suma: 18
-Puntos: 4.0126621784297115E-4
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 92
 Seleccionado generacion: 3
-x: 20
-y: 64
+x: 36
+y: 7
 suma: 18
-Puntos: 4.0126621784297115E-4
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 93
 Cruce de seleccionados Generacion: 3
-x: 38
-y: 90
+x: 37
+y: 9
 suma: 18
-Puntos: 4.0126621784297115E-4
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 94
-Seleccionado generacion: 3
-x: 14
-y: 5
+Cruce de seleccionados Generacion: 3
+x: 55
+y: 9
 suma: 18
-Puntos: 4.0126621784297115E-4
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 95
-Cruce de seleccionados Generacion: 3
-x: 49
-y: 35
+Seleccionado generacion: 3
+x: 75
+y: 9
 suma: 18
-Puntos: 4.0126621784297115E-4
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 96
 Cruce de seleccionados Generacion: 3
-x: 22
-y: 60
+x: 50
+y: 32
 suma: 18
-Puntos: 4.0126621784297115E-4
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 97
 Cruce de seleccionados Generacion: 3
-x: 32
-y: 92
+x: 56
+y: 8
 suma: 18
-Puntos: 4.0126621784297115E-4
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 98
-Seleccionado generacion: 3
-x: 8
-y: 4
-suma: 17
-Puntos: 3.789736501850283E-4
+Cruce de seleccionados Generacion: 3
+x: 48
+y: 30
+suma: 18
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 99
-Seleccionado generacion: 3
-x: 49
-y: 53
-suma: 17
-Puntos: 3.789736501850283E-4
+Cruce de seleccionados Generacion: 3
+x: 56
+y: 9
+suma: 18
+Puntos: 4.23758740024013E-4
 ------------------------
 Individuo 100
-Seleccionado generacion: 3
-x: 24
-y: 57
+Cruce de seleccionados Generacion: 3
+x: 51
+y: 10
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 101
-Seleccionado generacion: 3
-x: 21
-y: 68
+Cruce de seleccionados Generacion: 3
+x: 51
+y: 49
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 102
 Cruce de seleccionados Generacion: 3
-x: 21
-y: 10
+x: 44
+y: 6
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 103
-Seleccionado generacion: 3
-x: 21
-y: 81
+Cruce de seleccionados Generacion: 3
+x: 3
+y: 6
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 104
-Cruce de seleccionados Generacion: 3
-x: 22
-y: 10
+Seleccionado generacion: 3
+x: 3
+y: 12
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 105
 Seleccionado generacion: 3
-x: 22
-y: 7
+x: 46
+y: 12
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 106
-Seleccionado generacion: 3
-x: 47
-y: 9
+Cruce de seleccionados Generacion: 3
+x: 46
+y: 6
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 107
-Seleccionado generacion: 3
-x: 22
+Cruce de seleccionados Generacion: 3
+x: 59
 y: 9
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 108
 Seleccionado generacion: 3
-x: 47
-y: 54
+x: 5
+y: 6
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 109
 Seleccionado generacion: 3
-x: 72
-y: 7
+x: 50
+y: 26
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 110
-Cruce de seleccionados Generacion: 3
-x: 71
+Seleccionado generacion: 3
+x: 73
 y: 7
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 111
-Cruce de seleccionados Generacion: 3
-x: 49
-y: 10
+Seleccionado generacion: 3
+x: 43
+y: 7
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 112
-Seleccionado generacion: 3
-x: 46
-y: 10
+Cruce de seleccionados Generacion: 3
+x: 44
+y: 59
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 113
 Cruce de seleccionados Generacion: 3
-x: 24
-y: 7
+x: 12
+y: 11
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 114
 Cruce de seleccionados Generacion: 3
-x: 12
-y: 59
+x: 47
+y: 6
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 115
 Cruce de seleccionados Generacion: 3
-x: 75
-y: 9
+x: 52
+y: 8
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 116
-Cruce de seleccionados Generacion: 3
-x: 12
-y: 57
+Seleccionado generacion: 3
+x: 48
+y: 31
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 117
-Cruce de seleccionados Generacion: 3
-x: 49
-y: 58
+Seleccionado generacion: 3
+x: 3
+y: 11
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 118
-Seleccionado generacion: 3
-x: 12
-y: 58
+Cruce de seleccionados Generacion: 3
+x: 70
+y: 7
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 119
 Seleccionado generacion: 3
-x: 40
-y: 92
+x: 23
+y: 63
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 120
 Cruce de seleccionados Generacion: 3
-x: 47
-y: 10
+x: 14
+y: 11
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 121
-Cruce de seleccionados Generacion: 3
-x: 75
-y: 7
+Seleccionado generacion: 3
+x: 3
+y: 5
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 122
-Seleccionado generacion: 3
-x: 47
-y: 52
+Cruce de seleccionados Generacion: 3
+x: 54
+y: 9
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 123
-Seleccionado generacion: 3
-x: 24
-y: 58
+Cruce de seleccionados Generacion: 3
+x: 12
+y: 12
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 124
 Seleccionado generacion: 3
-x: 71
-y: 8
+x: 3
+y: 9
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 125
 Cruce de seleccionados Generacion: 3
-x: 71
-y: 9
+x: 3
+y: 8
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 126
 Cruce de seleccionados Generacion: 3
-x: 45
-y: 58
+x: 3
+y: 7
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 127
 Cruce de seleccionados Generacion: 3
-x: 72
-y: 8
+x: 5
+y: 10
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 128
 Cruce de seleccionados Generacion: 3
-x: 46
-y: 15
+x: 50
+y: 19
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 129
-Seleccionado generacion: 3
-x: 49
-y: 52
+Cruce de seleccionados Generacion: 3
+x: 3
+y: 10
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 130
 Cruce de seleccionados Generacion: 3
-x: 20
-y: 81
+x: 18
+y: 8
 suma: 17
-Puntos: 3.789736501850283E-4
+Puntos: 4.002165878004567E-4
 ------------------------
 Individuo 131
-Seleccionado generacion: 3
-x: 16
-y: 60
+Cruce de seleccionados Generacion: 3
+x: 23
+y: 7
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 132
 Seleccionado generacion: 3
-x: 43
-y: 57
+x: 44
+y: 3
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 133
-Seleccionado generacion: 3
-x: 33
-y: 58
+Cruce de seleccionados Generacion: 3
+x: 23
+y: 61
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 134
 Cruce de seleccionados Generacion: 3
-x: 24
-y: 60
+x: 51
+y: 88
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 135
-Seleccionado generacion: 3
-x: 21
-y: 80
+Cruce de seleccionados Generacion: 3
+x: 50
+y: 59
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 136
-Cruce de seleccionados Generacion: 3
-x: 45
-y: 59
+Seleccionado generacion: 3
+x: 59
+y: 7
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 137
-Seleccionado generacion: 3
-x: 24
-y: 59
+Cruce de seleccionados Generacion: 3
+x: 47
+y: 60
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 138
-Cruce de seleccionados Generacion: 3
-x: 33
-y: 57
+Seleccionado generacion: 3
+x: 50
+y: 6
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 139
 Seleccionado generacion: 3
-x: 33
-y: 59
+x: 51
+y: 6
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 140
-Seleccionado generacion: 3
-x: 75
-y: 8
+Cruce de seleccionados Generacion: 3
+x: 43
+y: 6
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 141
 Cruce de seleccionados Generacion: 3
-x: 49
-y: 94
+x: 27
+y: 56
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 142
 Seleccionado generacion: 3
-x: 49
-y: 90
+x: 56
+y: 10
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 143
 Seleccionado generacion: 3
-x: 41
-y: 90
+x: 46
+y: 30
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 144
 Cruce de seleccionados Generacion: 3
-x: 47
-y: 60
+x: 50
+y: 7
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 145
 Seleccionado generacion: 3
-x: 20
-y: 80
+x: 75
+y: 7
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 146
 Seleccionado generacion: 3
-x: 47
-y: 53
+x: 3
+y: 95
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 147
-Cruce de seleccionados Generacion: 3
-x: 36
-y: 58
+Seleccionado generacion: 3
+x: 56
+y: 6
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 148
-Seleccionado generacion: 3
-x: 43
-y: 91
+Cruce de seleccionados Generacion: 3
+x: 50
+y: 8
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 149
-Seleccionado generacion: 3
-x: 47
-y: 59
+Cruce de seleccionados Generacion: 3
+x: 51
+y: 91
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 150
 Seleccionado generacion: 3
-x: 20
-y: 73
+x: 55
+y: 91
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 151
 Cruce de seleccionados Generacion: 3
-x: 43
-y: 92
+x: 51
+y: 31
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 152
 Cruce de seleccionados Generacion: 3
-x: 55
-y: 90
+x: 23
+y: 8
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 153
-Seleccionado generacion: 3
-x: 14
-y: 14
+Cruce de seleccionados Generacion: 3
+x: 49
+y: 91
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 154
 Seleccionado generacion: 3
-x: 8
-y: 14
+x: 26
+y: 60
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 155
-Cruce de seleccionados Generacion: 3
-x: 32
-y: 57
+Seleccionado generacion: 3
+x: 37
+y: 10
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 156
 Seleccionado generacion: 3
-x: 70
-y: 7
+x: 54
+y: 91
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 157
 Seleccionado generacion: 3
-x: 32
-y: 90
+x: 22
+y: 8
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 158
 Cruce de seleccionados Generacion: 3
-x: 36
-y: 57
+x: 30
+y: 60
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 159
 Cruce de seleccionados Generacion: 3
-x: 55
-y: 94
+x: 51
+y: 92
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 160
-Cruce de seleccionados Generacion: 3
-x: 32
-y: 59
+Seleccionado generacion: 3
+x: 22
+y: 92
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 161
-Cruce de seleccionados Generacion: 3
-x: 49
-y: 59
+Seleccionado generacion: 3
+x: 95
+y: 5
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 162
-Seleccionado generacion: 3
-x: 15
-y: 14
+Cruce de seleccionados Generacion: 3
+x: 52
+y: 10
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 163
 Cruce de seleccionados Generacion: 3
-x: 45
-y: 92
+x: 48
+y: 6
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 164
 Cruce de seleccionados Generacion: 3
-x: 40
-y: 90
+x: 55
+y: 10
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 165
-Seleccionado generacion: 3
-x: 49
-y: 91
+Cruce de seleccionados Generacion: 3
+x: 40
+y: 58
 suma: 16
-Puntos: 3.5668108252708545E-4
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 166
-Cruce de seleccionados Generacion: 3
-x: 49
-y: 8
-suma: 15
-Puntos: 3.343885148691426E-4
+Seleccionado generacion: 3
+x: 40
+y: 59
+suma: 16
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 167
 Seleccionado generacion: 3
-x: 47
-y: 8
-suma: 15
-Puntos: 3.343885148691426E-4
+x: 75
+y: 6
+suma: 16
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 168
 Cruce de seleccionados Generacion: 3
-x: 33
-y: 7
-suma: 15
-Puntos: 3.343885148691426E-4
+x: 18
+y: 9
+suma: 16
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 169
 Cruce de seleccionados Generacion: 3
-x: 62
-y: 9
-suma: 15
-Puntos: 3.343885148691426E-4
+x: 43
+y: 59
+suma: 16
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 170
 Seleccionado generacion: 3
-x: 62
+x: 22
 y: 7
-suma: 15
-Puntos: 3.343885148691426E-4
+suma: 16
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 171
 Cruce de seleccionados Generacion: 3
-x: 41
-y: 58
-suma: 15
-Puntos: 3.343885148691426E-4
+x: 23
+y: 92
+suma: 16
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 172
-Seleccionado generacion: 3
-x: 43
-y: 58
-suma: 15
-Puntos: 3.343885148691426E-4
+Cruce de seleccionados Generacion: 3
+x: 46
+y: 56
+suma: 16
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 173
-Seleccionado generacion: 3
-x: 75
-y: 10
-suma: 15
-Puntos: 3.343885148691426E-4
+Cruce de seleccionados Generacion: 3
+x: 23
+y: 9
+suma: 16
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 174
-Seleccionado generacion: 3
-x: 19
-y: 80
-suma: 15
-Puntos: 3.343885148691426E-4
+Cruce de seleccionados Generacion: 3
+x: 50
+y: 91
+suma: 16
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 175
 Cruce de seleccionados Generacion: 3
-x: 41
-y: 59
-suma: 15
-Puntos: 3.343885148691426E-4
+x: 51
+y: 47
+suma: 16
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 176
-Seleccionado generacion: 3
-x: 41
-y: 57
-suma: 15
-Puntos: 3.343885148691426E-4
+Cruce de seleccionados Generacion: 3
+x: 50
+y: 56
+suma: 16
+Puntos: 3.766744355769004E-4
 ------------------------
 Individuo 177
 Cruce de seleccionados Generacion: 3
-x: 43
-y: 59
+x: 51
+y: 11
 suma: 15
-Puntos: 3.343885148691426E-4
+Puntos: 3.531322833533442E-4
 ------------------------
 Individuo 178
 Cruce de seleccionados Generacion: 3
-x: 36
+x: 27
 y: 9
 suma: 15
-Puntos: 3.343885148691426E-4
+Puntos: 3.531322833533442E-4
 ------------------------
 Individuo 179
 Seleccionado generacion: 3
-x: 36
-y: 90
+x: 27
+y: 7
 suma: 15
-Puntos: 3.343885148691426E-4
+Puntos: 3.531322833533442E-4
 ------------------------
 Individuo 180
 Cruce de seleccionados Generacion: 3
-x: 45
-y: 91
+x: 46
+y: 60
 suma: 15
-Puntos: 3.343885148691426E-4
+Puntos: 3.531322833533442E-4
 ------------------------
 Individuo 181
-Seleccionado generacion: 3
-x: 45
-y: 8
+Cruce de seleccionados Generacion: 3
+x: 50
+y: 60
 suma: 15
-Puntos: 3.343885148691426E-4
+Puntos: 3.531322833533442E-4
 ------------------------
 Individuo 182
 Seleccionado generacion: 3
-x: 49
-y: 64
+x: 50
+y: 61
 suma: 15
-Puntos: 3.343885148691426E-4
+Puntos: 3.531322833533442E-4
 ------------------------
 Individuo 183
 Seleccionado generacion: 3
-x: 36
-y: 7
+x: 22
+y: 82
 suma: 15
-Puntos: 3.343885148691426E-4
+Puntos: 3.531322833533442E-4
 ------------------------
 Individuo 184
 Cruce de seleccionados Generacion: 3
-x: 45
-y: 10
+x: 73
+y: 6
 suma: 15
-Puntos: 3.343885148691426E-4
+Puntos: 3.531322833533442E-4
 ------------------------
 Individuo 185
 Seleccionado generacion: 3
-x: 43
-y: 9
+x: 52
+y: 6
 suma: 15
-Puntos: 3.343885148691426E-4
+Puntos: 3.531322833533442E-4
 ------------------------
 Individuo 186
-Seleccionado generacion: 3
-x: 45
-y: 7
+Cruce de seleccionados Generacion: 3
+x: 51
+y: 26
 suma: 15
-Puntos: 3.343885148691426E-4
+Puntos: 3.531322833533442E-4
 ------------------------
 Individuo 187
 Cruce de seleccionados Generacion: 3
-x: 12
-y: 60
+x: 47
+y: 61
 suma: 15
-Puntos: 3.343885148691426E-4
+Puntos: 3.531322833533442E-4
 ------------------------
 Individuo 188
 Cruce de seleccionados Generacion: 3
-x: 20
-y: 68
+x: 27
+y: 91
 suma: 15
-Puntos: 3.343885148691426E-4
+Puntos: 3.531322833533442E-4
 ------------------------
 Individuo 189
-Cruce de seleccionados Generacion: 3
-x: 45
-y: 9
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 190
-Cruce de seleccionados Generacion: 3
-x: 49
-y: 7
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 191
-Seleccionado generacion: 3
-x: 41
-y: 91
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 192
-Seleccionado generacion: 3
-x: 63
-y: 9
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 193
-Cruce de seleccionados Generacion: 3
-x: 35
-y: 9
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 194
-Seleccionado generacion: 3
-x: 35
-y: 58
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 195
-Seleccionado generacion: 3
-x: 47
-y: 49
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 196
-Cruce de seleccionados Generacion: 3
-x: 46
-y: 7
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 197
-Seleccionado generacion: 3
-x: 22
-y: 85
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 198
-Cruce de seleccionados Generacion: 3
-x: 47
-y: 91
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 199
-Cruce de seleccionados Generacion: 3
-x: 38
-y: 9
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 200
-Cruce de seleccionados Generacion: 3
-x: 49
-y: 9
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 201
-Seleccionado generacion: 3
-x: 47
-y: 64
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 202
-Cruce de seleccionados Generacion: 3
-x: 40
-y: 59
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 203
-Cruce de seleccionados Generacion: 3
-x: 47
-y: 92
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 204
-Cruce de seleccionados Generacion: 3
-x: 46
-y: 19
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 205
-Cruce de seleccionados Generacion: 3
-x: 33
-y: 8
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 206
-Cruce de seleccionados Generacion: 3
-x: 43
-y: 7
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 207
-Seleccionado generacion: 3
-x: 47
-y: 48
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 208
-Seleccionado generacion: 3
-x: 46
-y: 54
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 209
-Cruce de seleccionados Generacion: 3
-x: 63
-y: 7
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 210
-Seleccionado generacion: 3
-x: 72
-y: 9
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 211
-Seleccionado generacion: 3
-x: 28
-y: 59
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 212
-Seleccionado generacion: 3
-x: 32
-y: 9
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 213
-Cruce de seleccionados Generacion: 3
-x: 32
-y: 7
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 214
-Seleccionado generacion: 3
-x: 36
-y: 8
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 215
-Cruce de seleccionados Generacion: 3
-x: 43
-y: 8
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 216
-Cruce de seleccionados Generacion: 3
-x: 28
-y: 9
-suma: 15
-Puntos: 3.343885148691426E-4
-------------------------
-Individuo 217
-Cruce de seleccionados Generacion: 3
-x: 41
-y: 7
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 218
-Seleccionado generacion: 3
-x: 41
-y: 9
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 219
-Cruce de seleccionados Generacion: 3
-x: 12
-y: 15
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 220
-Cruce de seleccionados Generacion: 3
-x: 47
-y: 35
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 221
-Seleccionado generacion: 3
-x: 22
-y: 68
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 222
-Cruce de seleccionados Generacion: 3
-x: 17
-y: 5
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 223
-Seleccionado generacion: 3
-x: 24
-y: 9
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 224
-Seleccionado generacion: 3
-x: 47
-y: 14
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 225
-Cruce de seleccionados Generacion: 3
-x: 33
-y: 90
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 226
-Seleccionado generacion: 3
-x: 21
-y: 91
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 227
-Cruce de seleccionados Generacion: 3
-x: 21
-y: 87
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 228
-Cruce de seleccionados Generacion: 3
-x: 47
-y: 7
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 229
-Seleccionado generacion: 3
-x: 19
-y: 81
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 230
-Cruce de seleccionados Generacion: 3
-x: 21
-y: 90
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 231
-Seleccionado generacion: 3
-x: 33
-y: 9
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 232
-Cruce de seleccionados Generacion: 3
-x: 49
-y: 60
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 233
-Seleccionado generacion: 3
-x: 49
-y: 19
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 234
-Seleccionado generacion: 3
-x: 22
-y: 90
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 235
-Seleccionado generacion: 3
-x: 41
-y: 8
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 236
-Seleccionado generacion: 3
-x: 36
-y: 60
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 237
-Seleccionado generacion: 3
-x: 28
-y: 7
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 238
-Seleccionado generacion: 3
-x: 20
-y: 92
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 239
-Cruce de seleccionados Generacion: 3
-x: 43
-y: 90
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 240
-Seleccionado generacion: 3
-x: 38
-y: 7
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 241
-Cruce de seleccionados Generacion: 3
-x: 45
-y: 60
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 242
-Seleccionado generacion: 3
-x: 21
-y: 73
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 243
-Seleccionado generacion: 3
-x: 38
-y: 60
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 244
-Cruce de seleccionados Generacion: 3
-x: 20
-y: 91
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 245
-Cruce de seleccionados Generacion: 3
-x: 20
-y: 90
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 246
-Cruce de seleccionados Generacion: 3
-x: 32
-y: 60
-suma: 14
-Puntos: 3.120959472111998E-4
-------------------------
-Individuo 247
 Seleccionado generacion: 3
 x: 47
 y: 26
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 190
+Seleccionado generacion: 3
+x: 26
+y: 8
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 191
+Cruce de seleccionados Generacion: 3
+x: 50
+y: 45
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 192
+Seleccionado generacion: 3
+x: 50
+y: 35
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 193
+Seleccionado generacion: 3
+x: 54
+y: 10
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 194
+Cruce de seleccionados Generacion: 3
+x: 15
+y: 10
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 195
+Seleccionado generacion: 3
+x: 14
+y: 5
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 196
+Cruce de seleccionados Generacion: 3
+x: 47
+y: 63
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 197
+Seleccionado generacion: 3
+x: 50
+y: 63
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 198
+Seleccionado generacion: 3
+x: 22
+y: 68
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 199
+Seleccionado generacion: 3
+x: 22
+y: 61
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 200
+Cruce de seleccionados Generacion: 3
+x: 47
+y: 91
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 201
+Cruce de seleccionados Generacion: 3
+x: 24
+y: 8
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 202
+Cruce de seleccionados Generacion: 3
+x: 25
+y: 8
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 203
+Cruce de seleccionados Generacion: 3
+x: 54
+y: 6
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 204
+Cruce de seleccionados Generacion: 3
+x: 22
+y: 67
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 205
+Seleccionado generacion: 3
+x: 26
+y: 92
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 206
+Cruce de seleccionados Generacion: 3
+x: 48
+y: 60
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 207
+Cruce de seleccionados Generacion: 3
+x: 48
+y: 61
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 208
+Seleccionado generacion: 3
+x: 22
+y: 75
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 209
+Cruce de seleccionados Generacion: 3
+x: 26
+y: 7
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 210
+Cruce de seleccionados Generacion: 3
+x: 20
+y: 8
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 211
+Cruce de seleccionados Generacion: 3
+x: 27
+y: 8
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 212
+Cruce de seleccionados Generacion: 3
+x: 75
+y: 10
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 213
+Cruce de seleccionados Generacion: 3
+x: 20
+y: 7
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 214
+Seleccionado generacion: 3
+x: 68
+y: 7
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 215
+Cruce de seleccionados Generacion: 3
+x: 48
+y: 96
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 216
+Seleccionado generacion: 3
+x: 20
+y: 9
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 217
+Seleccionado generacion: 3
+x: 48
+y: 91
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 218
+Cruce de seleccionados Generacion: 3
+x: 37
+y: 59
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 219
+Seleccionado generacion: 3
+x: 27
+y: 92
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 220
+Cruce de seleccionados Generacion: 3
+x: 46
+y: 59
+suma: 15
+Puntos: 3.531322833533442E-4
+------------------------
+Individuo 221
+Seleccionado generacion: 3
+x: 44
+y: 60
 suma: 14
-Puntos: 3.120959472111998E-4
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 222
+Seleccionado generacion: 3
+x: 51
+y: 59
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 223
+Cruce de seleccionados Generacion: 3
+x: 51
+y: 60
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 224
+Cruce de seleccionados Generacion: 3
+x: 51
+y: 19
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 225
+Seleccionado generacion: 3
+x: 26
+y: 9
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 226
+Seleccionado generacion: 3
+x: 55
+y: 6
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 227
+Cruce de seleccionados Generacion: 3
+x: 44
+y: 92
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 228
+Cruce de seleccionados Generacion: 3
+x: 22
+y: 6
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 229
+Seleccionado generacion: 3
+x: 47
+y: 19
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 230
+Cruce de seleccionados Generacion: 3
+x: 15
+y: 6
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 231
+Cruce de seleccionados Generacion: 3
+x: 43
+y: 60
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 232
+Seleccionado generacion: 3
+x: 20
+y: 91
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 233
+Cruce de seleccionados Generacion: 3
+x: 22
+y: 86
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 234
+Cruce de seleccionados Generacion: 3
+x: 64
+y: 8
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 235
+Cruce de seleccionados Generacion: 3
+x: 46
+y: 91
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 236
+Seleccionado generacion: 3
+x: 46
+y: 32
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 237
+Seleccionado generacion: 3
+x: 50
+y: 24
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 238
+Cruce de seleccionados Generacion: 3
+x: 50
+y: 38
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 239
+Seleccionado generacion: 3
+x: 73
+y: 46
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 240
+Cruce de seleccionados Generacion: 3
+x: 23
+y: 88
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 241
+Cruce de seleccionados Generacion: 3
+x: 24
+y: 10
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 242
+Seleccionado generacion: 3
+x: 20
+y: 6
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 243
+Seleccionado generacion: 3
+x: 66
+y: 8
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 244
+Seleccionado generacion: 3
+x: 50
+y: 41
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 245
+Seleccionado generacion: 3
+x: 99
+y: 30
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 246
+Seleccionado generacion: 3
+x: 20
+y: 75
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 247
+Cruce de seleccionados Generacion: 3
+x: 47
+y: 45
+suma: 14
+Puntos: 3.295901311297879E-4
 ------------------------
 Individuo 248
 Cruce de seleccionados Generacion: 3
-x: 46
-y: 14
+x: 39
+y: 56
 suma: 14
-Puntos: 3.120959472111998E-4
+Puntos: 3.295901311297879E-4
 ------------------------
 Individuo 249
 Cruce de seleccionados Generacion: 3
-x: 28
-y: 8
+x: 49
+y: 6
 suma: 14
-Puntos: 3.120959472111998E-4
+Puntos: 3.295901311297879E-4
 ------------------------
 Individuo 250
 Seleccionado generacion: 3
-x: 20
-y: 88
+x: 44
+y: 45
 suma: 14
-Puntos: 3.120959472111998E-4
+Puntos: 3.295901311297879E-4
 ------------------------
 Individuo 251
-Cruce de seleccionados Generacion: 3
-x: 24
-y: 8
+Seleccionado generacion: 3
+x: 20
+y: 60
 suma: 14
-Puntos: 3.120959472111998E-4
+Puntos: 3.295901311297879E-4
 ------------------------
 Individuo 252
-Seleccionado generacion: 3
-x: 24
+Cruce de seleccionados Generacion: 3
+x: 37
 y: 91
 suma: 14
-Puntos: 3.120959472111998E-4
+Puntos: 3.295901311297879E-4
 ------------------------
 Individuo 253
-Cruce de seleccionados Generacion: 3
-x: 21
-y: 92
+Seleccionado generacion: 3
+x: 23
+y: 10
 suma: 14
-Puntos: 3.120959472111998E-4
+Puntos: 3.295901311297879E-4
 ------------------------
 Individuo 254
 Cruce de seleccionados Generacion: 3
-x: 40
-y: 7
+x: 37
+y: 92
 suma: 14
-Puntos: 3.120959472111998E-4
+Puntos: 3.295901311297879E-4
 ------------------------
 Individuo 255
-Seleccionado generacion: 3
-x: 55
-y: 7
+Cruce de seleccionados Generacion: 3
+x: 43
+y: 92
 suma: 14
-Puntos: 3.120959472111998E-4
+Puntos: 3.295901311297879E-4
 ------------------------
 Individuo 256
 Seleccionado generacion: 3
-x: 55
-y: 8
+x: 79
+y: 6
 suma: 14
-Puntos: 3.120959472111998E-4
+Puntos: 3.295901311297879E-4
 ------------------------
 Individuo 257
 Cruce de seleccionados Generacion: 3
-x: 20
-y: 87
+x: 46
+y: 92
 suma: 14
-Puntos: 3.120959472111998E-4
+Puntos: 3.295901311297879E-4
 ------------------------
 Individuo 258
-Cruce de seleccionados Generacion: 3
-x: 21
-y: 88
+Seleccionado generacion: 3
+x: 51
+y: 13
 suma: 14
-Puntos: 3.120959472111998E-4
+Puntos: 3.295901311297879E-4
 ------------------------
 Individuo 259
 Cruce de seleccionados Generacion: 3
-x: 49
-y: 48
+x: 39
+y: 92
 suma: 14
-Puntos: 3.120959472111998E-4
+Puntos: 3.295901311297879E-4
 ------------------------
 Individuo 260
-Seleccionado generacion: 3
-x: 14
-y: 4
-suma: 13
-Puntos: 2.898033795532569E-4
+Cruce de seleccionados Generacion: 3
+x: 1
+y: 9
+suma: 14
+Puntos: 3.295901311297879E-4
 ------------------------
 Individuo 261
 Cruce de seleccionados Generacion: 3
-x: 33
-y: 60
-suma: 13
-Puntos: 2.898033795532569E-4
+x: 18
+y: 10
+suma: 14
+Puntos: 3.295901311297879E-4
 ------------------------
 Individuo 262
-Seleccionado generacion: 3
-x: 8
-y: 15
-suma: 13
-Puntos: 2.898033795532569E-4
+Cruce de seleccionados Generacion: 3
+x: 40
+y: 91
+suma: 14
+Puntos: 3.295901311297879E-4
 ------------------------
 Individuo 263
-Seleccionado generacion: 3
-x: 43
-y: 60
-suma: 13
-Puntos: 2.898033795532569E-4
+Cruce de seleccionados Generacion: 3
+x: 47
+y: 83
+suma: 14
+Puntos: 3.295901311297879E-4
 ------------------------
 Individuo 264
 Cruce de seleccionados Generacion: 3
-x: 33
-y: 10
-suma: 13
-Puntos: 2.898033795532569E-4
-------------------------
-Individuo 265
-Cruce de seleccionados Generacion: 3
-x: 41
-y: 60
-suma: 13
-Puntos: 2.898033795532569E-4
-------------------------
-Individuo 266
-Cruce de seleccionados Generacion: 3
-x: 47
-y: 90
-suma: 13
-Puntos: 2.898033795532569E-4
-------------------------
-Individuo 267
-Cruce de seleccionados Generacion: 3
-x: 19
-y: 85
-suma: 13
-Puntos: 2.898033795532569E-4
-------------------------
-Individuo 268
-Seleccionado generacion: 3
 x: 1
 y: 7
-suma: 13
-Puntos: 2.898033795532569E-4
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 265
+Seleccionado generacion: 3
+x: 85
+y: 41
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 266
+Seleccionado generacion: 3
+x: 64
+y: 9
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 267
+Seleccionado generacion: 3
+x: 44
+y: 84
+suma: 14
+Puntos: 3.295901311297879E-4
+------------------------
+Individuo 268
+Cruce de seleccionados Generacion: 3
+x: 39
+y: 43
+suma: 14
+Puntos: 3.295901311297879E-4
 ------------------------
 Individuo 269
-Seleccionado generacion: 3
-x: 43
-y: 10
-suma: 13
-Puntos: 2.898033795532569E-4
+Cruce de seleccionados Generacion: 3
+x: 44
+y: 91
+suma: 14
+Puntos: 3.295901311297879E-4
 ------------------------
 Individuo 270
-Cruce de seleccionados Generacion: 3
-x: 40
-y: 60
-suma: 13
-Puntos: 2.898033795532569E-4
+Seleccionado generacion: 3
+x: 51
+y: 16
+suma: 14
+Puntos: 3.295901311297879E-4
 ------------------------
 Individuo 271
-Seleccionado generacion: 3
-x: 32
-y: 10
-suma: 13
-Puntos: 2.898033795532569E-4
+Cruce de seleccionados Generacion: 3
+x: 20
+y: 61
+suma: 14
+Puntos: 3.295901311297879E-4
 ------------------------
 Individuo 272
 Cruce de seleccionados Generacion: 3
-x: 46
-y: 64
-suma: 13
-Puntos: 2.898033795532569E-4
+x: 20
+y: 59
+suma: 14
+Puntos: 3.295901311297879E-4
 ------------------------
 Individuo 273
-Cruce de seleccionados Generacion: 3
-x: 15
-y: 4
+Seleccionado generacion: 3
+x: 27
+y: 10
 suma: 13
-Puntos: 2.898033795532569E-4
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 274
 Cruce de seleccionados Generacion: 3
-x: 19
-y: 68
+x: 44
+y: 56
 suma: 13
-Puntos: 2.898033795532569E-4
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 275
-Seleccionado generacion: 3
-x: 16
-y: 3
-suma: 12
-Puntos: 2.675108118953141E-4
+Cruce de seleccionados Generacion: 3
+x: 15
+y: 60
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 276
-Cruce de seleccionados Generacion: 3
-x: 19
-y: 4
-suma: 12
-Puntos: 2.675108118953141E-4
+Seleccionado generacion: 3
+x: 15
+y: 56
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 277
 Seleccionado generacion: 3
-x: 46
-y: 48
-suma: 12
-Puntos: 2.675108118953141E-4
+x: 51
+y: 30
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 278
 Seleccionado generacion: 3
-x: 17
-y: 4
-suma: 12
-Puntos: 2.675108118953141E-4
+x: 37
+y: 60
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 279
-Cruce de seleccionados Generacion: 3
-x: 18
-y: 3
-suma: 12
-Puntos: 2.675108118953141E-4
+Seleccionado generacion: 3
+x: 27
+y: 6
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 280
-Seleccionado generacion: 3
-x: 41
-y: 10
-suma: 12
-Puntos: 2.675108118953141E-4
+Cruce de seleccionados Generacion: 3
+x: 23
+y: 6
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 281
 Seleccionado generacion: 3
-x: 19
-y: 90
-suma: 12
-Puntos: 2.675108118953141E-4
+x: 23
+y: 71
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 282
-Cruce de seleccionados Generacion: 3
-x: 46
-y: 90
-suma: 12
-Puntos: 2.675108118953141E-4
+Seleccionado generacion: 3
+x: 23
+y: 80
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 283
-Cruce de seleccionados Generacion: 3
-x: 19
-y: 92
-suma: 12
-Puntos: 2.675108118953141E-4
+Seleccionado generacion: 3
+x: 39
+y: 60
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 284
-Cruce de seleccionados Generacion: 3
-x: 19
-y: 5
-suma: 12
-Puntos: 2.675108118953141E-4
+Seleccionado generacion: 3
+x: 46
+y: 31
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 285
-Seleccionado generacion: 3
-x: 19
-y: 12
-suma: 12
-Puntos: 2.675108118953141E-4
+Cruce de seleccionados Generacion: 3
+x: 59
+y: 10
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 286
 Seleccionado generacion: 3
-x: 55
-y: 10
-suma: 12
-Puntos: 2.675108118953141E-4
+x: 23
+y: 67
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 287
 Seleccionado generacion: 3
-x: 24
-y: 10
-suma: 12
-Puntos: 2.675108118953141E-4
+x: 14
+y: 60
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 288
 Seleccionado generacion: 3
-x: 17
-y: 64
-suma: 12
-Puntos: 2.675108118953141E-4
+x: 46
+y: 61
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 289
 Seleccionado generacion: 3
-x: 16
-y: 4
-suma: 12
-Puntos: 2.675108118953141E-4
+x: 23
+y: 86
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 290
 Seleccionado generacion: 3
-x: 24
-y: 90
-suma: 12
-Puntos: 2.675108118953141E-4
+x: 1
+y: 8
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 291
-Cruce de seleccionados Generacion: 3
-x: 19
-y: 91
-suma: 12
-Puntos: 2.675108118953141E-4
+Seleccionado generacion: 3
+x: 23
+y: 75
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 292
-Cruce de seleccionados Generacion: 3
-x: 19
-y: 87
-suma: 12
-Puntos: 2.675108118953141E-4
+Seleccionado generacion: 3
+x: 37
+y: 56
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 293
-Cruce de seleccionados Generacion: 3
-x: 17
-y: 3
-suma: 11
-Puntos: 2.452182442373713E-4
+Seleccionado generacion: 3
+x: 44
+y: 11
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 294
 Cruce de seleccionados Generacion: 3
-x: 14
-y: 3
-suma: 10
-Puntos: 2.2292567657942843E-4
+x: 26
+y: 10
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 295
 Seleccionado generacion: 3
-x: 14
-y: 64
-suma: 10
-Puntos: 2.2292567657942843E-4
+x: 30
+y: 6
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 296
-Cruce de seleccionados Generacion: 3
-x: 16
-y: 64
-suma: 10
-Puntos: 2.2292567657942843E-4
+Seleccionado generacion: 3
+x: 24
+y: 6
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 297
 Cruce de seleccionados Generacion: 3
-x: 15
-y: 3
-suma: 10
-Puntos: 2.2292567657942843E-4
+x: 51
+y: 24
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 298
 Seleccionado generacion: 3
-x: 45
-y: 54
-suma: 9
-Puntos: 2.0063310892148558E-4
+x: 80
+y: 9
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 299
 Cruce de seleccionados Generacion: 3
-x: 16
-y: 14
-suma: 9
-Puntos: 2.0063310892148558E-4
+x: 2
+y: 6
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 300
-Cruce de seleccionados Generacion: 3
-x: 20
-y: 4
-suma: 9
-Puntos: 2.0063310892148558E-4
+Seleccionado generacion: 3
+x: 2
+y: 10
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 301
-Seleccionado generacion: 3
-x: 19
-y: 3
-suma: 9
-Puntos: 2.0063310892148558E-4
+Cruce de seleccionados Generacion: 3
+x: 20
+y: 10
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 302
 Cruce de seleccionados Generacion: 3
-x: 17
-y: 14
-suma: 9
-Puntos: 2.0063310892148558E-4
+x: 51
+y: 63
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 303
-Cruce de seleccionados Generacion: 3
-x: 20
-y: 5
-suma: 9
-Puntos: 2.0063310892148558E-4
+Seleccionado generacion: 3
+x: 26
+y: 6
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 304
-Seleccionado generacion: 3
-x: 14
-y: 15
-suma: 8
-Puntos: 1.7834054126354272E-4
+Cruce de seleccionados Generacion: 3
+x: 23
+y: 68
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 305
-Cruce de seleccionados Generacion: 3
-x: 43
-y: 54
-suma: 8
-Puntos: 1.7834054126354272E-4
+Seleccionado generacion: 3
+x: 61
+y: 6
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 306
-Seleccionado generacion: 3
-x: 15
-y: 15
-suma: 8
-Puntos: 1.7834054126354272E-4
+Cruce de seleccionados Generacion: 3
+x: 51
+y: 45
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 307
-Cruce de seleccionados Generacion: 3
-x: 45
-y: 53
-suma: 8
-Puntos: 1.7834054126354272E-4
+Seleccionado generacion: 3
+x: 69
+y: 6
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 308
-Seleccionado generacion: 3
-x: 45
-y: 52
-suma: 8
-Puntos: 1.7834054126354272E-4
+Cruce de seleccionados Generacion: 3
+x: 38
+y: 60
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 309
-Cruce de seleccionados Generacion: 3
-x: 43
-y: 53
-suma: 8
-Puntos: 1.7834054126354272E-4
+Seleccionado generacion: 3
+x: 54
+y: 86
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 310
-Seleccionado generacion: 3
-x: 12
-y: 1
-suma: 8
-Puntos: 1.7834054126354272E-4
+Cruce de seleccionados Generacion: 3
+x: 55
+y: 86
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 311
 Cruce de seleccionados Generacion: 3
-x: 21
-y: 3
-suma: 7
-Puntos: 1.560479736055999E-4
+x: 12
+y: 59
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 312
 Cruce de seleccionados Generacion: 3
-x: 33
-y: 88
-suma: 7
-Puntos: 1.560479736055999E-4
+x: 46
+y: 19
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 313
 Seleccionado generacion: 3
-x: 41
-y: 54
-suma: 7
-Puntos: 1.560479736055999E-4
+x: 43
+y: 11
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 314
-Seleccionado generacion: 3
-x: 33
-y: 87
-suma: 7
-Puntos: 1.560479736055999E-4
+Cruce de seleccionados Generacion: 3
+x: 51
+y: 64
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 315
-Seleccionado generacion: 3
-x: 33
-y: 94
-suma: 7
-Puntos: 1.560479736055999E-4
+Cruce de seleccionados Generacion: 3
+x: 51
+y: 46
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 316
-Seleccionado generacion: 3
-x: 21
-y: 5
-suma: 7
-Puntos: 1.560479736055999E-4
+Cruce de seleccionados Generacion: 3
+x: 69
+y: 10
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 317
-Seleccionado generacion: 3
-x: 20
-y: 3
-suma: 7
-Puntos: 1.560479736055999E-4
+Cruce de seleccionados Generacion: 3
+x: 43
+y: 12
+suma: 13
+Puntos: 3.060479789062316E-4
 ------------------------
 Individuo 318
 Seleccionado generacion: 3
-x: 45
-y: 35
-suma: 7
-Puntos: 1.560479736055999E-4
+x: 51
+y: 38
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 319
-Cruce de seleccionados Generacion: 3
-x: 21
-y: 4
-suma: 7
-Puntos: 1.560479736055999E-4
+Seleccionado generacion: 3
+x: 23
+y: 81
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 320
-Cruce de seleccionados Generacion: 3
-x: 43
-y: 35
-suma: 7
-Puntos: 1.560479736055999E-4
+Seleccionado generacion: 3
+x: 51
+y: 61
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 321
-Seleccionado generacion: 3
-x: 45
-y: 15
-suma: 7
-Puntos: 1.560479736055999E-4
+Cruce de seleccionados Generacion: 3
+x: 37
+y: 6
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 322
-Seleccionado generacion: 3
-x: 45
-y: 14
-suma: 7
-Puntos: 1.560479736055999E-4
+Cruce de seleccionados Generacion: 3
+x: 27
+y: 60
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 323
 Seleccionado generacion: 3
-x: 32
-y: 87
-suma: 7
-Puntos: 1.560479736055999E-4
+x: 64
+y: 6
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 324
 Cruce de seleccionados Generacion: 3
-x: 43
-y: 14
-suma: 7
-Puntos: 1.560479736055999E-4
+x: 40
+y: 60
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 325
-Cruce de seleccionados Generacion: 3
-x: 43
-y: 15
-suma: 7
-Puntos: 1.560479736055999E-4
+Seleccionado generacion: 3
+x: 60
+y: 60
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 326
 Seleccionado generacion: 3
-x: 36
-y: 87
-suma: 7
-Puntos: 1.560479736055999E-4
+x: 61
+y: 41
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 327
-Cruce de seleccionados Generacion: 3
-x: 45
-y: 94
-suma: 7
-Puntos: 1.560479736055999E-4
+Seleccionado generacion: 3
+x: 7
+y: 6
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 328
 Cruce de seleccionados Generacion: 3
-x: 43
-y: 12
-suma: 7
-Puntos: 1.560479736055999E-4
+x: 23
+y: 56
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 329
-Cruce de seleccionados Generacion: 3
-x: 1
-y: 3
-suma: 7
-Puntos: 1.560479736055999E-4
+Seleccionado generacion: 3
+x: 46
+y: 45
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 330
-Seleccionado generacion: 3
-x: 49
-y: 88
-suma: 7
-Puntos: 1.560479736055999E-4
+Cruce de seleccionados Generacion: 3
+x: 51
+y: 15
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 331
-Cruce de seleccionados Generacion: 3
-x: 17
-y: 15
-suma: 6
-Puntos: 1.3375540594765705E-4
+Seleccionado generacion: 3
+x: 46
+y: 37
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 332
 Cruce de seleccionados Generacion: 3
-x: 17
-y: 81
-suma: 6
-Puntos: 1.3375540594765705E-4
+x: 90
+y: 6
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 333
-Cruce de seleccionados Generacion: 3
-x: 24
-y: 81
-suma: 6
-Puntos: 1.3375540594765705E-4
+Seleccionado generacion: 3
+x: 47
+y: 67
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 334
 Cruce de seleccionados Generacion: 3
-x: 16
-y: 80
-suma: 6
-Puntos: 1.3375540594765705E-4
+x: 66
+y: 6
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 335
 Cruce de seleccionados Generacion: 3
-x: 47
-y: 88
-suma: 6
-Puntos: 1.3375540594765705E-4
+x: 55
+y: 26
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 336
 Cruce de seleccionados Generacion: 3
-x: 47
-y: 87
-suma: 6
-Puntos: 1.3375540594765705E-4
+x: 46
+y: 88
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 337
 Cruce de seleccionados Generacion: 3
-x: 45
-y: 19
-suma: 6
-Puntos: 1.3375540594765705E-4
+x: 55
+y: 90
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 338
 Cruce de seleccionados Generacion: 3
-x: 22
-y: 5
-suma: 6
-Puntos: 1.3375540594765705E-4
+x: 18
+y: 60
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 339
-Cruce de seleccionados Generacion: 3
-x: 47
-y: 94
-suma: 6
-Puntos: 1.3375540594765705E-4
+Seleccionado generacion: 3
+x: 46
+y: 46
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 340
-Cruce de seleccionados Generacion: 3
-x: 24
-y: 80
-suma: 5
-Puntos: 1.1146283828971421E-4
+Seleccionado generacion: 3
+x: 14
+y: 4
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 341
 Cruce de seleccionados Generacion: 3
-x: 16
-y: 81
-suma: 5
-Puntos: 1.1146283828971421E-4
+x: 39
+y: 34
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 342
-Cruce de seleccionados Generacion: 3
-x: 43
-y: 88
-suma: 5
-Puntos: 1.1146283828971421E-4
+Seleccionado generacion: 3
+x: 46
+y: 38
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 343
 Cruce de seleccionados Generacion: 3
-x: 41
-y: 12
-suma: 5
-Puntos: 1.1146283828971421E-4
+x: 39
+y: 37
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 344
-Cruce de seleccionados Generacion: 3
-x: 41
-y: 94
-suma: 5
-Puntos: 1.1146283828971421E-4
+Seleccionado generacion: 3
+x: 88
+y: 6
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 345
-Cruce de seleccionados Generacion: 3
-x: 41
-y: 64
-suma: 5
-Puntos: 1.1146283828971421E-4
+Seleccionado generacion: 3
+x: 46
+y: 41
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 346
-Cruce de seleccionados Generacion: 3
-x: 41
-y: 15
-suma: 5
-Puntos: 1.1146283828971421E-4
+Seleccionado generacion: 3
+x: 26
+y: 41
+suma: 12
+Puntos: 2.8250582668267534E-4
 ------------------------
 Individuo 347
-Cruce de seleccionados Generacion: 3
-x: 19
-y: 14
-suma: 5
-Puntos: 1.1146283828971421E-4
+Seleccionado generacion: 3
+x: 44
+y: 12
+suma: 11
+Puntos: 2.5896367445911905E-4
 ------------------------
 Individuo 348
 Cruce de seleccionados Generacion: 3
-x: 41
-y: 88
-suma: 5
-Puntos: 1.1146283828971421E-4
+x: 1
+y: 10
+suma: 11
+Puntos: 2.5896367445911905E-4
 ------------------------
 Individuo 349
-Cruce de seleccionados Generacion: 3
-x: 21
-y: 12
-suma: 5
-Puntos: 1.1146283828971421E-4
+Seleccionado generacion: 3
+x: 44
+y: 51
+suma: 11
+Puntos: 2.5896367445911905E-4
 ------------------------
 Individuo 350
-Cruce de seleccionados Generacion: 3
-x: 20
-y: 14
-suma: 5
-Puntos: 1.1146283828971421E-4
+Seleccionado generacion: 3
+x: 50
+y: 96
+suma: 11
+Puntos: 2.5896367445911905E-4
 ------------------------
 Individuo 351
 Cruce de seleccionados Generacion: 3
-x: 18
-y: 73
-suma: 5
-Puntos: 1.1146283828971421E-4
+x: 14
+y: 12
+suma: 11
+Puntos: 2.5896367445911905E-4
 ------------------------
 Individuo 352
-Cruce de seleccionados Generacion: 3
-x: 41
-y: 14
-suma: 5
-Puntos: 1.1146283828971421E-4
+Seleccionado generacion: 3
+x: 12
+y: 60
+suma: 11
+Puntos: 2.5896367445911905E-4
 ------------------------
 Individuo 353
 Cruce de seleccionados Generacion: 3
-x: 41
-y: 53
-suma: 5
-Puntos: 1.1146283828971421E-4
+x: 1
+y: 6
+suma: 11
+Puntos: 2.5896367445911905E-4
 ------------------------
 Individuo 354
-Cruce de seleccionados Generacion: 3
-x: 45
-y: 64
-suma: 5
-Puntos: 1.1146283828971421E-4
+Seleccionado generacion: 3
+x: 44
+y: 15
+suma: 10
+Puntos: 2.3542152223556277E-4
 ------------------------
 Individuo 355
-Cruce de seleccionados Generacion: 3
-x: 16
-y: 15
-suma: 4
-Puntos: 8.917027063177136E-5
+Seleccionado generacion: 3
+x: 12
+y: 56
+suma: 10
+Puntos: 2.3542152223556277E-4
 ------------------------
 Individuo 356
-Cruce de seleccionados Generacion: 3
-x: 43
-y: 4
-suma: 4
-Puntos: 8.917027063177136E-5
+Seleccionado generacion: 3
+x: 15
+y: 5
+suma: 10
+Puntos: 2.3542152223556277E-4
 ------------------------
 Individuo 357
-Cruce de seleccionados Generacion: 3
-x: 49
-y: 4
-suma: 4
-Puntos: 8.917027063177136E-5
+Seleccionado generacion: 3
+x: 43
+y: 51
+suma: 10
+Puntos: 2.3542152223556277E-4
 ------------------------
 Individuo 358
-Cruce de seleccionados Generacion: 3
-x: 43
-y: 5
-suma: 4
-Puntos: 8.917027063177136E-5
+Seleccionado generacion: 3
+x: 15
+y: 11
+suma: 10
+Puntos: 2.3542152223556277E-4
 ------------------------
 Individuo 359
-Cruce de seleccionados Generacion: 3
-x: 36
-y: 5
-suma: 4
-Puntos: 8.917027063177136E-5
+Seleccionado generacion: 3
+x: 52
+y: 86
+suma: 10
+Puntos: 2.3542152223556277E-4
 ------------------------
 Individuo 360
-Cruce de seleccionados Generacion: 3
-x: 47
-y: 4
-suma: 4
-Puntos: 8.917027063177136E-5
+Seleccionado generacion: 3
+x: 51
+y: 67
+suma: 10
+Puntos: 2.3542152223556277E-4
 ------------------------
 Individuo 361
-Cruce de seleccionados Generacion: 3
-x: 75
-y: 3
-suma: 4
-Puntos: 8.917027063177136E-5
+Seleccionado generacion: 3
+x: 52
+y: 51
+suma: 10
+Puntos: 2.3542152223556277E-4
 ------------------------
 Individuo 362
-Cruce de seleccionados Generacion: 3
-x: 45
-y: 4
-suma: 4
-Puntos: 8.917027063177136E-5
+Seleccionado generacion: 3
+x: 26
+y: 63
+suma: 10
+Puntos: 2.3542152223556277E-4
 ------------------------
 Individuo 363
-Cruce de seleccionados Generacion: 3
-x: 47
-y: 3
-suma: 4
-Puntos: 8.917027063177136E-5
+Seleccionado generacion: 3
+x: 46
+y: 67
+suma: 10
+Puntos: 2.3542152223556277E-4
 ------------------------
 Individuo 364
 Cruce de seleccionados Generacion: 3
-x: 17
-y: 68
-suma: 4
-Puntos: 8.917027063177136E-5
+x: 39
+y: 5
+suma: 9
+Puntos: 2.118793700120065E-4
 ------------------------
 Individuo 365
-Cruce de seleccionados Generacion: 3
-x: 14
-y: 54
-suma: 4
-Puntos: 8.917027063177136E-5
+Seleccionado generacion: 3
+x: 40
+y: 5
+suma: 9
+Puntos: 2.118793700120065E-4
 ------------------------
 Individuo 366
-Cruce de seleccionados Generacion: 3
-x: 33
-y: 4
-suma: 4
-Puntos: 8.917027063177136E-5
+Seleccionado generacion: 3
+x: 27
+y: 61
+suma: 9
+Puntos: 2.118793700120065E-4
 ------------------------
 Individuo 367
-Cruce de seleccionados Generacion: 3
-x: 33
-y: 14
-suma: 4
-Puntos: 8.917027063177136E-5
+Seleccionado generacion: 3
+x: 39
+y: 4
+suma: 9
+Puntos: 2.118793700120065E-4
 ------------------------
 Individuo 368
-Cruce de seleccionados Generacion: 3
-x: 49
-y: 5
-suma: 4
-Puntos: 8.917027063177136E-5
+Seleccionado generacion: 3
+x: 40
+y: 11
+suma: 9
+Puntos: 2.118793700120065E-4
 ------------------------
 Individuo 369
-Cruce de seleccionados Generacion: 3
-x: 45
-y: 3
-suma: 4
-Puntos: 8.917027063177136E-5
+Seleccionado generacion: 3
+x: 40
+y: 4
+suma: 9
+Puntos: 2.118793700120065E-4
 ------------------------
 Individuo 370
-Cruce de seleccionados Generacion: 3
-x: 63
-y: 92
-suma: 4
-Puntos: 8.917027063177136E-5
+Seleccionado generacion: 3
+x: 26
+y: 61
+suma: 9
+Puntos: 2.118793700120065E-4
 ------------------------
 Individuo 371
-Cruce de seleccionados Generacion: 3
-x: 47
-y: 5
-suma: 4
-Puntos: 8.917027063177136E-5
+Seleccionado generacion: 3
+x: 15
+y: 12
+suma: 9
+Puntos: 2.118793700120065E-4
 ------------------------
 Individuo 372
 Cruce de seleccionados Generacion: 3
-x: 41
-y: 87
-suma: 4
-Puntos: 8.917027063177136E-5
+x: 15
+y: 4
+suma: 9
+Puntos: 2.118793700120065E-4
 ------------------------
 Individuo 373
-Cruce de seleccionados Generacion: 3
-x: 14
-y: 81
-suma: 4
-Puntos: 8.917027063177136E-5
+Seleccionado generacion: 3
+x: 27
+y: 63
+suma: 9
+Puntos: 2.118793700120065E-4
 ------------------------
 Individuo 374
-Cruce de seleccionados Generacion: 3
-x: 24
-y: 68
-suma: 4
-Puntos: 8.917027063177136E-5
+Seleccionado generacion: 3
+x: 43
+y: 15
+suma: 9
+Puntos: 2.118793700120065E-4
 ------------------------
 Individuo 375
 Cruce de seleccionados Generacion: 3
-x: 33
-y: 54
-suma: 4
-Puntos: 8.917027063177136E-5
+x: 44
+y: 55
+suma: 9
+Puntos: 2.118793700120065E-4
 ------------------------
 Individuo 376
 Cruce de seleccionados Generacion: 3
-x: 33
-y: 5
-suma: 4
-Puntos: 8.917027063177136E-5
+x: 24
+y: 61
+suma: 9
+Puntos: 2.118793700120065E-4
 ------------------------
 Individuo 377
-Cruce de seleccionados Generacion: 3
-x: 62
-y: 14
-suma: 4
-Puntos: 8.917027063177136E-5
+Seleccionado generacion: 3
+x: 44
+y: 49
+suma: 8
+Puntos: 1.883372177884502E-4
 ------------------------
 Individuo 378
 Cruce de seleccionados Generacion: 3
-x: 24
-y: 54
-suma: 4
-Puntos: 8.917027063177136E-5
+x: 1
+y: 12
+suma: 8
+Puntos: 1.883372177884502E-4
 ------------------------
 Individuo 379
-Cruce de seleccionados Generacion: 3
-x: 62
-y: 5
-suma: 4
-Puntos: 8.917027063177136E-5
+Seleccionado generacion: 3
+x: 1
+y: 11
+suma: 8
+Puntos: 1.883372177884502E-4
 ------------------------
 Individuo 380
-Cruce de seleccionados Generacion: 3
-x: 49
-y: 3
-suma: 4
-Puntos: 8.917027063177136E-5
+Seleccionado generacion: 3
+x: 18
+y: 5
+suma: 8
+Puntos: 1.883372177884502E-4
 ------------------------
 Individuo 381
 Cruce de seleccionados Generacion: 3
-x: 32
-y: 64
-suma: 4
-Puntos: 8.917027063177136E-5
+x: 52
+y: 12
+suma: 8
+Puntos: 1.883372177884502E-4
 ------------------------
 Individuo 382
 Cruce de seleccionados Generacion: 3
-x: 18
-y: 15
-suma: 4
-Puntos: 8.917027063177136E-5
+x: 55
+y: 11
+suma: 8
+Puntos: 1.883372177884502E-4
 ------------------------
 Individuo 383
-Cruce de seleccionados Generacion: 3
-x: 36
-y: 12
-suma: 4
-Puntos: 8.917027063177136E-5
+Seleccionado generacion: 3
+x: 52
+y: 11
+suma: 8
+Puntos: 1.883372177884502E-4
 ------------------------
 Individuo 384
 Cruce de seleccionados Generacion: 3
-x: 17
-y: 85
-suma: 4
-Puntos: 8.917027063177136E-5
+x: 44
+y: 61
+suma: 7
+Puntos: 1.6479506556489395E-4
 ------------------------
 Individuo 385
 Cruce de seleccionados Generacion: 3
-x: 36
-y: 54
-suma: 4
-Puntos: 8.917027063177136E-5
+x: 55
+y: 4
+suma: 7
+Puntos: 1.6479506556489395E-4
 ------------------------
 Individuo 386
 Cruce de seleccionados Generacion: 3
-x: 18
-y: 85
-suma: 4
-Puntos: 8.917027063177136E-5
+x: 55
+y: 12
+suma: 7
+Puntos: 1.6479506556489395E-4
 ------------------------
 Individuo 387
 Cruce de seleccionados Generacion: 3
-x: 46
-y: 3
-suma: 4
-Puntos: 8.917027063177136E-5
+x: 44
+y: 5
+suma: 7
+Puntos: 1.6479506556489395E-4
 ------------------------
 Individuo 388
 Cruce de seleccionados Generacion: 3
-x: 8
-y: 19
-suma: 4
-Puntos: 8.917027063177136E-5
+x: 46
+y: 5
+suma: 7
+Puntos: 1.6479506556489395E-4
 ------------------------
 Individuo 389
 Cruce de seleccionados Generacion: 3
-x: 33
+x: 54
 y: 12
-suma: 4
-Puntos: 8.917027063177136E-5
+suma: 7
+Puntos: 1.6479506556489395E-4
 ------------------------
 Individuo 390
 Cruce de seleccionados Generacion: 3
-x: 20
-y: 15
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 40
+y: 12
+suma: 7
+Puntos: 1.6479506556489395E-4
 ------------------------
 Individuo 391
 Cruce de seleccionados Generacion: 3
-x: 8
-y: 60
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 50
+y: 86
+suma: 7
+Puntos: 1.6479506556489395E-4
 ------------------------
 Individuo 392
 Cruce de seleccionados Generacion: 3
-x: 21
-y: 15
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 44
+y: 4
+suma: 7
+Puntos: 1.6479506556489395E-4
 ------------------------
 Individuo 393
 Cruce de seleccionados Generacion: 3
-x: 12
-y: 53
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 47
+y: 5
+suma: 7
+Puntos: 1.6479506556489395E-4
 ------------------------
 Individuo 394
 Cruce de seleccionados Generacion: 3
-x: 19
-y: 15
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 37
+y: 11
+suma: 7
+Puntos: 1.6479506556489395E-4
 ------------------------
 Individuo 395
 Cruce de seleccionados Generacion: 3
-x: 21
-y: 14
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 75
+y: 5
+suma: 7
+Puntos: 1.6479506556489395E-4
 ------------------------
 Individuo 396
 Cruce de seleccionados Generacion: 3
-x: 17
-y: 54
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 55
+y: 5
+suma: 7
+Puntos: 1.6479506556489395E-4
 ------------------------
 Individuo 397
 Cruce de seleccionados Generacion: 3
-x: 16
-y: 68
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 76
+y: 5
+suma: 7
+Puntos: 1.6479506556489395E-4
 ------------------------
 Individuo 398
 Cruce de seleccionados Generacion: 3
-x: 8
-y: 58
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 51
+y: 86
+suma: 7
+Puntos: 1.6479506556489395E-4
 ------------------------
 Individuo 399
 Cruce de seleccionados Generacion: 3
-x: 33
-y: 15
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 52
+y: 49
+suma: 7
+Puntos: 1.6479506556489395E-4
 ------------------------
 Individuo 400
 Cruce de seleccionados Generacion: 3
-x: 36
-y: 15
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 43
+y: 5
+suma: 7
+Puntos: 1.6479506556489395E-4
 ------------------------
 Individuo 401
 Cruce de seleccionados Generacion: 3
-x: 41
-y: 3
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 37
+y: 4
+suma: 7
+Puntos: 1.6479506556489395E-4
 ------------------------
 Individuo 402
 Cruce de seleccionados Generacion: 3
-x: 15
-y: 91
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 75
+y: 4
+suma: 7
+Puntos: 1.6479506556489395E-4
 ------------------------
 Individuo 403
 Cruce de seleccionados Generacion: 3
-x: 33
-y: 3
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 27
+y: 55
+suma: 7
+Puntos: 1.6479506556489395E-4
 ------------------------
 Individuo 404
 Cruce de seleccionados Generacion: 3
-x: 16
-y: 91
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 49
+y: 49
+suma: 7
+Puntos: 1.6479506556489395E-4
 ------------------------
 Individuo 405
 Cruce de seleccionados Generacion: 3
-x: 19
-y: 53
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 14
+y: 15
+suma: 7
+Puntos: 1.6479506556489395E-4
 ------------------------
 Individuo 406
 Cruce de seleccionados Generacion: 3
-x: 19
-y: 54
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 37
+y: 5
+suma: 7
+Puntos: 1.6479506556489395E-4
 ------------------------
 Individuo 407
 Cruce de seleccionados Generacion: 3
-x: 19
-y: 94
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 56
+y: 4
+suma: 6
+Puntos: 1.4125291334133767E-4
 ------------------------
 Individuo 408
 Cruce de seleccionados Generacion: 3
-x: 14
-y: 68
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 51
+y: 5
+suma: 6
+Puntos: 1.4125291334133767E-4
 ------------------------
 Individuo 409
 Cruce de seleccionados Generacion: 3
-x: 28
-y: 68
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 43
+y: 61
+suma: 6
+Puntos: 1.4125291334133767E-4
 ------------------------
 Individuo 410
 Cruce de seleccionados Generacion: 3
-x: 14
-y: 90
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 73
+y: 5
+suma: 6
+Puntos: 1.4125291334133767E-4
 ------------------------
 Individuo 411
 Cruce de seleccionados Generacion: 3
-x: 8
-y: 59
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 52
+y: 15
+suma: 6
+Puntos: 1.4125291334133767E-4
 ------------------------
 Individuo 412
 Cruce de seleccionados Generacion: 3
-x: 17
-y: 90
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 55
+y: 15
+suma: 6
+Puntos: 1.4125291334133767E-4
 ------------------------
 Individuo 413
 Cruce de seleccionados Generacion: 3
-x: 24
-y: 3
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 52
+y: 5
+suma: 6
+Puntos: 1.4125291334133767E-4
 ------------------------
 Individuo 414
 Cruce de seleccionados Generacion: 3
-x: 75
-y: 15
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 51
+y: 4
+suma: 6
+Puntos: 1.4125291334133767E-4
 ------------------------
 Individuo 415
 Cruce de seleccionados Generacion: 3
-x: 24
-y: 14
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 18
+y: 63
+suma: 6
+Puntos: 1.4125291334133767E-4
 ------------------------
 Individuo 416
-Cruce de seleccionados Generacion: 3
-x: 14
-y: 87
-suma: 3
-Puntos: 6.687770297382853E-5
+Seleccionado generacion: 3
+x: 72
+y: 5
+suma: 6
+Puntos: 1.4125291334133767E-4
 ------------------------
 Individuo 417
 Cruce de seleccionados Generacion: 3
-x: 43
-y: 3
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 54
+y: 5
+suma: 6
+Puntos: 1.4125291334133767E-4
 ------------------------
 Individuo 418
 Cruce de seleccionados Generacion: 3
-x: 20
-y: 94
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 75
+y: 11
+suma: 6
+Puntos: 1.4125291334133767E-4
 ------------------------
 Individuo 419
 Cruce de seleccionados Generacion: 3
-x: 24
-y: 15
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 47
+y: 86
+suma: 6
+Puntos: 1.4125291334133767E-4
 ------------------------
 Individuo 420
-Cruce de seleccionados Generacion: 3
-x: 72
-y: 3
-suma: 3
-Puntos: 6.687770297382853E-5
+Seleccionado generacion: 3
+x: 40
+y: 57
+suma: 6
+Puntos: 1.4125291334133767E-4
 ------------------------
 Individuo 421
 Cruce de seleccionados Generacion: 3
-x: 71
-y: 15
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 54
+y: 4
+suma: 6
+Puntos: 1.4125291334133767E-4
 ------------------------
 Individuo 422
 Cruce de seleccionados Generacion: 3
-x: 14
-y: 80
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 54
+y: 15
+suma: 6
+Puntos: 1.4125291334133767E-4
 ------------------------
 Individuo 423
 Cruce de seleccionados Generacion: 3
 x: 43
-y: 19
-suma: 3
-Puntos: 6.687770297382853E-5
+y: 63
+suma: 6
+Puntos: 1.4125291334133767E-4
 ------------------------
 Individuo 424
 Cruce de seleccionados Generacion: 3
-x: 72
-y: 15
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 73
+y: 11
+suma: 6
+Puntos: 1.4125291334133767E-4
 ------------------------
 Individuo 425
 Cruce de seleccionados Generacion: 3
-x: 18
-y: 90
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 27
+y: 84
+suma: 6
+Puntos: 1.4125291334133767E-4
 ------------------------
 Individuo 426
 Cruce de seleccionados Generacion: 3
-x: 21
-y: 52
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 59
+y: 4
+suma: 6
+Puntos: 1.4125291334133767E-4
 ------------------------
 Individuo 427
 Cruce de seleccionados Generacion: 3
-x: 14
-y: 91
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 52
+y: 4
+suma: 6
+Puntos: 1.4125291334133767E-4
 ------------------------
 Individuo 428
 Cruce de seleccionados Generacion: 3
-x: 45
-y: 85
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 44
+y: 31
+suma: 5
+Puntos: 1.1771076111778139E-4
 ------------------------
 Individuo 429
 Cruce de seleccionados Generacion: 3
-x: 19
-y: 52
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 23
+y: 11
+suma: 5
+Puntos: 1.1771076111778139E-4
 ------------------------
 Individuo 430
 Cruce de seleccionados Generacion: 3
-x: 35
-y: 15
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 23
+y: 12
+suma: 5
+Puntos: 1.1771076111778139E-4
 ------------------------
 Individuo 431
 Cruce de seleccionados Generacion: 3
-x: 24
-y: 12
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 55
+y: 30
+suma: 5
+Puntos: 1.1771076111778139E-4
 ------------------------
 Individuo 432
 Cruce de seleccionados Generacion: 3
-x: 16
-y: 88
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 47
+y: 4
+suma: 5
+Puntos: 1.1771076111778139E-4
 ------------------------
 Individuo 433
-Cruce de seleccionados Generacion: 3
-x: 16
-y: 92
-suma: 3
-Puntos: 6.687770297382853E-5
+Seleccionado generacion: 3
+x: 77
+y: 12
+suma: 5
+Puntos: 1.1771076111778139E-4
 ------------------------
 Individuo 434
 Cruce de seleccionados Generacion: 3
-x: 33
-y: 53
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 55
+y: 32
+suma: 5
+Puntos: 1.1771076111778139E-4
 ------------------------
 Individuo 435
 Cruce de seleccionados Generacion: 3
-x: 12
-y: 54
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 48
+y: 5
+suma: 5
+Puntos: 1.1771076111778139E-4
 ------------------------
 Individuo 436
 Cruce de seleccionados Generacion: 3
-x: 16
-y: 90
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 44
+y: 30
+suma: 5
+Puntos: 1.1771076111778139E-4
 ------------------------
 Individuo 437
 Cruce de seleccionados Generacion: 3
-x: 41
-y: 48
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 43
+y: 4
+suma: 5
+Puntos: 1.1771076111778139E-4
 ------------------------
 Individuo 438
 Cruce de seleccionados Generacion: 3
-x: 32
-y: 53
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 14
+y: 61
+suma: 5
+Puntos: 1.1771076111778139E-4
 ------------------------
 Individuo 439
 Cruce de seleccionados Generacion: 3
-x: 17
-y: 91
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 46
+y: 4
+suma: 5
+Puntos: 1.1771076111778139E-4
 ------------------------
 Individuo 440
 Cruce de seleccionados Generacion: 3
-x: 17
-y: 88
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 54
+y: 31
+suma: 5
+Puntos: 1.1771076111778139E-4
 ------------------------
 Individuo 441
 Cruce de seleccionados Generacion: 3
-x: 17
-y: 92
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 15
+y: 61
+suma: 5
+Puntos: 1.1771076111778139E-4
 ------------------------
 Individuo 442
 Cruce de seleccionados Generacion: 3
-x: 32
-y: 15
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 22
+y: 11
+suma: 5
+Puntos: 1.1771076111778139E-4
 ------------------------
 Individuo 443
 Cruce de seleccionados Generacion: 3
-x: 38
-y: 15
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 52
+y: 59
+suma: 5
+Puntos: 1.1771076111778139E-4
 ------------------------
 Individuo 444
 Cruce de seleccionados Generacion: 3
-x: 47
-y: 1
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 15
+y: 63
+suma: 5
+Puntos: 1.1771076111778139E-4
 ------------------------
 Individuo 445
 Cruce de seleccionados Generacion: 3
-x: 36
-y: 14
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 55
+y: 51
+suma: 5
+Puntos: 1.1771076111778139E-4
 ------------------------
 Individuo 446
 Cruce de seleccionados Generacion: 3
-x: 14
-y: 88
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 27
+y: 12
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 447
 Cruce de seleccionados Generacion: 3
-x: 40
-y: 3
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 59
+y: 11
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 448
 Cruce de seleccionados Generacion: 3
-x: 21
-y: 53
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 23
+y: 5
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 449
 Cruce de seleccionados Generacion: 3
-x: 28
-y: 5
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 40
+y: 61
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 450
 Cruce de seleccionados Generacion: 3
-x: 47
-y: 68
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 40
+y: 51
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 451
 Cruce de seleccionados Generacion: 3
-x: 22
-y: 53
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 51
+y: 82
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 452
 Cruce de seleccionados Generacion: 3
-x: 22
-y: 15
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 52
+y: 60
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 453
 Cruce de seleccionados Generacion: 3
-x: 75
-y: 14
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 50
+y: 4
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 454
 Cruce de seleccionados Generacion: 3
-x: 36
-y: 52
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 37
+y: 61
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 455
 Cruce de seleccionados Generacion: 3
-x: 20
-y: 54
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 54
+y: 61
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 456
 Cruce de seleccionados Generacion: 3
-x: 38
-y: 3
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 50
+y: 5
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 457
 Cruce de seleccionados Generacion: 3
-x: 8
-y: 57
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 27
+y: 11
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 458
 Cruce de seleccionados Generacion: 3
-x: 22
-y: 14
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 55
+y: 81
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 459
 Cruce de seleccionados Generacion: 3
-x: 45
-y: 48
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 55
+y: 61
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 460
 Cruce de seleccionados Generacion: 3
-x: 20
-y: 53
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 39
+y: 11
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 461
 Cruce de seleccionados Generacion: 3
-x: 32
-y: 3
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 59
+y: 12
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 462
 Cruce de seleccionados Generacion: 3
-x: 33
-y: 52
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 55
+y: 49
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 463
 Cruce de seleccionados Generacion: 3
-x: 16
-y: 87
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 26
+y: 80
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 464
 Cruce de seleccionados Generacion: 3
-x: 62
-y: 4
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 12
+y: 61
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 465
 Cruce de seleccionados Generacion: 3
-x: 41
-y: 4
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 20
+y: 12
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 466
 Cruce de seleccionados Generacion: 3
-x: 41
-y: 85
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 52
+y: 61
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 467
 Cruce de seleccionados Generacion: 3
-x: 40
-y: 15
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 26
+y: 5
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 468
 Cruce de seleccionados Generacion: 3
-x: 20
-y: 52
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 39
+y: 61
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 469
 Cruce de seleccionados Generacion: 3
-x: 55
-y: 64
-suma: 3
-Puntos: 6.687770297382853E-5
+x: 27
+y: 5
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 470
 Cruce de seleccionados Generacion: 3
-x: 18
-y: 48
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 55
+y: 63
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 471
 Cruce de seleccionados Generacion: 3
-x: 43
-y: 68
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 26
+y: 11
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 472
 Cruce de seleccionados Generacion: 3
-x: 75
-y: 58
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 26
+y: 67
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 473
 Cruce de seleccionados Generacion: 3
-x: 47
-y: 80
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 84
+y: 6
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 474
 Cruce de seleccionados Generacion: 3
-x: 12
-y: 90
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 55
+y: 59
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 475
 Cruce de seleccionados Generacion: 3
-x: 33
-y: 80
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 55
+y: 60
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 476
 Cruce de seleccionados Generacion: 3
-x: 75
-y: 64
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 26
+y: 12
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 477
 Cruce de seleccionados Generacion: 3
-x: 33
-y: 81
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 44
+y: 19
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 478
 Cruce de seleccionados Generacion: 3
-x: 45
-y: 81
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 56
+y: 61
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 479
 Cruce de seleccionados Generacion: 3
-x: 41
-y: 68
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 26
+y: 4
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 480
 Cruce de seleccionados Generacion: 3
-x: 24
-y: 19
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 12
+y: 51
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 481
 Cruce de seleccionados Generacion: 3
-x: 63
-y: 60
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 55
+y: 24
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 482
 Cruce de seleccionados Generacion: 3
-x: 22
-y: 49
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 24
+y: 12
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 483
 Cruce de seleccionados Generacion: 3
-x: 41
-y: 80
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 40
+y: 15
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 484
 Cruce de seleccionados Generacion: 3
-x: 72
-y: 60
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 55
+y: 55
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 485
 Cruce de seleccionados Generacion: 3
-x: 62
-y: 58
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 37
+y: 63
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 486
 Cruce de seleccionados Generacion: 3
-x: 16
-y: 19
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 18
+y: 68
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 487
 Cruce de seleccionados Generacion: 3
-x: 1
-y: 35
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 26
+y: 68
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 488
 Cruce de seleccionados Generacion: 3
-x: 16
-y: 37
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 20
+y: 11
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 489
 Cruce de seleccionados Generacion: 3
-x: 12
-y: 85
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 56
+y: 49
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 490
 Cruce de seleccionados Generacion: 3
-x: 12
-y: 91
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 15
+y: 75
+suma: 4
+Puntos: 9.41686088942251E-5
 ------------------------
 Individuo 491
-Cruce de seleccionados Generacion: 3
-x: 43
-y: 80
-suma: 1
-Puntos: 2.229256765794284E-5
+Seleccionado generacion: 3
+x: 14
+y: 88
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 492
 Cruce de seleccionados Generacion: 3
-x: 45
-y: 73
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 27
+y: 71
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 493
 Cruce de seleccionados Generacion: 3
-x: 33
-y: 73
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 27
+y: 51
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 494
 Cruce de seleccionados Generacion: 3
-x: 8
-y: 90
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 26
+y: 15
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 495
 Cruce de seleccionados Generacion: 3
-x: 75
-y: 94
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 56
+y: 60
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 496
 Cruce de seleccionados Generacion: 3
-x: 15
-y: 19
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 44
+y: 67
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 497
 Cruce de seleccionados Generacion: 3
-x: 12
-y: 80
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 56
+y: 38
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 498
 Cruce de seleccionados Generacion: 3
-x: 75
-y: 60
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 15
+y: 51
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 499
 Cruce de seleccionados Generacion: 3
-x: 12
-y: 92
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 23
+y: 51
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 500
 Cruce de seleccionados Generacion: 3
-x: 21
-y: 48
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 64
+y: 4
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 501
 Cruce de seleccionados Generacion: 3
-x: 47
-y: 81
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 37
+y: 12
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 502
 Cruce de seleccionados Generacion: 3
-x: 17
-y: 26
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 37
+y: 88
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 503
 Cruce de seleccionados Generacion: 3
-x: 14
-y: 35
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 44
+y: 26
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 504
 Cruce de seleccionados Generacion: 3
-x: 22
-y: 48
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 20
+y: 15
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 505
 Cruce de seleccionados Generacion: 3
-x: 17
-y: 48
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 5
+y: 61
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 506
 Cruce de seleccionados Generacion: 3
-x: 12
-y: 73
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 14
+y: 80
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 507
 Cruce de seleccionados Generacion: 3
-x: 1
-y: 60
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 44
+y: 86
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 508
 Cruce de seleccionados Generacion: 3
-x: 19
-y: 19
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 14
+y: 81
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 509
 Cruce de seleccionados Generacion: 3
-x: 49
-y: 81
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 22
+y: 5
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 510
 Cruce de seleccionados Generacion: 3
-x: 16
-y: 48
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 51
+y: 68
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 511
 Cruce de seleccionados Generacion: 3
-x: 43
-y: 81
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 44
+y: 24
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 512
 Cruce de seleccionados Generacion: 3
-x: 72
-y: 90
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 39
+y: 40
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 513
 Cruce de seleccionados Generacion: 3
-x: 14
-y: 19
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 15
+y: 67
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 514
-Cruce de seleccionados Generacion: 3
-x: 14
-y: 26
-suma: 1
-Puntos: 2.229256765794284E-5
+Seleccionado generacion: 3
+x: 27
+y: 68
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 515
 Cruce de seleccionados Generacion: 3
-x: 8
-y: 88
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 26
+y: 51
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 516
 Cruce de seleccionados Generacion: 3
-x: 33
-y: 35
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 23
+y: 4
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 517
 Cruce de seleccionados Generacion: 3
-x: 47
-y: 73
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 52
+y: 41
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 518
 Cruce de seleccionados Generacion: 3
-x: 17
-y: 19
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 23
+y: 15
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 519
 Cruce de seleccionados Generacion: 3
-x: 33
+x: 15
 y: 68
-suma: 1
-Puntos: 2.229256765794284E-5
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 520
-Cruce de seleccionados Generacion: 3
-x: 75
-y: 35
-suma: 1
-Puntos: 2.229256765794284E-5
+Seleccionado generacion: 3
+x: 14
+y: 68
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 521
 Cruce de seleccionados Generacion: 3
-x: 45
-y: 80
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 55
+y: 38
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 522
 Cruce de seleccionados Generacion: 3
-x: 8
-y: 54
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 56
+y: 63
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 523
 Cruce de seleccionados Generacion: 3
-x: 22
-y: 35
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 40
+y: 86
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 524
 Cruce de seleccionados Generacion: 3
-x: 21
-y: 35
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 50
+y: 68
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 525
 Cruce de seleccionados Generacion: 3
-x: 71
-y: 19
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 43
+y: 26
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 526
 Cruce de seleccionados Generacion: 3
-x: 71
-y: 59
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 20
+y: 51
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 527
 Cruce de seleccionados Generacion: 3
-x: 32
-y: 80
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 14
+y: 86
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 528
 Cruce de seleccionados Generacion: 3
-x: 62
-y: 60
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 27
+y: 4
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 529
 Cruce de seleccionados Generacion: 3
-x: 49
-y: 80
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 37
+y: 55
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 530
 Cruce de seleccionados Generacion: 3
-x: 75
-y: 57
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 27
+y: 15
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 531
-Cruce de seleccionados Generacion: 3
-x: 33
-y: 19
-suma: 1
-Puntos: 2.229256765794284E-5
+Seleccionado generacion: 3
+x: 40
+y: 68
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 532
 Cruce de seleccionados Generacion: 3
-x: 24
-y: 35
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 91
+y: 61
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 533
 Cruce de seleccionados Generacion: 3
-x: 71
-y: 58
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 27
+y: 75
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 534
 Cruce de seleccionados Generacion: 3
-x: 75
-y: 59
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 27
+y: 21
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 535
 Cruce de seleccionados Generacion: 3
-x: 1
-y: 80
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 47
+y: 71
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 536
 Cruce de seleccionados Generacion: 3
-x: 70
-y: 87
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 55
+y: 41
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 537
 Cruce de seleccionados Generacion: 3
-x: 14
-y: 49
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 37
+y: 13
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 538
 Cruce de seleccionados Generacion: 3
-x: 75
-y: 91
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 14
+y: 71
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 539
 Cruce de seleccionados Generacion: 3
-x: 71
-y: 88
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 14
+y: 91
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 540
 Cruce de seleccionados Generacion: 3
-x: 36
-y: 35
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 20
+y: 5
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 541
 Cruce de seleccionados Generacion: 3
-x: 32
-y: 26
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 43
+y: 38
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 542
 Cruce de seleccionados Generacion: 3
 x: 18
-y: 35
-suma: 1
-Puntos: 2.229256765794284E-5
+y: 96
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 543
 Cruce de seleccionados Generacion: 3
-x: 20
-y: 19
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 64
+y: 11
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 544
 Cruce de seleccionados Generacion: 3
-x: 62
-y: 54
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 37
+y: 51
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 545
 Cruce de seleccionados Generacion: 3
-x: 62
-y: 57
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 85
+y: 5
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 546
 Cruce de seleccionados Generacion: 3
-x: 33
-y: 37
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 14
+y: 75
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 547
 Cruce de seleccionados Generacion: 3
-x: 75
-y: 90
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 44
+y: 38
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 548
 Cruce de seleccionados Generacion: 3
-x: 36
-y: 81
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 37
+y: 86
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 549
 Cruce de seleccionados Generacion: 3
-x: 72
-y: 80
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 26
+y: 75
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 550
 Cruce de seleccionados Generacion: 3
-x: 28
-y: 35
-suma: 1
-Puntos: 2.229256765794284E-5
+x: 15
+y: 71
+suma: 3
+Puntos: 7.062645667066883E-5
 ------------------------
 Individuo 551
 Cruce de seleccionados Generacion: 3
-x: 41
-y: 81
+x: 27
+y: 38
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 552
 Cruce de seleccionados Generacion: 3
-x: 71
-y: 60
+x: 44
+y: 81
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 553
 Cruce de seleccionados Generacion: 3
-x: 12
-y: 87
+x: 51
+y: 81
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 554
 Cruce de seleccionados Generacion: 3
-x: 75
-y: 80
+x: 14
+y: 30
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 555
 Cruce de seleccionados Generacion: 3
-x: 12
-y: 88
+x: 59
+y: 49
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 556
 Cruce de seleccionados Generacion: 3
-x: 72
-y: 59
+x: 37
+y: 80
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 557
 Cruce de seleccionados Generacion: 3
-x: 49
-y: 73
+x: 59
+y: 61
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 558
 Cruce de seleccionados Generacion: 3
-x: 20
-y: 35
+x: 64
+y: 60
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 559
 Cruce de seleccionados Generacion: 3
-x: 8
-y: 53
+x: 39
+y: 38
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 560
 Cruce de seleccionados Generacion: 3
-x: 41
-y: 73
+x: 37
+y: 30
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 561
 Cruce de seleccionados Generacion: 3
-x: 24
-y: 26
+x: 5
+y: 71
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 562
 Cruce de seleccionados Generacion: 3
-x: 8
-y: 68
+x: 14
+y: 19
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 563
 Cruce de seleccionados Generacion: 3
-x: 21
-y: 26
+x: 15
+y: 41
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 564
 Cruce de seleccionados Generacion: 3
-x: 8
-y: 81
+x: 75
+y: 60
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 565
 Cruce de seleccionados Generacion: 3
-x: 12
-y: 35
+x: 3
+y: 86
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 566
 Cruce de seleccionados Generacion: 3
-x: 38
-y: 80
+x: 1
+y: 26
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 567
 Cruce de seleccionados Generacion: 3
-x: 17
-y: 49
+x: 1
+y: 51
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 568
 Cruce de seleccionados Generacion: 3
-x: 71
-y: 90
+x: 40
+y: 19
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 569
 Cruce de seleccionados Generacion: 3
-x: 20
-y: 26
+x: 43
+y: 80
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 570
 Cruce de seleccionados Generacion: 3
-x: 32
-y: 73
+x: 37
+y: 75
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 571
 Cruce de seleccionados Generacion: 3
-x: 72
-y: 91
+x: 39
+y: 31
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 572
 Cruce de seleccionados Generacion: 3
-x: 14
-y: 94
+x: 1
+y: 80
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 573
 Cruce de seleccionados Generacion: 3
-x: 75
-y: 53
+x: 50
+y: 80
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 574
 Cruce de seleccionados Generacion: 3
-x: 8
-y: 80
+x: 27
+y: 49
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 575
 Cruce de seleccionados Generacion: 3
-x: 24
-y: 48
+x: 14
+y: 26
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 576
 Cruce de seleccionados Generacion: 3
-x: 16
-y: 35
+x: 15
+y: 96
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
 ------------------------
 Individuo 577
 Cruce de seleccionados Generacion: 3
-x: 8
+x: 23
+y: 19
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 578
+Cruce de seleccionados Generacion: 3
+x: 40
+y: 81
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 579
+Cruce de seleccionados Generacion: 3
+x: 26
+y: 38
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 580
+Cruce de seleccionados Generacion: 3
+x: 46
+y: 81
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 581
+Cruce de seleccionados Generacion: 3
+x: 12
+y: 31
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 582
+Cruce de seleccionados Generacion: 3
+x: 51
+y: 80
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 583
+Cruce de seleccionados Generacion: 3
+x: 22
+y: 30
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 584
+Cruce de seleccionados Generacion: 3
+x: 3
+y: 60
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 585
+Cruce de seleccionados Generacion: 3
+x: 59
+y: 80
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 586
+Cruce de seleccionados Generacion: 3
+x: 26
+y: 24
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 587
+Cruce de seleccionados Generacion: 3
+x: 73
+y: 60
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 588
+Cruce de seleccionados Generacion: 3
+x: 40
+y: 30
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 589
+Cruce de seleccionados Generacion: 3
+x: 15
+y: 30
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 590
+Cruce de seleccionados Generacion: 3
+x: 91
+y: 81
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 591
+Cruce de seleccionados Generacion: 3
+x: 80
+y: 60
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 592
+Cruce de seleccionados Generacion: 3
+x: 40
+y: 37
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 593
+Cruce de seleccionados Generacion: 3
+x: 22
+y: 26
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 594
+Cruce de seleccionados Generacion: 3
+x: 75
+y: 51
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 595
+Cruce de seleccionados Generacion: 3
+x: 26
+y: 19
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 596
+Cruce de seleccionados Generacion: 3
+x: 59
+y: 55
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 597
+Cruce de seleccionados Generacion: 3
+x: 59
+y: 51
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 598
+Cruce de seleccionados Generacion: 3
+x: 1
+y: 49
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 599
+Cruce de seleccionados Generacion: 3
+x: 64
+y: 26
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 600
+Cruce de seleccionados Generacion: 3
+x: 12
+y: 80
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 601
+Cruce de seleccionados Generacion: 3
+x: 43
+y: 71
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 602
+Cruce de seleccionados Generacion: 3
+x: 44
+y: 75
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 603
+Cruce de seleccionados Generacion: 3
+x: 69
+y: 80
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 604
+Cruce de seleccionados Generacion: 3
+x: 3
+y: 51
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 605
+Cruce de seleccionados Generacion: 3
+x: 75
+y: 96
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 606
+Cruce de seleccionados Generacion: 3
+x: 23
+y: 31
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 607
+Cruce de seleccionados Generacion: 3
+x: 40
+y: 75
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 608
+Cruce de seleccionados Generacion: 3
+x: 27
+y: 31
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 609
+Cruce de seleccionados Generacion: 3
+x: 51
+y: 75
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 610
+Cruce de seleccionados Generacion: 3
+x: 14
+y: 24
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 611
+Cruce de seleccionados Generacion: 3
+x: 44
+y: 80
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 612
+Cruce de seleccionados Generacion: 3
+x: 1
+y: 75
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 613
+Cruce de seleccionados Generacion: 3
+x: 27
+y: 30
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 614
+Cruce de seleccionados Generacion: 3
+x: 50
+y: 75
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 615
+Cruce de seleccionados Generacion: 3
+x: 1
+y: 60
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 616
+Seleccionado generacion: 3
+x: 84
+y: 59
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 617
+Cruce de seleccionados Generacion: 3
+x: 37
+y: 46
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 618
+Cruce de seleccionados Generacion: 3
+x: 23
+y: 49
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 619
+Cruce de seleccionados Generacion: 3
+x: 72
+y: 60
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 620
+Cruce de seleccionados Generacion: 3
+x: 39
+y: 49
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 621
+Cruce de seleccionados Generacion: 3
+x: 75
+y: 61
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 622
+Cruce de seleccionados Generacion: 3
+x: 37
+y: 24
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 623
+Cruce de seleccionados Generacion: 3
+x: 46
+y: 80
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 624
+Cruce de seleccionados Generacion: 3
+x: 3
+y: 61
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 625
+Cruce de seleccionados Generacion: 3
+x: 68
+y: 61
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 626
+Cruce de seleccionados Generacion: 3
+x: 59
+y: 60
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 627
+Cruce de seleccionados Generacion: 3
+x: 26
+y: 49
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 628
+Cruce de seleccionados Generacion: 3
+x: 47
+y: 80
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 629
+Cruce de seleccionados Generacion: 3
+x: 66
+y: 61
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 630
+Cruce de seleccionados Generacion: 3
+x: 79
+y: 63
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 631
+Cruce de seleccionados Generacion: 3
+x: 37
+y: 31
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 632
+Cruce de seleccionados Generacion: 3
+x: 27
+y: 24
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 633
+Cruce de seleccionados Generacion: 3
+x: 47
+y: 81
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 634
+Cruce de seleccionados Generacion: 3
+x: 55
+y: 71
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 635
+Cruce de seleccionados Generacion: 3
+x: 26
+y: 31
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 636
+Cruce de seleccionados Generacion: 3
+x: 12
+y: 68
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 637
+Cruce de seleccionados Generacion: 3
+x: 18
+y: 38
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 638
+Cruce de seleccionados Generacion: 3
+x: 50
+y: 81
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 639
+Cruce de seleccionados Generacion: 3
+x: 23
+y: 26
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 640
+Cruce de seleccionados Generacion: 3
+x: 27
+y: 46
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 641
+Cruce de seleccionados Generacion: 3
+x: 15
+y: 26
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 642
+Cruce de seleccionados Generacion: 3
+x: 80
+y: 80
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 643
+Cruce de seleccionados Generacion: 3
+x: 73
+y: 61
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 644
+Cruce de seleccionados Generacion: 3
+x: 37
+y: 67
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 645
+Cruce de seleccionados Generacion: 3
+x: 1
+y: 96
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 646
+Cruce de seleccionados Generacion: 3
+x: 27
+y: 19
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 647
+Cruce de seleccionados Generacion: 3
+x: 59
+y: 67
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 648
+Cruce de seleccionados Generacion: 3
+x: 27
+y: 41
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 649
+Cruce de seleccionados Generacion: 3
+x: 75
+y: 19
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 650
+Cruce de seleccionados Generacion: 3
+x: 75
+y: 31
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 651
+Cruce de seleccionados Generacion: 3
+x: 15
+y: 46
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 652
+Cruce de seleccionados Generacion: 3
+x: 39
+y: 30
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 653
+Cruce de seleccionados Generacion: 3
+x: 12
+y: 75
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 654
+Cruce de seleccionados Generacion: 3
+x: 5
+y: 64
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 655
+Cruce de seleccionados Generacion: 3
+x: 27
+y: 26
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 656
+Cruce de seleccionados Generacion: 3
+x: 40
+y: 41
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 657
+Cruce de seleccionados Generacion: 3
+x: 23
+y: 30
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 658
+Cruce de seleccionados Generacion: 3
+x: 12
+y: 86
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 659
+Cruce de seleccionados Generacion: 3
+x: 23
+y: 45
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 660
+Cruce de seleccionados Generacion: 3
+x: 15
+y: 38
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 661
+Cruce de seleccionados Generacion: 3
+x: 59
+y: 31
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 662
+Cruce de seleccionados Generacion: 3
+x: 40
+y: 80
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 663
+Cruce de seleccionados Generacion: 3
+x: 37
+y: 41
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 664
+Cruce de seleccionados Generacion: 3
+x: 40
+y: 24
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 665
+Cruce de seleccionados Generacion: 3
+x: 37
+y: 68
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 666
+Cruce de seleccionados Generacion: 3
+x: 5
+y: 30
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 667
+Cruce de seleccionados Generacion: 3
+x: 3
 y: 91
 suma: 1
-Puntos: 2.229256765794284E-5
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 668
+Cruce de seleccionados Generacion: 3
+x: 1
+y: 61
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 669
+Cruce de seleccionados Generacion: 3
+x: 89
+y: 6
+suma: 1
+Puntos: 2.3542152223556276E-5
+------------------------
+Individuo 670
+Seleccionado generacion: 3
+x: 89
+y: 15
+suma: 1
+Puntos: 2.3542152223556276E-5

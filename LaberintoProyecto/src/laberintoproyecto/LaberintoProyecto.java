@@ -22,7 +22,6 @@ public class LaberintoProyecto {
     public static int height  = 0;
     
     //SELECCION--------------------------------------------------------------------
-    
     public static ArrayList <Individuo>  seleccionarMejores(ArrayList <Individuo> individuos){
         ArrayList <Individuo> seleccionados = new ArrayList <Individuo> ();
         Collections.sort(individuos);
@@ -85,7 +84,7 @@ public class LaberintoProyecto {
     }
     
     //CRUCE--------------------------------------------------------------------------
-    public static ArrayList <Individuo>  Cruce (int generation){
+    public static ArrayList <Individuo>  Cruce (int generation, String nombre){
         ArrayList <Individuo> seleccionados = selected.get(generation);
         ArrayList<Individuo> poblacion = new ArrayList<Individuo>();
         
@@ -99,39 +98,40 @@ public class LaberintoProyecto {
             Individuo segundo = seleccionados.get(n2);
             
             Individuo nuevo1 = new Individuo(primero.x, segundo.y, "Cruce de seleccionados Generacion: "+generation,1);
-            nuevo1.asignarPuntosColor(ProcesamientoImagenes.getPixel(primero.x,segundo.y,"Laberinto"));
-            nuevo1.calcularPuntosUbicacion ();
+            nuevo1.asignarPuntosColor(ProcesamientoImagenes.getPixel(primero.x,segundo.y,nombre));
+            nuevo1.calcularPuntosUbicacion (nombre);
             nuevo1.actSumaPuntos(); //actualiza la suma total
             poblacion.add(nuevo1);  //se agrega a la poblacion
             
             if(i == 0){
-                ProcesamientoImagenes.setPixel(primero.x,segundo.y,2,"laberinto","Cruce generacion "+generation);
+                ProcesamientoImagenes.setPixel(primero.x,segundo.y,2,nombre,"Cruce generacion "+generation);
             }
             else{
                 ProcesamientoImagenes.setPixel(primero.x,segundo.y,2,"Cruce generacion "+generation,"Cruce generacion "+generation);
             }
             
             Individuo nuevo2 = new Individuo(segundo.x, primero.y, "Cruce de seleccionados Generacion: "+generation,1);
-            nuevo2.asignarPuntosColor(ProcesamientoImagenes.getPixel(segundo.x,primero.y,"Laberinto"));
-            nuevo2.calcularPuntosUbicacion ();
+            nuevo2.asignarPuntosColor(ProcesamientoImagenes.getPixel(segundo.x,primero.y,nombre));
+            nuevo2.calcularPuntosUbicacion (nombre);
             nuevo2.actSumaPuntos(); //actualiza la suma total
             poblacion.add(nuevo2);  //se agrega a la poblacion
             ProcesamientoImagenes.setPixel(segundo.x,primero.y,2,"Cruce generacion "+generation,"Cruce generacion "+generation);
             
             Individuo old1 = new Individuo(primero.x, primero.y, "Seleccionado generacion: "+generation,1);
-            old1.asignarPuntosColor(ProcesamientoImagenes.getPixel(primero.x,primero.y,"Laberinto"));
-            old1.calcularPuntosUbicacion ();
+            old1.asignarPuntosColor(ProcesamientoImagenes.getPixel(primero.x,primero.y,nombre));
+            old1.calcularPuntosUbicacion (nombre);
             old1.actSumaPuntos(); //actualiza la suma total
             poblacion.add(old1);  //se agrega a la poblacion
             ProcesamientoImagenes.setPixel(primero.x,primero.y,1,"Cruce generacion "+generation,"Cruce generacion "+generation);
             
             Individuo old2 = new Individuo(segundo.x, segundo.y, "Seleccionado generacion: "+generation,1);
-            old2.asignarPuntosColor(ProcesamientoImagenes.getPixel(segundo.x,segundo.y,"Laberinto"));
-            old2.calcularPuntosUbicacion ();
+            old2.asignarPuntosColor(ProcesamientoImagenes.getPixel(segundo.x,segundo.y,nombre));
+            old2.calcularPuntosUbicacion (nombre);
             old2.actSumaPuntos(); //actualiza la suma total
             poblacion.add(old2);  //se agrega a la poblacion
             ProcesamientoImagenes.setPixel(segundo.x,segundo.y,1,"Cruce generacion "+generation,"Cruce generacion "+generation);
         }
+        mutacion(poblacion);
         return poblacion;
     }
     //RETORNA POSICION DE INDIVIDUO---------------------------------------------------
@@ -198,13 +198,13 @@ public class LaberintoProyecto {
         return puntos;
     }
     
-    public static void generarImagenSeleccionados(int generation, String name){
+    public static void generarImagenSeleccionados(int generation, String name, String imagenInicial){
         ArrayList <Individuo> seleccionados = selected.get(generation);
         for (int i=0; i<seleccionados.size(); i++){
             Individuo indv = seleccionados.get(i);
             //agrega pixel a la imagen
             if (i==0){
-                ProcesamientoImagenes.setPixel(indv.x,indv.y,1,"laberinto",name);
+                ProcesamientoImagenes.setPixel(indv.x,indv.y,1,imagenInicial,name);
             }
             else{
                 ProcesamientoImagenes.setPixel(indv.x,indv.y,1,name,name);
@@ -216,14 +216,14 @@ public class LaberintoProyecto {
     
    
     
-    public static void generarImagenGeneracion(int generation, String name){
+    public static void generarImagenGeneracion(int generation, String name, String imagenInicial){
         ArrayList <Individuo> generacion = generaciones.get(generation);
         System.out.println("Sizeeeee: "+ generacion.size());
         for (int i=0; i<generacion.size(); i++){
             Individuo indv = generacion.get(i);
             //agrega pixel a la imagen
             if (i==0){
-                ProcesamientoImagenes.setPixel(indv.x,indv.y,1,"laberinto",name);
+                ProcesamientoImagenes.setPixel(indv.x,indv.y,1,imagenInicial,name);
             }
             else{
                 ProcesamientoImagenes.setPixel(indv.x,indv.y,1,name,name);
@@ -292,14 +292,21 @@ public class LaberintoProyecto {
     //MUTACION
     //indice de mutacion = 0.0 = 2%
     public static void mutacion (ArrayList <Individuo> arreglo){
+        int cantCambiar = (int) (arreglo.size() * 0.02);
         //seleccionar x ind aleatorios
-        
-        //cambiar gen
-        
-        //regresar a la generacion
-        
-        //actualizarImagen
-        
+        for (int i=0; i<cantCambiar; i++){
+            int n1 = (int)(Math.random()*arreglo.size());
+            Individuo indv = arreglo.get(n1);
+            
+            int coordenada = (int)(Math.random()*2);
+            int coordenadaAsignar = (int)(Math.random()*100);
+            if(coordenada == 0){
+                indv.x = coordenadaAsignar;
+            }
+            else{
+                indv.y = coordenadaAsignar;
+            }
+        }        
     }
     
     public static void iniciar (String nombreImagen) throws IOException{
@@ -312,17 +319,18 @@ public class LaberintoProyecto {
        
         //1-GENERA LA PRIMERA GENERACION--------------------------------------------
         //1.1 genera individuos aleatorios y asigna puntosxUbicacion
-        generaciones.add(Individuo.generarPrimeraPoblacion(100, 100, 100));
+        generaciones.add(Individuo.generarPrimeraPoblacion(100, 100, 100,nombreImagen));
         //1.3 puntos x indivuos cercanos
         Individuo.actPuntosCercanosGeneracion(0);
         //1.4 actualizar fitness
         Individuo.actualizarFitness(0);
         //SELECCION
         selected.add(seleccion (0,1000));
-        generarImagenSeleccionados(0, "SeleccionadosPrimeraGeneracion");
+        generarImagenSeleccionados(0, "SeleccionadosPrimeraGeneracion", nombreImagen);
         System.out.println("cantSelect " + selected.get(0).size());
+        generarImagenGeneracion(0, "Generacion0", nombreImagen);
         //CRUCE
-        generaciones.add(Cruce (0));
+        generaciones.add(Cruce (0,nombreImagen) );
         System.out.println("cantCruce " + generaciones.get(1).size()); //aqui se genera la imagen
         //1.3 puntos x indivuos cercanos
         Individuo.actPuntosCercanosGeneracion(1);
@@ -336,9 +344,9 @@ public class LaberintoProyecto {
             //SELECCION
             selected.add(seleccion (i,200));
             System.out.println("cantSelect " + selected.get(i).size());
-            generarImagenSeleccionados(i, name);
+            generarImagenSeleccionados(i, name, nombreImagen);
             //CRUCE
-            generaciones.add(Cruce (i));
+            generaciones.add(Cruce (i,nombreImagen));
             System.out.println("cantCruce " + generaciones.get(i+1).size()); //aqui se genera la imagen
             //1.3 puntos x indivuos cercanos
             Individuo.actPuntosCercanosGeneracion(i+1);
@@ -350,55 +358,7 @@ public class LaberintoProyecto {
         JOptionPane.showMessageDialog(null, st);
     }
     
-    /*
-    public static void main(String args[])throws IOException
-    {
-        Path root = Paths.get(".").normalize().toAbsolutePath(); 
-        String ruta = root.toString()+"\\src\\imagenes\\laberinto.png";
-        File archivoImagen = new File(ruta);
-        imgenReferencia = ImageIO.read(archivoImagen); //cargo imagen de laberinto inicial
-        width   = imgenReferencia.getWidth();
-        height  = imgenReferencia.getHeight();
-       
-        //1-GENERA LA PRIMERA GENERACION--------------------------------------------
-        //1.1 genera individuos aleatorios y asigna puntosxUbicacion
-        generaciones.add(Individuo.generarPrimeraPoblacion(100, 100, 100));
-        //1.3 puntos x indivuos cercanos
-        Individuo.actPuntosCercanosGeneracion(0);
-        //1.4 actualizar fitness
-        Individuo.actualizarFitness(0);
-        //SELECCION
-        selected.add(seleccion (0,1000));
-        generarImagenSeleccionados(0, "SeleccionadosPrimeraGeneracion");
-        System.out.println("cantSelect " + selected.get(0).size());
-        //CRUCE
-        generaciones.add(Cruce (0));
-        System.out.println("cantCruce " + generaciones.get(1).size()); //aqui se genera la imagen
-        //1.3 puntos x indivuos cercanos
-        Individuo.actPuntosCercanosGeneracion(1);
-        //1.4 actualizar fitness
-        Individuo.actualizarFitness(1);
-        
-        //CICLO GENERACIONES 
-        for (int i=1; i<5; i++){
-            String name = "Generacion"+i;
-            //SELECCION
-            selected.add(seleccion (i,200));
-            System.out.println("cantSelect " + selected.get(i).size());
-            generarImagenSeleccionados(i, name);
-            //CRUCE
-            generaciones.add(Cruce (i));
-            System.out.println("cantCruce " + generaciones.get(i+1).size()); //aqui se genera la imagen
-            //1.3 puntos x indivuos cercanos
-            Individuo.actPuntosCercanosGeneracion(i+1);
-            //1.4 actualizar fitness
-            Individuo.actualizarFitness(i+1);
-        }
-        generarArchivo (0);
-        generarArchivo (1);
-
-    }*/
-    
+ 
     
 
     

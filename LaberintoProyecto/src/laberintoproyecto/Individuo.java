@@ -38,14 +38,14 @@ public class Individuo implements Comparable <Individuo>{
     }
 
     
-    public void calcularPuntosUbicacion (){
+    public void calcularPuntosUbicacion (String nombreImagen){
         int ancho = LaberintoProyecto.width;
         int largo = LaberintoProyecto.height;
         
         //arriba----------------------------------------------
         for (int i=1; i<6; i++){
             if (y-i > 0){
-                int color = ProcesamientoImagenes.getPixel (x, y-i, "laberinto");
+                int color = ProcesamientoImagenes.getPixel (x, y-i, nombreImagen);
                 //blanco
                 if (color == 0){
                     this.puntosUbicacion += 2;
@@ -60,7 +60,7 @@ public class Individuo implements Comparable <Individuo>{
         //abajo---------------------------------------------
         for (int i=1; i<6; i++){
             if (y+i < largo){
-                int color = ProcesamientoImagenes.getPixel (x, y+i, "laberinto");
+                int color = ProcesamientoImagenes.getPixel (x, y+i, nombreImagen);
                 //blanco
                 if (color == 0){
                     this.puntosUbicacion += 2;
@@ -76,7 +76,7 @@ public class Individuo implements Comparable <Individuo>{
         //izquierda---------------------------------------------
         for (int i=1; i<6; i++){
             if (x-i > 0){
-                int color = ProcesamientoImagenes.getPixel (x-i, y, "laberinto");
+                int color = ProcesamientoImagenes.getPixel (x-i, y, nombreImagen);
                 //blanco
                 if (color == 0){
                     this.puntosUbicacion += 2;
@@ -91,7 +91,7 @@ public class Individuo implements Comparable <Individuo>{
         //derecha---------------------------------------------
         for (int i=1; i<6; i++){
             if (x+i < ancho){
-                int color = ProcesamientoImagenes.getPixel (x+i, y, "laberinto");
+                int color = ProcesamientoImagenes.getPixel (x+i, y, nombreImagen);
                 //blanco
                 if (color == 0){
                     this.puntosUbicacion += 2;
@@ -154,7 +154,7 @@ public class Individuo implements Comparable <Individuo>{
     }
 
     //GENERA PRIMERA GENERACION DE INDIVIDUOS------------------------------------
-    public static ArrayList<Individuo> generarPrimeraPoblacion (int cant, int largeX, int largeY){
+    public static ArrayList<Individuo> generarPrimeraPoblacion (int cant, int largeX, int largeY, String nombreImagen){
         ArrayList<Individuo> poblacion = new ArrayList<Individuo>();
         
         //PRIMER INDIVIDUOs
@@ -164,16 +164,16 @@ public class Individuo implements Comparable <Individuo>{
         //crea indivuo
         Individuo ind = new Individuo (x,y,"Generado aleatoriamente en la primera generacion",0);
         //puntos por color
-        int color = ProcesamientoImagenes.getPixel(x,y,"Laberinto");
+        int color = ProcesamientoImagenes.getPixel(x,y,nombreImagen);
         ind.asignarPuntosColor(color);
         //puntos por ubicacion
-        ind.calcularPuntosUbicacion ();
+        ind.calcularPuntosUbicacion (nombreImagen);
 
         ind.actSumaPuntos(); //actualiza la suma total
         poblacion.add(ind);  //se agrega a la poblacion
         
         //agrega pixel a la imagen
-        ProcesamientoImagenes.setPixel(x,y,1,"laberinto","Generacion0");
+        ProcesamientoImagenes.setPixel(x,y,1,nombreImagen,"Generacion0");
             
         //resto de individuos
         for (int i=1; i<cant; i++){
@@ -183,10 +183,10 @@ public class Individuo implements Comparable <Individuo>{
             
             ind = new Individuo (x,y,"Generado aleatoriamente en la primera generacion",0);
             //puntos por color
-            color = ProcesamientoImagenes.getPixel(x,y,"Laberinto");
+            color = ProcesamientoImagenes.getPixel(x,y,nombreImagen);
             ind.asignarPuntosColor(color);
             //puntos por ubicacion
-            ind.calcularPuntosUbicacion ();
+            ind.calcularPuntosUbicacion (nombreImagen);
             //puntos por cercania
             //--FALTAAAA--------------------
         
