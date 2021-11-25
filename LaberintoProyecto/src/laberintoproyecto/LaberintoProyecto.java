@@ -63,7 +63,9 @@ public class LaberintoProyecto {
             cantGenerar = limite;
         }
         ArrayList <Individuo> seleccionados =seleccionarMejores(individuos);
-        
+        if (seleccionados.size() > limite){
+            return seleccionados;
+        }
         while (cantGenerar > 0 ){
             Double number = Math.random();//GENERA RANDOM ENTRE 0-1
             //Se selecciona el individuo 
@@ -262,7 +264,7 @@ public class LaberintoProyecto {
         Individuo.actualizarFitness(1);
         
         //CICLO GENERACIONES 
-        for (int i=1; i<6; i++){
+        for (int i=1; i<5; i++){
             String name = "Generacion"+i;
             //SELECCION
             selected.add(seleccion (i,200));
