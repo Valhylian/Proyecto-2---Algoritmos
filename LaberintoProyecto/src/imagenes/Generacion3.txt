@@ -1,0 +1,3724 @@
+ ------------------------
+Individuo 0
+Cruce de seleccionados Generacion: 2
+x: 14
+y: 7
+suma: 33
+Puntos: 0.0021393841166936793
+------------------------
+Individuo 1
+Cruce de seleccionados Generacion: 2
+x: 16
+y: 9
+suma: 31
+Puntos: 0.0020097244732576987
+------------------------
+Individuo 2
+Seleccionado generacion: 2
+x: 15
+y: 9
+suma: 31
+Puntos: 0.0020097244732576987
+------------------------
+Individuo 3
+Cruce de seleccionados Generacion: 2
+x: 16
+y: 7
+suma: 29
+Puntos: 0.001880064829821718
+------------------------
+Individuo 4
+Cruce de seleccionados Generacion: 2
+x: 16
+y: 10
+suma: 29
+Puntos: 0.001880064829821718
+------------------------
+Individuo 5
+Cruce de seleccionados Generacion: 2
+x: 14
+y: 9
+suma: 29
+Puntos: 0.001880064829821718
+------------------------
+Individuo 6
+Cruce de seleccionados Generacion: 2
+x: 14
+y: 10
+suma: 29
+Puntos: 0.001880064829821718
+------------------------
+Individuo 7
+Seleccionado generacion: 2
+x: 12
+y: 7
+suma: 28
+Puntos: 0.0018152350081037277
+------------------------
+Individuo 8
+Cruce de seleccionados Generacion: 2
+x: 12
+y: 8
+suma: 28
+Puntos: 0.0018152350081037277
+------------------------
+Individuo 9
+Cruce de seleccionados Generacion: 2
+x: 12
+y: 5
+suma: 28
+Puntos: 0.0018152350081037277
+------------------------
+Individuo 10
+Seleccionado generacion: 2
+x: 8
+y: 7
+suma: 26
+Puntos: 0.001685575364667747
+------------------------
+Individuo 11
+Cruce de seleccionados Generacion: 2
+x: 8
+y: 9
+suma: 26
+Puntos: 0.001685575364667747
+------------------------
+Individuo 12
+Seleccionado generacion: 2
+x: 12
+y: 9
+suma: 25
+Puntos: 0.0016207455429497568
+------------------------
+Individuo 13
+Cruce de seleccionados Generacion: 2
+x: 12
+y: 12
+suma: 25
+Puntos: 0.0016207455429497568
+------------------------
+Individuo 14
+Seleccionado generacion: 2
+x: 17
+y: 10
+suma: 24
+Puntos: 0.0015559157212317665
+------------------------
+Individuo 15
+Cruce de seleccionados Generacion: 2
+x: 17
+y: 9
+suma: 24
+Puntos: 0.0015559157212317665
+------------------------
+Individuo 16
+Seleccionado generacion: 2
+x: 17
+y: 8
+suma: 23
+Puntos: 0.0014910858995137762
+------------------------
+Individuo 17
+Seleccionado generacion: 2
+x: 12
+y: 10
+suma: 23
+Puntos: 0.0014910858995137762
+------------------------
+Individuo 18
+Seleccionado generacion: 2
+x: 17
+y: 57
+suma: 22
+Puntos: 0.001426256077795786
+------------------------
+Individuo 19
+Cruce de seleccionados Generacion: 2
+x: 20
+y: 7
+suma: 22
+Puntos: 0.001426256077795786
+------------------------
+Individuo 20
+Cruce de seleccionados Generacion: 2
+x: 12
+y: 4
+suma: 22
+Puntos: 0.001426256077795786
+------------------------
+Individuo 21
+Cruce de seleccionados Generacion: 2
+x: 21
+y: 60
+suma: 22
+Puntos: 0.001426256077795786
+------------------------
+Individuo 22
+Cruce de seleccionados Generacion: 2
+x: 17
+y: 7
+suma: 22
+Puntos: 0.001426256077795786
+------------------------
+Individuo 23
+Seleccionado generacion: 2
+x: 17
+y: 59
+suma: 22
+Puntos: 0.001426256077795786
+------------------------
+Individuo 24
+Cruce de seleccionados Generacion: 2
+x: 18
+y: 58
+suma: 22
+Puntos: 0.001426256077795786
+------------------------
+Individuo 25
+Seleccionado generacion: 2
+x: 18
+y: 9
+suma: 22
+Puntos: 0.001426256077795786
+------------------------
+Individuo 26
+Cruce de seleccionados Generacion: 2
+x: 18
+y: 57
+suma: 22
+Puntos: 0.001426256077795786
+------------------------
+Individuo 27
+Cruce de seleccionados Generacion: 2
+x: 16
+y: 58
+suma: 22
+Puntos: 0.001426256077795786
+------------------------
+Individuo 28
+Cruce de seleccionados Generacion: 2
+x: 17
+y: 58
+suma: 22
+Puntos: 0.001426256077795786
+------------------------
+Individuo 29
+Cruce de seleccionados Generacion: 2
+x: 16
+y: 57
+suma: 22
+Puntos: 0.001426256077795786
+------------------------
+Individuo 30
+Seleccionado generacion: 2
+x: 20
+y: 57
+suma: 22
+Puntos: 0.001426256077795786
+------------------------
+Individuo 31
+Cruce de seleccionados Generacion: 2
+x: 20
+y: 9
+suma: 21
+Puntos: 0.0013614262560777957
+------------------------
+Individuo 32
+Seleccionado generacion: 2
+x: 19
+y: 57
+suma: 21
+Puntos: 0.0013614262560777957
+------------------------
+Individuo 33
+Cruce de seleccionados Generacion: 2
+x: 19
+y: 58
+suma: 21
+Puntos: 0.0013614262560777957
+------------------------
+Individuo 34
+Cruce de seleccionados Generacion: 2
+x: 21
+y: 7
+suma: 21
+Puntos: 0.0013614262560777957
+------------------------
+Individuo 35
+Seleccionado generacion: 2
+x: 20
+y: 60
+suma: 20
+Puntos: 0.0012965964343598054
+------------------------
+Individuo 36
+Seleccionado generacion: 2
+x: 19
+y: 60
+suma: 20
+Puntos: 0.0012965964343598054
+------------------------
+Individuo 37
+Seleccionado generacion: 2
+x: 18
+y: 10
+suma: 20
+Puntos: 0.0012965964343598054
+------------------------
+Individuo 38
+Seleccionado generacion: 2
+x: 14
+y: 12
+suma: 20
+Puntos: 0.0012965964343598054
+------------------------
+Individuo 39
+Cruce de seleccionados Generacion: 2
+x: 47
+y: 58
+suma: 19
+Puntos: 0.0012317666126418153
+------------------------
+Individuo 40
+Seleccionado generacion: 2
+x: 19
+y: 7
+suma: 19
+Puntos: 0.0012317666126418153
+------------------------
+Individuo 41
+Cruce de seleccionados Generacion: 2
+x: 12
+y: 14
+suma: 19
+Puntos: 0.0012317666126418153
+------------------------
+Individuo 42
+Seleccionado generacion: 2
+x: 12
+y: 3
+suma: 19
+Puntos: 0.0012317666126418153
+------------------------
+Individuo 43
+Cruce de seleccionados Generacion: 2
+x: 49
+y: 15
+suma: 19
+Puntos: 0.0012317666126418153
+------------------------
+Individuo 44
+Cruce de seleccionados Generacion: 2
+x: 47
+y: 15
+suma: 19
+Puntos: 0.0012317666126418153
+------------------------
+Individuo 45
+Cruce de seleccionados Generacion: 2
+x: 20
+y: 10
+suma: 19
+Puntos: 0.0012317666126418153
+------------------------
+Individuo 46
+Cruce de seleccionados Generacion: 2
+x: 47
+y: 19
+suma: 19
+Puntos: 0.0012317666126418153
+------------------------
+Individuo 47
+Cruce de seleccionados Generacion: 2
+x: 14
+y: 58
+suma: 19
+Puntos: 0.0012317666126418153
+------------------------
+Individuo 48
+Cruce de seleccionados Generacion: 2
+x: 16
+y: 12
+suma: 19
+Puntos: 0.0012317666126418153
+------------------------
+Individuo 49
+Cruce de seleccionados Generacion: 2
+x: 47
+y: 57
+suma: 19
+Puntos: 0.0012317666126418153
+------------------------
+Individuo 50
+Cruce de seleccionados Generacion: 2
+x: 47
+y: 37
+suma: 19
+Puntos: 0.0012317666126418153
+------------------------
+Individuo 51
+Cruce de seleccionados Generacion: 2
+x: 14
+y: 60
+suma: 18
+Puntos: 0.001166936790923825
+------------------------
+Individuo 52
+Seleccionado generacion: 2
+x: 20
+y: 64
+suma: 18
+Puntos: 0.001166936790923825
+------------------------
+Individuo 53
+Cruce de seleccionados Generacion: 2
+x: 49
+y: 35
+suma: 18
+Puntos: 0.001166936790923825
+------------------------
+Individuo 54
+Cruce de seleccionados Generacion: 2
+x: 22
+y: 59
+suma: 18
+Puntos: 0.001166936790923825
+------------------------
+Individuo 55
+Seleccionado generacion: 2
+x: 14
+y: 59
+suma: 18
+Puntos: 0.001166936790923825
+------------------------
+Individuo 56
+Seleccionado generacion: 2
+x: 21
+y: 64
+suma: 18
+Puntos: 0.001166936790923825
+------------------------
+Individuo 57
+Cruce de seleccionados Generacion: 2
+x: 33
+y: 91
+suma: 18
+Puntos: 0.001166936790923825
+------------------------
+Individuo 58
+Cruce de seleccionados Generacion: 2
+x: 21
+y: 59
+suma: 18
+Puntos: 0.001166936790923825
+------------------------
+Individuo 59
+Cruce de seleccionados Generacion: 2
+x: 21
+y: 57
+suma: 18
+Puntos: 0.001166936790923825
+------------------------
+Individuo 60
+Cruce de seleccionados Generacion: 2
+x: 8
+y: 3
+suma: 18
+Puntos: 0.001166936790923825
+------------------------
+Individuo 61
+Cruce de seleccionados Generacion: 2
+x: 46
+y: 58
+suma: 18
+Puntos: 0.001166936790923825
+------------------------
+Individuo 62
+Cruce de seleccionados Generacion: 2
+x: 49
+y: 57
+suma: 18
+Puntos: 0.001166936790923825
+------------------------
+Individuo 63
+Cruce de seleccionados Generacion: 2
+x: 21
+y: 58
+suma: 18
+Puntos: 0.001166936790923825
+------------------------
+Individuo 64
+Cruce de seleccionados Generacion: 2
+x: 33
+y: 92
+suma: 18
+Puntos: 0.001166936790923825
+------------------------
+Individuo 65
+Cruce de seleccionados Generacion: 2
+x: 14
+y: 5
+suma: 18
+Puntos: 0.001166936790923825
+------------------------
+Individuo 66
+Cruce de seleccionados Generacion: 2
+x: 22
+y: 9
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 67
+Cruce de seleccionados Generacion: 2
+x: 72
+y: 8
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 68
+Seleccionado generacion: 2
+x: 72
+y: 7
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 69
+Cruce de seleccionados Generacion: 2
+x: 49
+y: 53
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 70
+Cruce de seleccionados Generacion: 2
+x: 24
+y: 7
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 71
+Cruce de seleccionados Generacion: 2
+x: 75
+y: 9
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 72
+Cruce de seleccionados Generacion: 2
+x: 24
+y: 57
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 73
+Cruce de seleccionados Generacion: 2
+x: 47
+y: 54
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 74
+Seleccionado generacion: 2
+x: 24
+y: 58
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 75
+Seleccionado generacion: 2
+x: 71
+y: 7
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 76
+Seleccionado generacion: 2
+x: 8
+y: 4
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 77
+Cruce de seleccionados Generacion: 2
+x: 12
+y: 58
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 78
+Cruce de seleccionados Generacion: 2
+x: 71
+y: 8
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 79
+Cruce de seleccionados Generacion: 2
+x: 22
+y: 7
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 80
+Cruce de seleccionados Generacion: 2
+x: 49
+y: 52
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 81
+Cruce de seleccionados Generacion: 2
+x: 40
+y: 92
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 82
+Cruce de seleccionados Generacion: 2
+x: 75
+y: 7
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 83
+Seleccionado generacion: 2
+x: 21
+y: 68
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 84
+Cruce de seleccionados Generacion: 2
+x: 47
+y: 9
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 85
+Cruce de seleccionados Generacion: 2
+x: 49
+y: 10
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 86
+Cruce de seleccionados Generacion: 2
+x: 45
+y: 58
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 87
+Cruce de seleccionados Generacion: 2
+x: 47
+y: 52
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 88
+Cruce de seleccionados Generacion: 2
+x: 21
+y: 81
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 89
+Cruce de seleccionados Generacion: 2
+x: 46
+y: 10
+suma: 17
+Puntos: 0.0011021069692058348
+------------------------
+Individuo 90
+Seleccionado generacion: 2
+x: 20
+y: 80
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 91
+Seleccionado generacion: 2
+x: 21
+y: 80
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 92
+Cruce de seleccionados Generacion: 2
+x: 24
+y: 60
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 93
+Seleccionado generacion: 2
+x: 16
+y: 60
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 94
+Seleccionado generacion: 2
+x: 8
+y: 14
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 95
+Seleccionado generacion: 2
+x: 47
+y: 53
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 96
+Cruce de seleccionados Generacion: 2
+x: 49
+y: 90
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 97
+Seleccionado generacion: 2
+x: 49
+y: 94
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 98
+Seleccionado generacion: 2
+x: 33
+y: 59
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 99
+Cruce de seleccionados Generacion: 2
+x: 41
+y: 90
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 100
+Seleccionado generacion: 2
+x: 33
+y: 57
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 101
+Seleccionado generacion: 2
+x: 24
+y: 59
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 102
+Seleccionado generacion: 2
+x: 47
+y: 59
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 103
+Cruce de seleccionados Generacion: 2
+x: 43
+y: 92
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 104
+Seleccionado generacion: 2
+x: 43
+y: 57
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 105
+Cruce de seleccionados Generacion: 2
+x: 47
+y: 60
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 106
+Cruce de seleccionados Generacion: 2
+x: 70
+y: 7
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 107
+Cruce de seleccionados Generacion: 2
+x: 14
+y: 14
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 108
+Seleccionado generacion: 2
+x: 15
+y: 14
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 109
+Seleccionado generacion: 2
+x: 33
+y: 58
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 110
+Seleccionado generacion: 2
+x: 43
+y: 91
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 111
+Cruce de seleccionados Generacion: 2
+x: 70
+y: 9
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 112
+Seleccionado generacion: 2
+x: 75
+y: 8
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 113
+Cruce de seleccionados Generacion: 2
+x: 20
+y: 73
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 114
+Seleccionado generacion: 2
+x: 49
+y: 91
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 115
+Cruce de seleccionados Generacion: 2
+x: 32
+y: 90
+suma: 16
+Puntos: 0.0010372771474878445
+------------------------
+Individuo 116
+Seleccionado generacion: 2
+x: 45
+y: 7
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 117
+Seleccionado generacion: 2
+x: 72
+y: 9
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 118
+Seleccionado generacion: 2
+x: 75
+y: 10
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 119
+Seleccionado generacion: 2
+x: 45
+y: 8
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 120
+Seleccionado generacion: 2
+x: 47
+y: 49
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 121
+Seleccionado generacion: 2
+x: 41
+y: 58
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 122
+Seleccionado generacion: 2
+x: 36
+y: 90
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 123
+Seleccionado generacion: 2
+x: 47
+y: 48
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 124
+Seleccionado generacion: 2
+x: 41
+y: 57
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 125
+Seleccionado generacion: 2
+x: 33
+y: 7
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 126
+Seleccionado generacion: 2
+x: 12
+y: 60
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 127
+Seleccionado generacion: 2
+x: 41
+y: 91
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 128
+Cruce de seleccionados Generacion: 2
+x: 49
+y: 64
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 129
+Seleccionado generacion: 2
+x: 47
+y: 64
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 130
+Seleccionado generacion: 2
+x: 32
+y: 9
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 131
+Cruce de seleccionados Generacion: 2
+x: 45
+y: 9
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 132
+Cruce de seleccionados Generacion: 2
+x: 43
+y: 9
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 133
+Seleccionado generacion: 2
+x: 43
+y: 58
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 134
+Cruce de seleccionados Generacion: 2
+x: 43
+y: 59
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 135
+Cruce de seleccionados Generacion: 2
+x: 19
+y: 80
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 136
+Cruce de seleccionados Generacion: 2
+x: 36
+y: 7
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 137
+Cruce de seleccionados Generacion: 2
+x: 63
+y: 9
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 138
+Cruce de seleccionados Generacion: 2
+x: 28
+y: 59
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 139
+Cruce de seleccionados Generacion: 2
+x: 43
+y: 7
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 140
+Seleccionado generacion: 2
+x: 46
+y: 54
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 141
+Cruce de seleccionados Generacion: 2
+x: 47
+y: 8
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 142
+Cruce de seleccionados Generacion: 2
+x: 36
+y: 8
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 143
+Cruce de seleccionados Generacion: 2
+x: 22
+y: 85
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 144
+Cruce de seleccionados Generacion: 2
+x: 62
+y: 7
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 145
+Seleccionado generacion: 2
+x: 35
+y: 58
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 146
+Cruce de seleccionados Generacion: 2
+x: 49
+y: 7
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 147
+Cruce de seleccionados Generacion: 2
+x: 38
+y: 9
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 148
+Cruce de seleccionados Generacion: 2
+x: 43
+y: 8
+suma: 15
+Puntos: 9.724473257698541E-4
+------------------------
+Individuo 149
+Seleccionado generacion: 2
+x: 47
+y: 14
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 150
+Seleccionado generacion: 2
+x: 22
+y: 68
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 151
+Seleccionado generacion: 2
+x: 49
+y: 60
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 152
+Seleccionado generacion: 2
+x: 20
+y: 92
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 153
+Cruce de seleccionados Generacion: 2
+x: 47
+y: 7
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 154
+Seleccionado generacion: 2
+x: 47
+y: 35
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 155
+Cruce de seleccionados Generacion: 2
+x: 41
+y: 9
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 156
+Seleccionado generacion: 2
+x: 21
+y: 73
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 157
+Cruce de seleccionados Generacion: 2
+x: 32
+y: 60
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 158
+Seleccionado generacion: 2
+x: 38
+y: 60
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 159
+Seleccionado generacion: 2
+x: 33
+y: 90
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 160
+Seleccionado generacion: 2
+x: 21
+y: 91
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 161
+Seleccionado generacion: 2
+x: 19
+y: 81
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 162
+Cruce de seleccionados Generacion: 2
+x: 24
+y: 91
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 163
+Seleccionado generacion: 2
+x: 49
+y: 19
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 164
+Seleccionado generacion: 2
+x: 43
+y: 90
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 165
+Seleccionado generacion: 2
+x: 33
+y: 9
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 166
+Seleccionado generacion: 2
+x: 12
+y: 15
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 167
+Cruce de seleccionados Generacion: 2
+x: 38
+y: 7
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 168
+Cruce de seleccionados Generacion: 2
+x: 20
+y: 90
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 169
+Cruce de seleccionados Generacion: 2
+x: 22
+y: 90
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 170
+Cruce de seleccionados Generacion: 2
+x: 21
+y: 88
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 171
+Cruce de seleccionados Generacion: 2
+x: 17
+y: 5
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 172
+Seleccionado generacion: 2
+x: 36
+y: 60
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 173
+Seleccionado generacion: 2
+x: 55
+y: 7
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 174
+Cruce de seleccionados Generacion: 2
+x: 24
+y: 9
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 175
+Cruce de seleccionados Generacion: 2
+x: 20
+y: 88
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 176
+Cruce de seleccionados Generacion: 2
+x: 45
+y: 60
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 177
+Seleccionado generacion: 2
+x: 47
+y: 26
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 178
+Cruce de seleccionados Generacion: 2
+x: 70
+y: 10
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 179
+Cruce de seleccionados Generacion: 2
+x: 41
+y: 8
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 180
+Seleccionado generacion: 2
+x: 55
+y: 8
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 181
+Cruce de seleccionados Generacion: 2
+x: 20
+y: 91
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 182
+Cruce de seleccionados Generacion: 2
+x: 28
+y: 60
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 183
+Cruce de seleccionados Generacion: 2
+x: 41
+y: 7
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 184
+Cruce de seleccionados Generacion: 2
+x: 22
+y: 88
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 185
+Cruce de seleccionados Generacion: 2
+x: 28
+y: 7
+suma: 14
+Puntos: 9.076175040518638E-4
+------------------------
+Individuo 186
+Cruce de seleccionados Generacion: 2
+x: 41
+y: 60
+suma: 13
+Puntos: 8.427876823338735E-4
+------------------------
+Individuo 187
+Cruce de seleccionados Generacion: 2
+x: 47
+y: 90
+suma: 13
+Puntos: 8.427876823338735E-4
+------------------------
+Individuo 188
+Seleccionado generacion: 2
+x: 33
+y: 60
+suma: 13
+Puntos: 8.427876823338735E-4
+------------------------
+Individuo 189
+Cruce de seleccionados Generacion: 2
+x: 8
+y: 15
+suma: 13
+Puntos: 8.427876823338735E-4
+------------------------
+Individuo 190
+Seleccionado generacion: 2
+x: 43
+y: 60
+suma: 13
+Puntos: 8.427876823338735E-4
+------------------------
+Individuo 191
+Cruce de seleccionados Generacion: 2
+x: 19
+y: 85
+suma: 13
+Puntos: 8.427876823338735E-4
+------------------------
+Individuo 192
+Cruce de seleccionados Generacion: 2
+x: 40
+y: 60
+suma: 13
+Puntos: 8.427876823338735E-4
+------------------------
+Individuo 193
+Seleccionado generacion: 2
+x: 1
+y: 7
+suma: 13
+Puntos: 8.427876823338735E-4
+------------------------
+Individuo 194
+Cruce de seleccionados Generacion: 2
+x: 33
+y: 10
+suma: 13
+Puntos: 8.427876823338735E-4
+------------------------
+Individuo 195
+Cruce de seleccionados Generacion: 2
+x: 14
+y: 4
+suma: 13
+Puntos: 8.427876823338735E-4
+------------------------
+Individuo 196
+Cruce de seleccionados Generacion: 2
+x: 43
+y: 10
+suma: 13
+Puntos: 8.427876823338735E-4
+------------------------
+Individuo 197
+Cruce de seleccionados Generacion: 2
+x: 32
+y: 10
+suma: 13
+Puntos: 8.427876823338735E-4
+------------------------
+Individuo 198
+Cruce de seleccionados Generacion: 2
+x: 17
+y: 4
+suma: 12
+Puntos: 7.779578606158833E-4
+------------------------
+Individuo 199
+Cruce de seleccionados Generacion: 2
+x: 19
+y: 5
+suma: 12
+Puntos: 7.779578606158833E-4
+------------------------
+Individuo 200
+Seleccionado generacion: 2
+x: 19
+y: 4
+suma: 12
+Puntos: 7.779578606158833E-4
+------------------------
+Individuo 201
+Cruce de seleccionados Generacion: 2
+x: 18
+y: 64
+suma: 12
+Puntos: 7.779578606158833E-4
+------------------------
+Individuo 202
+Cruce de seleccionados Generacion: 2
+x: 16
+y: 4
+suma: 12
+Puntos: 7.779578606158833E-4
+------------------------
+Individuo 203
+Cruce de seleccionados Generacion: 2
+x: 41
+y: 10
+suma: 12
+Puntos: 7.779578606158833E-4
+------------------------
+Individuo 204
+Cruce de seleccionados Generacion: 2
+x: 16
+y: 3
+suma: 12
+Puntos: 7.779578606158833E-4
+------------------------
+Individuo 205
+Seleccionado generacion: 2
+x: 17
+y: 64
+suma: 12
+Puntos: 7.779578606158833E-4
+------------------------
+Individuo 206
+Cruce de seleccionados Generacion: 2
+x: 19
+y: 90
+suma: 12
+Puntos: 7.779578606158833E-4
+------------------------
+Individuo 207
+Seleccionado generacion: 2
+x: 46
+y: 48
+suma: 12
+Puntos: 7.779578606158833E-4
+------------------------
+Individuo 208
+Cruce de seleccionados Generacion: 2
+x: 55
+y: 10
+suma: 12
+Puntos: 7.779578606158833E-4
+------------------------
+Individuo 209
+Cruce de seleccionados Generacion: 2
+x: 19
+y: 12
+suma: 12
+Puntos: 7.779578606158833E-4
+------------------------
+Individuo 210
+Cruce de seleccionados Generacion: 2
+x: 24
+y: 90
+suma: 12
+Puntos: 7.779578606158833E-4
+------------------------
+Individuo 211
+Cruce de seleccionados Generacion: 2
+x: 19
+y: 91
+suma: 12
+Puntos: 7.779578606158833E-4
+------------------------
+Individuo 212
+Cruce de seleccionados Generacion: 2
+x: 24
+y: 10
+suma: 12
+Puntos: 7.779578606158833E-4
+------------------------
+Individuo 213
+Cruce de seleccionados Generacion: 2
+x: 17
+y: 3
+suma: 11
+Puntos: 7.13128038897893E-4
+------------------------
+Individuo 214
+Cruce de seleccionados Generacion: 2
+x: 14
+y: 3
+suma: 10
+Puntos: 6.482982171799027E-4
+------------------------
+Individuo 215
+Cruce de seleccionados Generacion: 2
+x: 14
+y: 64
+suma: 10
+Puntos: 6.482982171799027E-4
+------------------------
+Individuo 216
+Cruce de seleccionados Generacion: 2
+x: 45
+y: 54
+suma: 9
+Puntos: 5.834683954619125E-4
+------------------------
+Individuo 217
+Cruce de seleccionados Generacion: 2
+x: 20
+y: 5
+suma: 9
+Puntos: 5.834683954619125E-4
+------------------------
+Individuo 218
+Cruce de seleccionados Generacion: 2
+x: 19
+y: 3
+suma: 9
+Puntos: 5.834683954619125E-4
+------------------------
+Individuo 219
+Cruce de seleccionados Generacion: 2
+x: 16
+y: 14
+suma: 9
+Puntos: 5.834683954619125E-4
+------------------------
+Individuo 220
+Seleccionado generacion: 2
+x: 14
+y: 15
+suma: 8
+Puntos: 5.186385737439222E-4
+------------------------
+Individuo 221
+Cruce de seleccionados Generacion: 2
+x: 15
+y: 15
+suma: 8
+Puntos: 5.186385737439222E-4
+------------------------
+Individuo 222
+Cruce de seleccionados Generacion: 2
+x: 43
+y: 54
+suma: 8
+Puntos: 5.186385737439222E-4
+------------------------
+Individuo 223
+Cruce de seleccionados Generacion: 2
+x: 45
+y: 52
+suma: 8
+Puntos: 5.186385737439222E-4
+------------------------
+Individuo 224
+Cruce de seleccionados Generacion: 2
+x: 12
+y: 1
+suma: 8
+Puntos: 5.186385737439222E-4
+------------------------
+Individuo 225
+Cruce de seleccionados Generacion: 2
+x: 45
+y: 53
+suma: 8
+Puntos: 5.186385737439222E-4
+------------------------
+Individuo 226
+Cruce de seleccionados Generacion: 2
+x: 33
+y: 88
+suma: 7
+Puntos: 4.538087520259319E-4
+------------------------
+Individuo 227
+Seleccionado generacion: 2
+x: 33
+y: 94
+suma: 7
+Puntos: 4.538087520259319E-4
+------------------------
+Individuo 228
+Seleccionado generacion: 2
+x: 20
+y: 3
+suma: 7
+Puntos: 4.538087520259319E-4
+------------------------
+Individuo 229
+Cruce de seleccionados Generacion: 2
+x: 21
+y: 3
+suma: 7
+Puntos: 4.538087520259319E-4
+------------------------
+Individuo 230
+Cruce de seleccionados Generacion: 2
+x: 45
+y: 15
+suma: 7
+Puntos: 4.538087520259319E-4
+------------------------
+Individuo 231
+Cruce de seleccionados Generacion: 2
+x: 41
+y: 54
+suma: 7
+Puntos: 4.538087520259319E-4
+------------------------
+Individuo 232
+Cruce de seleccionados Generacion: 2
+x: 43
+y: 14
+suma: 7
+Puntos: 4.538087520259319E-4
+------------------------
+Individuo 233
+Seleccionado generacion: 2
+x: 49
+y: 88
+suma: 7
+Puntos: 4.538087520259319E-4
+------------------------
+Individuo 234
+Cruce de seleccionados Generacion: 2
+x: 43
+y: 15
+suma: 7
+Puntos: 4.538087520259319E-4
+------------------------
+Individuo 235
+Cruce de seleccionados Generacion: 2
+x: 45
+y: 35
+suma: 7
+Puntos: 4.538087520259319E-4
+------------------------
+Individuo 236
+Seleccionado generacion: 2
+x: 45
+y: 14
+suma: 7
+Puntos: 4.538087520259319E-4
+------------------------
+Individuo 237
+Cruce de seleccionados Generacion: 2
+x: 33
+y: 87
+suma: 7
+Puntos: 4.538087520259319E-4
+------------------------
+Individuo 238
+Seleccionado generacion: 2
+x: 32
+y: 87
+suma: 7
+Puntos: 4.538087520259319E-4
+------------------------
+Individuo 239
+Seleccionado generacion: 2
+x: 43
+y: 35
+suma: 7
+Puntos: 4.538087520259319E-4
+------------------------
+Individuo 240
+Cruce de seleccionados Generacion: 2
+x: 36
+y: 87
+suma: 7
+Puntos: 4.538087520259319E-4
+------------------------
+Individuo 241
+Cruce de seleccionados Generacion: 2
+x: 21
+y: 5
+suma: 7
+Puntos: 4.538087520259319E-4
+------------------------
+Individuo 242
+Cruce de seleccionados Generacion: 2
+x: 5
+y: 15
+suma: 7
+Puntos: 4.538087520259319E-4
+------------------------
+Individuo 243
+Seleccionado generacion: 2
+x: 43
+y: 32
+suma: 7
+Puntos: 4.538087520259319E-4
+------------------------
+Individuo 244
+Cruce de seleccionados Generacion: 2
+x: 32
+y: 88
+suma: 7
+Puntos: 4.538087520259319E-4
+------------------------
+Individuo 245
+Cruce de seleccionados Generacion: 2
+x: 24
+y: 64
+suma: 7
+Puntos: 4.538087520259319E-4
+------------------------
+Individuo 246
+Cruce de seleccionados Generacion: 2
+x: 47
+y: 94
+suma: 6
+Puntos: 3.8897893030794163E-4
+------------------------
+Individuo 247
+Seleccionado generacion: 2
+x: 47
+y: 88
+suma: 6
+Puntos: 3.8897893030794163E-4
+------------------------
+Individuo 248
+Seleccionado generacion: 2
+x: 17
+y: 15
+suma: 6
+Puntos: 3.8897893030794163E-4
+------------------------
+Individuo 249
+Seleccionado generacion: 2
+x: 16
+y: 80
+suma: 6
+Puntos: 3.8897893030794163E-4
+------------------------
+Individuo 250
+Cruce de seleccionados Generacion: 2
+x: 72
+y: 5
+suma: 6
+Puntos: 3.8897893030794163E-4
+------------------------
+Individuo 251
+Cruce de seleccionados Generacion: 2
+x: 18
+y: 80
+suma: 6
+Puntos: 3.8897893030794163E-4
+------------------------
+Individuo 252
+Seleccionado generacion: 2
+x: 75
+y: 12
+suma: 6
+Puntos: 3.8897893030794163E-4
+------------------------
+Individuo 253
+Cruce de seleccionados Generacion: 2
+x: 75
+y: 5
+suma: 6
+Puntos: 3.8897893030794163E-4
+------------------------
+Individuo 254
+Cruce de seleccionados Generacion: 2
+x: 20
+y: 14
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 255
+Seleccionado generacion: 2
+x: 41
+y: 53
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 256
+Cruce de seleccionados Generacion: 2
+x: 55
+y: 15
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 257
+Cruce de seleccionados Generacion: 2
+x: 41
+y: 14
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 258
+Cruce de seleccionados Generacion: 2
+x: 33
+y: 55
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 259
+Seleccionado generacion: 2
+x: 20
+y: 55
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 260
+Seleccionado generacion: 2
+x: 24
+y: 80
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 261
+Seleccionado generacion: 2
+x: 41
+y: 15
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 262
+Cruce de seleccionados Generacion: 2
+x: 41
+y: 52
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 263
+Seleccionado generacion: 2
+x: 41
+y: 64
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 264
+Cruce de seleccionados Generacion: 2
+x: 17
+y: 73
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 265
+Seleccionado generacion: 2
+x: 24
+y: 73
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 266
+Seleccionado generacion: 2
+x: 33
+y: 85
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 267
+Cruce de seleccionados Generacion: 2
+x: 21
+y: 12
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 268
+Seleccionado generacion: 2
+x: 70
+y: 12
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 269
+Seleccionado generacion: 2
+x: 45
+y: 64
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 270
+Seleccionado generacion: 2
+x: 36
+y: 85
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 271
+Cruce de seleccionados Generacion: 2
+x: 15
+y: 80
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 272
+Seleccionado generacion: 2
+x: 41
+y: 94
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 273
+Cruce de seleccionados Generacion: 2
+x: 24
+y: 85
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 274
+Cruce de seleccionados Generacion: 2
+x: 43
+y: 64
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 275
+Seleccionado generacion: 2
+x: 70
+y: 5
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 276
+Cruce de seleccionados Generacion: 2
+x: 43
+y: 88
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 277
+Cruce de seleccionados Generacion: 2
+x: 19
+y: 14
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 278
+Cruce de seleccionados Generacion: 2
+x: 20
+y: 12
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 279
+Cruce de seleccionados Generacion: 2
+x: 32
+y: 94
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 280
+Cruce de seleccionados Generacion: 2
+x: 41
+y: 88
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 281
+Cruce de seleccionados Generacion: 2
+x: 24
+y: 88
+suma: 5
+Puntos: 3.2414910858995135E-4
+------------------------
+Individuo 282
+Seleccionado generacion: 2
+x: 32
+y: 5
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 283
+Seleccionado generacion: 2
+x: 75
+y: 4
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 284
+Seleccionado generacion: 2
+x: 75
+y: 3
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 285
+Cruce de seleccionados Generacion: 2
+x: 47
+y: 3
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 286
+Cruce de seleccionados Generacion: 2
+x: 40
+y: 54
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 287
+Seleccionado generacion: 2
+x: 24
+y: 54
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 288
+Cruce de seleccionados Generacion: 2
+x: 16
+y: 15
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 289
+Seleccionado generacion: 2
+x: 45
+y: 3
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 290
+Cruce de seleccionados Generacion: 2
+x: 14
+y: 54
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 291
+Seleccionado generacion: 2
+x: 63
+y: 14
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 292
+Cruce de seleccionados Generacion: 2
+x: 33
+y: 4
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 293
+Cruce de seleccionados Generacion: 2
+x: 62
+y: 88
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 294
+Seleccionado generacion: 2
+x: 62
+y: 15
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 295
+Seleccionado generacion: 2
+x: 33
+y: 54
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 296
+Seleccionado generacion: 2
+x: 49
+y: 3
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 297
+Cruce de seleccionados Generacion: 2
+x: 32
+y: 54
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 298
+Cruce de seleccionados Generacion: 2
+x: 33
+y: 14
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 299
+Seleccionado generacion: 2
+x: 33
+y: 64
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 300
+Cruce de seleccionados Generacion: 2
+x: 33
+y: 5
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 301
+Cruce de seleccionados Generacion: 2
+x: 16
+y: 1
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 302
+Cruce de seleccionados Generacion: 2
+x: 62
+y: 90
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 303
+Cruce de seleccionados Generacion: 2
+x: 17
+y: 1
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 304
+Seleccionado generacion: 2
+x: 62
+y: 5
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 305
+Cruce de seleccionados Generacion: 2
+x: 33
+y: 12
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 306
+Seleccionado generacion: 2
+x: 38
+y: 54
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 307
+Cruce de seleccionados Generacion: 2
+x: 20
+y: 1
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 308
+Cruce de seleccionados Generacion: 2
+x: 36
+y: 64
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 309
+Seleccionado generacion: 2
+x: 16
+y: 85
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 310
+Cruce de seleccionados Generacion: 2
+x: 47
+y: 4
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 311
+Seleccionado generacion: 2
+x: 63
+y: 92
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 312
+Cruce de seleccionados Generacion: 2
+x: 62
+y: 91
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 313
+Seleccionado generacion: 2
+x: 17
+y: 68
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 314
+Cruce de seleccionados Generacion: 2
+x: 22
+y: 55
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 315
+Seleccionado generacion: 2
+x: 36
+y: 55
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 316
+Cruce de seleccionados Generacion: 2
+x: 62
+y: 14
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 317
+Seleccionado generacion: 2
+x: 5
+y: 19
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 318
+Cruce de seleccionados Generacion: 2
+x: 15
+y: 81
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 319
+Cruce de seleccionados Generacion: 2
+x: 43
+y: 4
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 320
+Cruce de seleccionados Generacion: 2
+x: 41
+y: 87
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 321
+Cruce de seleccionados Generacion: 2
+x: 21
+y: 1
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 322
+Cruce de seleccionados Generacion: 2
+x: 32
+y: 64
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 323
+Cruce de seleccionados Generacion: 2
+x: 47
+y: 5
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 324
+Cruce de seleccionados Generacion: 2
+x: 14
+y: 55
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 325
+Cruce de seleccionados Generacion: 2
+x: 38
+y: 55
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 326
+Seleccionado generacion: 2
+x: 49
+y: 5
+suma: 4
+Puntos: 2.593192868719611E-4
+------------------------
+Individuo 327
+Seleccionado generacion: 2
+x: 16
+y: 54
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 328
+Cruce de seleccionados Generacion: 2
+x: 75
+y: 15
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 329
+Cruce de seleccionados Generacion: 2
+x: 32
+y: 4
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 330
+Cruce de seleccionados Generacion: 2
+x: 24
+y: 15
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 331
+Seleccionado generacion: 2
+x: 40
+y: 15
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 332
+Cruce de seleccionados Generacion: 2
+x: 41
+y: 49
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 333
+Seleccionado generacion: 2
+x: 35
+y: 15
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 334
+Seleccionado generacion: 2
+x: 55
+y: 35
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 335
+Cruce de seleccionados Generacion: 2
+x: 19
+y: 54
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 336
+Cruce de seleccionados Generacion: 2
+x: 20
+y: 15
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 337
+Cruce de seleccionados Generacion: 2
+x: 8
+y: 57
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 338
+Cruce de seleccionados Generacion: 2
+x: 63
+y: 3
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 339
+Cruce de seleccionados Generacion: 2
+x: 75
+y: 14
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 340
+Seleccionado generacion: 2
+x: 41
+y: 5
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 341
+Cruce de seleccionados Generacion: 2
+x: 24
+y: 53
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 342
+Cruce de seleccionados Generacion: 2
+x: 38
+y: 64
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 343
+Seleccionado generacion: 2
+x: 38
+y: 52
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 344
+Cruce de seleccionados Generacion: 2
+x: 16
+y: 52
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 345
+Cruce de seleccionados Generacion: 2
+x: 38
+y: 5
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 346
+Cruce de seleccionados Generacion: 2
+x: 33
+y: 3
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 347
+Cruce de seleccionados Generacion: 2
+x: 24
+y: 3
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 348
+Cruce de seleccionados Generacion: 2
+x: 17
+y: 90
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 349
+Seleccionado generacion: 2
+x: 17
+y: 88
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 350
+Seleccionado generacion: 2
+x: 41
+y: 3
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 351
+Cruce de seleccionados Generacion: 2
+x: 28
+y: 14
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 352
+Cruce de seleccionados Generacion: 2
+x: 63
+y: 15
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 353
+Seleccionado generacion: 2
+x: 28
+y: 15
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 354
+Cruce de seleccionados Generacion: 2
+x: 33
+y: 15
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 355
+Seleccionado generacion: 2
+x: 22
+y: 15
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 356
+Cruce de seleccionados Generacion: 2
+x: 19
+y: 15
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 357
+Cruce de seleccionados Generacion: 2
+x: 62
+y: 4
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 358
+Cruce de seleccionados Generacion: 2
+x: 41
+y: 4
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 359
+Cruce de seleccionados Generacion: 2
+x: 19
+y: 52
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 360
+Cruce de seleccionados Generacion: 2
+x: 18
+y: 53
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 361
+Seleccionado generacion: 2
+x: 32
+y: 85
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 362
+Cruce de seleccionados Generacion: 2
+x: 22
+y: 52
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 363
+Seleccionado generacion: 2
+x: 62
+y: 1
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 364
+Seleccionado generacion: 2
+x: 71
+y: 1
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 365
+Cruce de seleccionados Generacion: 2
+x: 21
+y: 15
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 366
+Cruce de seleccionados Generacion: 2
+x: 21
+y: 54
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 367
+Cruce de seleccionados Generacion: 2
+x: 22
+y: 1
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 368
+Seleccionado generacion: 2
+x: 79
+y: 1
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 369
+Cruce de seleccionados Generacion: 2
+x: 16
+y: 68
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 370
+Seleccionado generacion: 2
+x: 18
+y: 91
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 371
+Cruce de seleccionados Generacion: 2
+x: 24
+y: 14
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 372
+Cruce de seleccionados Generacion: 2
+x: 38
+y: 3
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 373
+Cruce de seleccionados Generacion: 2
+x: 12
+y: 52
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 374
+Cruce de seleccionados Generacion: 2
+x: 24
+y: 52
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 375
+Seleccionado generacion: 2
+x: 32
+y: 52
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 376
+Cruce de seleccionados Generacion: 2
+x: 22
+y: 54
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 377
+Cruce de seleccionados Generacion: 2
+x: 14
+y: 68
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 378
+Cruce de seleccionados Generacion: 2
+x: 14
+y: 90
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 379
+Seleccionado generacion: 2
+x: 41
+y: 35
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 380
+Cruce de seleccionados Generacion: 2
+x: 16
+y: 53
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 381
+Cruce de seleccionados Generacion: 2
+x: 47
+y: 85
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 382
+Cruce de seleccionados Generacion: 2
+x: 28
+y: 1
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 383
+Cruce de seleccionados Generacion: 2
+x: 24
+y: 12
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 384
+Seleccionado generacion: 2
+x: 28
+y: 12
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 385
+Seleccionado generacion: 2
+x: 43
+y: 85
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 386
+Cruce de seleccionados Generacion: 2
+x: 49
+y: 68
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 387
+Cruce de seleccionados Generacion: 2
+x: 14
+y: 80
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 388
+Cruce de seleccionados Generacion: 2
+x: 43
+y: 1
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 389
+Seleccionado generacion: 2
+x: 21
+y: 94
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 390
+Cruce de seleccionados Generacion: 2
+x: 28
+y: 52
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 391
+Cruce de seleccionados Generacion: 2
+x: 17
+y: 53
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 392
+Cruce de seleccionados Generacion: 2
+x: 18
+y: 90
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 393
+Cruce de seleccionados Generacion: 2
+x: 32
+y: 14
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 394
+Cruce de seleccionados Generacion: 2
+x: 17
+y: 54
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 395
+Cruce de seleccionados Generacion: 2
+x: 36
+y: 3
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 396
+Seleccionado generacion: 2
+x: 36
+y: 15
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 397
+Cruce de seleccionados Generacion: 2
+x: 14
+y: 92
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 398
+Cruce de seleccionados Generacion: 2
+x: 12
+y: 53
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 399
+Cruce de seleccionados Generacion: 2
+x: 45
+y: 87
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 400
+Cruce de seleccionados Generacion: 2
+x: 20
+y: 54
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 401
+Cruce de seleccionados Generacion: 2
+x: 62
+y: 3
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 402
+Cruce de seleccionados Generacion: 2
+x: 15
+y: 88
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 403
+Cruce de seleccionados Generacion: 2
+x: 19
+y: 98
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 404
+Seleccionado generacion: 2
+x: 45
+y: 98
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 405
+Cruce de seleccionados Generacion: 2
+x: 47
+y: 68
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 406
+Cruce de seleccionados Generacion: 2
+x: 55
+y: 52
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 407
+Cruce de seleccionados Generacion: 2
+x: 22
+y: 94
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 408
+Cruce de seleccionados Generacion: 2
+x: 79
+y: 15
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 409
+Cruce de seleccionados Generacion: 2
+x: 38
+y: 12
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 410
+Cruce de seleccionados Generacion: 2
+x: 32
+y: 15
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 411
+Cruce de seleccionados Generacion: 2
+x: 41
+y: 1
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 412
+Cruce de seleccionados Generacion: 2
+x: 33
+y: 53
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 413
+Cruce de seleccionados Generacion: 2
+x: 71
+y: 14
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 414
+Cruce de seleccionados Generacion: 2
+x: 63
+y: 4
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 415
+Seleccionado generacion: 2
+x: 41
+y: 48
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 416
+Cruce de seleccionados Generacion: 2
+x: 43
+y: 3
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 417
+Cruce de seleccionados Generacion: 2
+x: 16
+y: 88
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 418
+Cruce de seleccionados Generacion: 2
+x: 18
+y: 54
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 419
+Cruce de seleccionados Generacion: 2
+x: 17
+y: 91
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 420
+Cruce de seleccionados Generacion: 2
+x: 38
+y: 85
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 421
+Cruce de seleccionados Generacion: 2
+x: 36
+y: 52
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 422
+Cruce de seleccionados Generacion: 2
+x: 72
+y: 15
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 423
+Cruce de seleccionados Generacion: 2
+x: 16
+y: 90
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 424
+Cruce de seleccionados Generacion: 2
+x: 41
+y: 19
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 425
+Seleccionado generacion: 2
+x: 28
+y: 74
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 426
+Cruce de seleccionados Generacion: 2
+x: 38
+y: 4
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 427
+Cruce de seleccionados Generacion: 2
+x: 24
+y: 4
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 428
+Cruce de seleccionados Generacion: 2
+x: 8
+y: 60
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 429
+Cruce de seleccionados Generacion: 2
+x: 19
+y: 94
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 430
+Cruce de seleccionados Generacion: 2
+x: 18
+y: 87
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 431
+Cruce de seleccionados Generacion: 2
+x: 40
+y: 5
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 432
+Seleccionado generacion: 2
+x: 40
+y: 1
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 433
+Cruce de seleccionados Generacion: 2
+x: 14
+y: 91
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 434
+Seleccionado generacion: 2
+x: 19
+y: 53
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 435
+Cruce de seleccionados Generacion: 2
+x: 55
+y: 4
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 436
+Cruce de seleccionados Generacion: 2
+x: 71
+y: 3
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 437
+Cruce de seleccionados Generacion: 2
+x: 17
+y: 87
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 438
+Cruce de seleccionados Generacion: 2
+x: 24
+y: 5
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 439
+Cruce de seleccionados Generacion: 2
+x: 16
+y: 91
+suma: 3
+Puntos: 1.9448946515397082E-4
+------------------------
+Individuo 440
+Cruce de seleccionados Generacion: 2
+x: 32
+y: 80
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 441
+Cruce de seleccionados Generacion: 2
+x: 75
+y: 57
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 442
+Cruce de seleccionados Generacion: 2
+x: 72
+y: 68
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 443
+Cruce de seleccionados Generacion: 2
+x: 75
+y: 80
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 444
+Cruce de seleccionados Generacion: 2
+x: 12
+y: 92
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 445
+Cruce de seleccionados Generacion: 2
+x: 35
+y: 35
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 446
+Cruce de seleccionados Generacion: 2
+x: 36
+y: 48
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 447
+Cruce de seleccionados Generacion: 2
+x: 33
+y: 35
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 448
+Cruce de seleccionados Generacion: 2
+x: 47
+y: 80
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 449
+Cruce de seleccionados Generacion: 2
+x: 63
+y: 60
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 450
+Cruce de seleccionados Generacion: 2
+x: 75
+y: 73
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 451
+Cruce de seleccionados Generacion: 2
+x: 63
+y: 80
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 452
+Cruce de seleccionados Generacion: 2
+x: 75
+y: 85
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 453
+Cruce de seleccionados Generacion: 2
+x: 12
+y: 91
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 454
+Cruce de seleccionados Generacion: 2
+x: 70
+y: 80
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 455
+Cruce de seleccionados Generacion: 2
+x: 33
+y: 49
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 456
+Cruce de seleccionados Generacion: 2
+x: 12
+y: 80
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 457
+Cruce de seleccionados Generacion: 2
+x: 75
+y: 64
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 458
+Cruce de seleccionados Generacion: 2
+x: 47
+y: 73
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 459
+Cruce de seleccionados Generacion: 2
+x: 36
+y: 81
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 460
+Cruce de seleccionados Generacion: 2
+x: 71
+y: 59
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 461
+Cruce de seleccionados Generacion: 2
+x: 32
+y: 73
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 462
+Cruce de seleccionados Generacion: 2
+x: 38
+y: 68
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 463
+Cruce de seleccionados Generacion: 2
+x: 20
+y: 19
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 464
+Cruce de seleccionados Generacion: 2
+x: 75
+y: 54
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 465
+Cruce de seleccionados Generacion: 2
+x: 62
+y: 54
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 466
+Cruce de seleccionados Generacion: 2
+x: 14
+y: 19
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 467
+Cruce de seleccionados Generacion: 2
+x: 62
+y: 35
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 468
+Cruce de seleccionados Generacion: 2
+x: 75
+y: 48
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 469
+Cruce de seleccionados Generacion: 2
+x: 33
+y: 80
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 470
+Cruce de seleccionados Generacion: 2
+x: 35
+y: 80
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 471
+Cruce de seleccionados Generacion: 2
+x: 62
+y: 57
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 472
+Cruce de seleccionados Generacion: 2
+x: 49
+y: 80
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 473
+Cruce de seleccionados Generacion: 2
+x: 1
+y: 52
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 474
+Cruce de seleccionados Generacion: 2
+x: 75
+y: 60
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 475
+Cruce de seleccionados Generacion: 2
+x: 79
+y: 68
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 476
+Cruce de seleccionados Generacion: 2
+x: 63
+y: 73
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 477
+Cruce de seleccionados Generacion: 2
+x: 62
+y: 60
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 478
+Cruce de seleccionados Generacion: 2
+x: 70
+y: 35
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 479
+Cruce de seleccionados Generacion: 2
+x: 75
+y: 94
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 480
+Cruce de seleccionados Generacion: 2
+x: 33
+y: 19
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 481
+Cruce de seleccionados Generacion: 2
+x: 12
+y: 73
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 482
+Cruce de seleccionados Generacion: 2
+x: 63
+y: 85
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 483
+Cruce de seleccionados Generacion: 2
+x: 17
+y: 94
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 484
+Cruce de seleccionados Generacion: 2
+x: 43
+y: 68
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 485
+Cruce de seleccionados Generacion: 2
+x: 12
+y: 94
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 486
+Cruce de seleccionados Generacion: 2
+x: 75
+y: 35
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 487
+Cruce de seleccionados Generacion: 2
+x: 36
+y: 35
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 488
+Cruce de seleccionados Generacion: 2
+x: 41
+y: 68
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 489
+Cruce de seleccionados Generacion: 2
+x: 33
+y: 81
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 490
+Cruce de seleccionados Generacion: 2
+x: 21
+y: 48
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 491
+Cruce de seleccionados Generacion: 2
+x: 46
+y: 80
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 492
+Cruce de seleccionados Generacion: 2
+x: 63
+y: 87
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 493
+Cruce de seleccionados Generacion: 2
+x: 72
+y: 73
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 494
+Cruce de seleccionados Generacion: 2
+x: 62
+y: 80
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 495
+Cruce de seleccionados Generacion: 2
+x: 72
+y: 94
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 496
+Cruce de seleccionados Generacion: 2
+x: 38
+y: 80
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 497
+Cruce de seleccionados Generacion: 2
+x: 21
+y: 26
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 498
+Cruce de seleccionados Generacion: 2
+x: 33
+y: 68
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 499
+Cruce de seleccionados Generacion: 2
+x: 75
+y: 88
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 500
+Cruce de seleccionados Generacion: 2
+x: 40
+y: 81
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 501
+Cruce de seleccionados Generacion: 2
+x: 33
+y: 48
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 502
+Cruce de seleccionados Generacion: 2
+x: 20
+y: 35
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 503
+Cruce de seleccionados Generacion: 2
+x: 17
+y: 19
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 504
+Cruce de seleccionados Generacion: 2
+x: 21
+y: 35
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 505
+Cruce de seleccionados Generacion: 2
+x: 16
+y: 26
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 506
+Cruce de seleccionados Generacion: 2
+x: 19
+y: 35
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 507
+Cruce de seleccionados Generacion: 2
+x: 1
+y: 88
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 508
+Cruce de seleccionados Generacion: 2
+x: 75
+y: 58
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 509
+Cruce de seleccionados Generacion: 2
+x: 36
+y: 19
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 510
+Cruce de seleccionados Generacion: 2
+x: 14
+y: 35
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 511
+Cruce de seleccionados Generacion: 2
+x: 70
+y: 52
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 512
+Cruce de seleccionados Generacion: 2
+x: 71
+y: 80
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 513
+Cruce de seleccionados Generacion: 2
+x: 75
+y: 55
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 514
+Cruce de seleccionados Generacion: 2
+x: 62
+y: 58
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 515
+Cruce de seleccionados Generacion: 2
+x: 14
+y: 32
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 516
+Cruce de seleccionados Generacion: 2
+x: 41
+y: 81
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 517
+Cruce de seleccionados Generacion: 2
+x: 19
+y: 48
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 518
+Cruce de seleccionados Generacion: 2
+x: 18
+y: 35
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 519
+Cruce de seleccionados Generacion: 2
+x: 45
+y: 68
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 520
+Cruce de seleccionados Generacion: 2
+x: 12
+y: 90
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 521
+Cruce de seleccionados Generacion: 2
+x: 63
+y: 74
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 522
+Cruce de seleccionados Generacion: 2
+x: 35
+y: 68
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 523
+Cruce de seleccionados Generacion: 2
+x: 75
+y: 91
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 524
+Cruce de seleccionados Generacion: 2
+x: 75
+y: 53
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 525
+Cruce de seleccionados Generacion: 2
+x: 8
+y: 35
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 526
+Cruce de seleccionados Generacion: 2
+x: 16
+y: 48
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 527
+Cruce de seleccionados Generacion: 2
+x: 36
+y: 80
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 528
+Cruce de seleccionados Generacion: 2
+x: 16
+y: 98
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 529
+Cruce de seleccionados Generacion: 2
+x: 41
+y: 73
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 530
+Cruce de seleccionados Generacion: 2
+x: 71
+y: 53
+suma: 1
+Puntos: 6.482982171799028E-5
+------------------------
+Individuo 531
+Cruce de seleccionados Generacion: 2
+x: 8
+y: 32
+suma: 1
+Puntos: 6.482982171799028E-5

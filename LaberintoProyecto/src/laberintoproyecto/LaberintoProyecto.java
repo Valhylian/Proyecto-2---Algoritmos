@@ -1,12 +1,15 @@
 package laberintoproyecto;
 import java.awt.image.BufferedImage;
+import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Collections;
 import javax.imageio.ImageIO;
+import javax.swing.JOptionPane;
 
 public class LaberintoProyecto {
     //arreglo que almacena las generaciones
@@ -122,7 +125,7 @@ public class LaberintoProyecto {
             poblacion.add(old1);  //se agrega a la poblacion
             ProcesamientoImagenes.setPixel(primero.x,primero.y,1,"Cruce generacion "+generation,"Cruce generacion "+generation);
             
-            Individuo old2 = new Individuo(segundo.x, segundo.y, "Seleccionado primera generacion: "+generation,1);
+            Individuo old2 = new Individuo(segundo.x, segundo.y, "Seleccionado generacion: "+generation,1);
             old2.asignarPuntosColor(ProcesamientoImagenes.getPixel(segundo.x,segundo.y,"Laberinto"));
             old2.calcularPuntosUbicacion ();
             old2.actSumaPuntos(); //actualiza la suma total
@@ -227,14 +230,127 @@ public class LaberintoProyecto {
             }
         }
     }
+    
+    public static boolean buscarIndividuo (int x, int y, ArrayList <Individuo> generation){
+        for (int i=0; i<generation.size(); i++){
+            Individuo indv = generation.get(i);
+            if (indv.x == x & indv.y == y){
+                return true;
+            }
+        }
+        return false;
+    } 
+    //GENERAR ARCHIVO GENERACION X
+    public static String generarArchivo (int x){
+        String info = " ";
+        ArrayList <Individuo> generation = generaciones.get(x);
+        ArrayList <Individuo> sinRepetidos = new ArrayList <Individuo> ();
+        for (int i=0; i<generation.size(); i++){
+            Individuo indv = generation.get(i);
+            if (!buscarIndividuo (indv.x, indv.y, sinRepetidos)){
+                //si no se ha seleccionado antes se agrega
+                sinRepetidos.add(indv);
+            }
+        }
+        for (int j=0; j<sinRepetidos.size(); j++){
+                info += "------------------------\n";
+                info += "Individuo "+j+"\n";
+                Individuo indv = sinRepetidos.get(j);
+                info += indv.imprimirIndividuo();
+            }
+        crearArchivo(info, "Generacion"+x);
+        return info;
+    }
+    //RETORNA LA RUTA ABSOLUTA DEL PROYECTO---------------------------------------
+    public static String getRuta () {
+	Path path = Paths.get("");
+	String directoryName = path.toAbsolutePath().toString();
+	System.out.println("El directorio de este proyecto: " +directoryName);
+        return directoryName;
+    }
+    public static void crearArchivo(String info, String nombre){
+        try {
+            Path root = Paths.get(".").normalize().toAbsolutePath();
+            String ruta = root.toString(); 
+            ruta = ruta + "\\src\\imagenes\\"+nombre+".txt";
+            
+            String contenido = info;
+            File file = new File(ruta);
+            // Si el archivo no existe es creado
+            if (!file.exists()) {
+                file.createNewFile();
+            }
+            FileWriter fw = new FileWriter(file);
+            BufferedWriter bw = new BufferedWriter(fw);
+            bw.write(contenido);
+            bw.close();
+          
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
     //MUTACION
-    //indice de mutacion = 0.05 = 5%
+    //indice de mutacion = 0.0 = 2%
     public static void mutacion (ArrayList <Individuo> arreglo){
+        //seleccionar x ind aleatorios
         
+        //cambiar gen
+        
+        //regresar a la generacion
+        
+        //actualizarImagen
         
     }
     
-
+    public static void iniciar (String nombreImagen) throws IOException{
+        Path root = Paths.get(".").normalize().toAbsolutePath(); 
+        String ruta = root.toString()+"\\src\\imagenes\\"+nombreImagen+".png";
+        File archivoImagen = new File(ruta);
+        imgenReferencia = ImageIO.read(archivoImagen); //cargo imagen de laberinto inicial
+        width   = imgenReferencia.getWidth();
+        height  = imgenReferencia.getHeight();
+       
+        //1-GENERA LA PRIMERA GENERACION--------------------------------------------
+        //1.1 genera individuos aleatorios y asigna puntosxUbicacion
+        generaciones.add(Individuo.generarPrimeraPoblacion(100, 100, 100));
+        //1.3 puntos x indivuos cercanos
+        Individuo.actPuntosCercanosGeneracion(0);
+        //1.4 actualizar fitness
+        Individuo.actualizarFitness(0);
+        //SELECCION
+        selected.add(seleccion (0,1000));
+        generarImagenSeleccionados(0, "SeleccionadosPrimeraGeneracion");
+        System.out.println("cantSelect " + selected.get(0).size());
+        //CRUCE
+        generaciones.add(Cruce (0));
+        System.out.println("cantCruce " + generaciones.get(1).size()); //aqui se genera la imagen
+        //1.3 puntos x indivuos cercanos
+        Individuo.actPuntosCercanosGeneracion(1);
+        //1.4 actualizar fitness
+        Individuo.actualizarFitness(1);
+        generarArchivo (0);
+        
+        //CICLO GENERACIONES 
+        for (int i=1; i<5; i++){
+            String name = "Generacion"+i;
+            //SELECCION
+            selected.add(seleccion (i,200));
+            System.out.println("cantSelect " + selected.get(i).size());
+            generarImagenSeleccionados(i, name);
+            //CRUCE
+            generaciones.add(Cruce (i));
+            System.out.println("cantCruce " + generaciones.get(i+1).size()); //aqui se genera la imagen
+            //1.3 puntos x indivuos cercanos
+            Individuo.actPuntosCercanosGeneracion(i+1);
+            //1.4 actualizar fitness
+            Individuo.actualizarFitness(i+1);
+            generarArchivo (i);
+        }
+        String st = "LISTOO";
+        JOptionPane.showMessageDialog(null, st);
+    }
+    
+    /*
     public static void main(String args[])throws IOException
     {
         Path root = Paths.get(".").normalize().toAbsolutePath(); 
@@ -278,60 +394,10 @@ public class LaberintoProyecto {
             //1.4 actualizar fitness
             Individuo.actualizarFitness(i+1);
         }
-        /*
-        //SEGUNDA GENERACION----------------------------------------------------
-        //SELECCION
-        selected.add(seleccion (1,200));
-        generarImagenSeleccionados(1, "SegundaGeneracion");
-        //CRUCE
-        generaciones.add(Cruce (1));
-        System.out.println("cantCruce " + generaciones.get(2).size()); //aqui se genera la imagen
-        //1.3 puntos x indivuos cercanos
-        Individuo.actPuntosCercanosGeneracion(2);
-        //1.4 actualizar fitness
-        Individuo.actualizarFitness(2);
-        
-        //TERCERA GENERACION----------------------------------------------------
-        //SELECCION
-        selected.add(seleccion (2,200));
-        generarImagenSeleccionados(2, "TerceraGeneracion");
-        //CRUCE
-        generaciones.add(Cruce (2));
-        System.out.println("cantCruce " + generaciones.get(3).size()); //aqui se genera la imagen
-        //1.3 puntos x indivuos cercanos
-        Individuo.actPuntosCercanosGeneracion(3);
-        //1.4 actualizar fitness
-        Individuo.actualizarFitness(3);
-        
-        //CUARTA GENERACION----------------------------------------------------
-        //SELECCION
-        selected.add(seleccion (3,200));
-        generarImagenSeleccionados(3, "CuartaGeneracion");
-        //CRUCE
-        generaciones.add(Cruce (3));
-        System.out.println("cantCruce " + generaciones.get(4).size()); //aqui se genera la imagen
-        //1.3 puntos x indivuos cercanos
-        Individuo.actPuntosCercanosGeneracion(4);
-        //1.4 actualizar fitness
-        Individuo.actualizarFitness(4);
-        
-        //QUINTA GENERACION----------------------------------------------------
-        //SELECCION
-        selected.add(seleccion (4,200));
-        generarImagenSeleccionados(4, "QuintaGeneracion");
-        //CRUCE
-        generaciones.add(Cruce (4));
-        System.out.println("cantCruce " + generaciones.get(4).size()); //aqui se genera la imagen
-        //1.3 puntos x indivuos cercanos
-        Individuo.actPuntosCercanosGeneracion(5);
-        //1.4 actualizar fitness
-        Individuo.actualizarFitness(5);
-        
-        //SEXTA GENERACION----------------------------------------------------
-        //SELECCION
-        selected.add(seleccion (5,200));
-        generarImagenSeleccionados(5, "SextaGeneracion");*/
-    }
+        generarArchivo (0);
+        generarArchivo (1);
+
+    }*/
     
     
 

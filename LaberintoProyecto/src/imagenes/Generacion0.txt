@@ -1,0 +1,693 @@
+ ------------------------
+Individuo 0
+Generado aleatoriamente en la primera generacion
+x: 12
+y: 10
+suma: 16
+Puntos: 0.04878048780487805
+------------------------
+Individuo 1
+Generado aleatoriamente en la primera generacion
+x: 40
+y: 92
+suma: 15
+Puntos: 0.04573170731707317
+------------------------
+Individuo 2
+Generado aleatoriamente en la primera generacion
+x: 72
+y: 9
+suma: 14
+Puntos: 0.042682926829268296
+------------------------
+Individuo 3
+Generado aleatoriamente en la primera generacion
+x: 47
+y: 14
+suma: 14
+Puntos: 0.042682926829268296
+------------------------
+Individuo 4
+Generado aleatoriamente en la primera generacion
+x: 43
+y: 8
+suma: 14
+Puntos: 0.042682926829268296
+------------------------
+Individuo 5
+Generado aleatoriamente en la primera generacion
+x: 49
+y: 19
+suma: 14
+Puntos: 0.042682926829268296
+------------------------
+Individuo 6
+Generado aleatoriamente en la primera generacion
+x: 21
+y: 73
+suma: 14
+Puntos: 0.042682926829268296
+------------------------
+Individuo 7
+Generado aleatoriamente en la primera generacion
+x: 24
+y: 59
+suma: 14
+Puntos: 0.042682926829268296
+------------------------
+Individuo 8
+Generado aleatoriamente en la primera generacion
+x: 22
+y: 68
+suma: 14
+Puntos: 0.042682926829268296
+------------------------
+Individuo 9
+Generado aleatoriamente en la primera generacion
+x: 47
+y: 35
+suma: 14
+Puntos: 0.042682926829268296
+------------------------
+Individuo 10
+Generado aleatoriamente en la primera generacion
+x: 35
+y: 58
+suma: 14
+Puntos: 0.042682926829268296
+------------------------
+Individuo 11
+Generado aleatoriamente en la primera generacion
+x: 19
+y: 7
+suma: 14
+Puntos: 0.042682926829268296
+------------------------
+Individuo 12
+Generado aleatoriamente en la primera generacion
+x: 36
+y: 90
+suma: 13
+Puntos: 0.039634146341463415
+------------------------
+Individuo 13
+Generado aleatoriamente en la primera generacion
+x: 16
+y: 60
+suma: 12
+Puntos: 0.036585365853658534
+------------------------
+Individuo 14
+Generado aleatoriamente en la primera generacion
+x: 14
+y: 15
+suma: 7
+Puntos: 0.021341463414634148
+------------------------
+Individuo 15
+Generado aleatoriamente en la primera generacion
+x: 46
+y: 94
+suma: 6
+Puntos: 0.018292682926829267
+------------------------
+Individuo 16
+Generado aleatoriamente en la primera generacion
+x: 41
+y: 52
+suma: 5
+Puntos: 0.01524390243902439
+------------------------
+Individuo 17
+Generado aleatoriamente en la primera generacion
+x: 0
+y: 9
+suma: 4
+Puntos: 0.012195121951219513
+------------------------
+Individuo 18
+Generado aleatoriamente en la primera generacion
+x: 32
+y: 5
+suma: 3
+Puntos: 0.009146341463414634
+------------------------
+Individuo 19
+Generado aleatoriamente en la primera generacion
+x: 12
+y: 53
+suma: 3
+Puntos: 0.009146341463414634
+------------------------
+Individuo 20
+Generado aleatoriamente en la primera generacion
+x: 33
+y: 1
+suma: 3
+Puntos: 0.009146341463414634
+------------------------
+Individuo 21
+Generado aleatoriamente en la primera generacion
+x: 43
+y: 49
+suma: 3
+Puntos: 0.009146341463414634
+------------------------
+Individuo 22
+Generado aleatoriamente en la primera generacion
+x: 20
+y: 54
+suma: 3
+Puntos: 0.009146341463414634
+------------------------
+Individuo 23
+Generado aleatoriamente en la primera generacion
+x: 32
+y: 85
+suma: 3
+Puntos: 0.009146341463414634
+------------------------
+Individuo 24
+Generado aleatoriamente en la primera generacion
+x: 38
+y: 4
+suma: 3
+Puntos: 0.009146341463414634
+------------------------
+Individuo 25
+Generado aleatoriamente en la primera generacion
+x: 33
+y: 15
+suma: 3
+Puntos: 0.009146341463414634
+------------------------
+Individuo 26
+Generado aleatoriamente en la primera generacion
+x: 24
+y: 80
+suma: 3
+Puntos: 0.009146341463414634
+------------------------
+Individuo 27
+Generado aleatoriamente en la primera generacion
+x: 18
+y: 55
+suma: 3
+Puntos: 0.009146341463414634
+------------------------
+Individuo 28
+Generado aleatoriamente en la primera generacion
+x: 17
+y: 88
+suma: 3
+Puntos: 0.009146341463414634
+------------------------
+Individuo 29
+Generado aleatoriamente en la primera generacion
+x: 45
+y: 98
+suma: 3
+Puntos: 0.009146341463414634
+------------------------
+Individuo 30
+Generado aleatoriamente en la primera generacion
+x: 75
+y: 3
+suma: 3
+Puntos: 0.009146341463414634
+------------------------
+Individuo 31
+Generado aleatoriamente en la primera generacion
+x: 28
+y: 12
+suma: 3
+Puntos: 0.009146341463414634
+------------------------
+Individuo 32
+Generado aleatoriamente en la primera generacion
+x: 57
+y: 62
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 33
+Generado aleatoriamente en la primera generacion
+x: 40
+y: 40
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 34
+Generado aleatoriamente en la primera generacion
+x: 5
+y: 75
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 35
+Generado aleatoriamente en la primera generacion
+x: 62
+y: 46
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 36
+Generado aleatoriamente en la primera generacion
+x: 15
+y: 40
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 37
+Generado aleatoriamente en la primera generacion
+x: 80
+y: 54
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 38
+Generado aleatoriamente en la primera generacion
+x: 33
+y: 32
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 39
+Generado aleatoriamente en la primera generacion
+x: 94
+y: 8
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 40
+Generado aleatoriamente en la primera generacion
+x: 5
+y: 94
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 41
+Generado aleatoriamente en la primera generacion
+x: 85
+y: 81
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 42
+Generado aleatoriamente en la primera generacion
+x: 86
+y: 68
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 43
+Generado aleatoriamente en la primera generacion
+x: 28
+y: 26
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 44
+Generado aleatoriamente en la primera generacion
+x: 3
+y: 48
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 45
+Generado aleatoriamente en la primera generacion
+x: 71
+y: 80
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 46
+Generado aleatoriamente en la primera generacion
+x: 84
+y: 77
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 47
+Generado aleatoriamente en la primera generacion
+x: 55
+y: 71
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 48
+Generado aleatoriamente en la primera generacion
+x: 59
+y: 57
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 49
+Generado aleatoriamente en la primera generacion
+x: 68
+y: 24
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 50
+Generado aleatoriamente en la primera generacion
+x: 79
+y: 90
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 51
+Generado aleatoriamente en la primera generacion
+x: 43
+y: 84
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 52
+Generado aleatoriamente en la primera generacion
+x: 78
+y: 91
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 53
+Generado aleatoriamente en la primera generacion
+x: 1
+y: 46
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 54
+Generado aleatoriamente en la primera generacion
+x: 76
+y: 82
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 55
+Generado aleatoriamente en la primera generacion
+x: 30
+y: 0
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 56
+Generado aleatoriamente en la primera generacion
+x: 11
+y: 65
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 57
+Generado aleatoriamente en la primera generacion
+x: 9
+y: 38
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 58
+Generado aleatoriamente en la primera generacion
+x: 13
+y: 74
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 59
+Generado aleatoriamente en la primera generacion
+x: 72
+y: 44
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 60
+Generado aleatoriamente en la primera generacion
+x: 10
+y: 48
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 61
+Generado aleatoriamente en la primera generacion
+x: 69
+y: 76
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 62
+Generado aleatoriamente en la primera generacion
+x: 97
+y: 37
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 63
+Generado aleatoriamente en la primera generacion
+x: 4
+y: 71
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 64
+Generado aleatoriamente en la primera generacion
+x: 70
+y: 74
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 65
+Generado aleatoriamente en la primera generacion
+x: 86
+y: 56
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 66
+Generado aleatoriamente en la primera generacion
+x: 8
+y: 68
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 67
+Generado aleatoriamente en la primera generacion
+x: 62
+y: 48
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 68
+Generado aleatoriamente en la primera generacion
+x: 91
+y: 57
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 69
+Generado aleatoriamente en la primera generacion
+x: 82
+y: 53
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 70
+Generado aleatoriamente en la primera generacion
+x: 19
+y: 48
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 71
+Generado aleatoriamente en la primera generacion
+x: 83
+y: 35
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 72
+Generado aleatoriamente en la primera generacion
+x: 71
+y: 43
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 73
+Generado aleatoriamente en la primera generacion
+x: 62
+y: 42
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 74
+Generado aleatoriamente en la primera generacion
+x: 71
+y: 50
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 75
+Generado aleatoriamente en la primera generacion
+x: 80
+y: 88
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 76
+Generado aleatoriamente en la primera generacion
+x: 8
+y: 64
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 77
+Generado aleatoriamente en la primera generacion
+x: 62
+y: 34
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 78
+Generado aleatoriamente en la primera generacion
+x: 84
+y: 32
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 79
+Generado aleatoriamente en la primera generacion
+x: 71
+y: 73
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 80
+Generado aleatoriamente en la primera generacion
+x: 63
+y: 41
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 81
+Generado aleatoriamente en la primera generacion
+x: 98
+y: 64
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 82
+Generado aleatoriamente en la primera generacion
+x: 96
+y: 15
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 83
+Generado aleatoriamente en la primera generacion
+x: 70
+y: 24
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 84
+Generado aleatoriamente en la primera generacion
+x: 93
+y: 28
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 85
+Generado aleatoriamente en la primera generacion
+x: 97
+y: 56
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 86
+Generado aleatoriamente en la primera generacion
+x: 62
+y: 70
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 87
+Generado aleatoriamente en la primera generacion
+x: 59
+y: 0
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 88
+Generado aleatoriamente en la primera generacion
+x: 96
+y: 51
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 89
+Generado aleatoriamente en la primera generacion
+x: 35
+y: 25
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 90
+Generado aleatoriamente en la primera generacion
+x: 3
+y: 71
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 91
+Generado aleatoriamente en la primera generacion
+x: 13
+y: 87
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 92
+Generado aleatoriamente en la primera generacion
+x: 22
+y: 39
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 93
+Generado aleatoriamente en la primera generacion
+x: 58
+y: 28
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 94
+Generado aleatoriamente en la primera generacion
+x: 75
+y: 91
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 95
+Generado aleatoriamente en la primera generacion
+x: 16
+y: 43
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 96
+Generado aleatoriamente en la primera generacion
+x: 79
+y: 93
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 97
+Generado aleatoriamente en la primera generacion
+x: 62
+y: 98
+suma: 1
+Puntos: 0.003048780487804878
+------------------------
+Individuo 98
+Generado aleatoriamente en la primera generacion
+x: 26
+y: 20
+suma: 1
+Puntos: 0.003048780487804878
